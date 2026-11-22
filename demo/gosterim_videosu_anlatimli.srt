@@ -1,0 +1,43 @@
+1
+00:00:00,400 --> 00:00:06,543
+Bilgisayarlı Görü: futbol videolarından anlık top hakimiyeti, pas sıklığı ve oyuncu kartları.
+
+2
+00:00:07,400 --> 00:00:17,575
+Girdi, tek kameralı bir maç videosu. Arayüzde demo seçiliyor ya da video yükleniyor; ilk karelerden forma renkleri öğrenilip takımlarla eşleniyor.
+
+3
+00:00:19,440 --> 00:00:38,565
+Her karede YOLOv8s dedektörü oyuncuları, hakemi ve topu buluyor; ByteTrack oyunculara kimlik veriyor, forma rengiyle takım atanıyor ve saha noktalarından homografi hesaplanıyor. Sol üstteki panelde top hakimiyeti, pas sayısı, dakika başına pas ve olay akışı kare kare güncelleniyor.
+
+4
+00:00:40,160 --> 00:01:11,665
+İkinci örnekte sağ alttaki taktik haritada oyuncuların ve topun metre cinsinden konumu görülüyor; kırmızı üçgen o anki top sahibini gösteriyor. Top sahibi, topun oyuncunun ayak bölgesine uzaklığıyla ve kısa bir gecikme süresiyle belirleniyor. Sahiplik aynı takımda el değiştirince pas, rakibe geçince araya girme ya da top kaybı sayılıyor; şut, orta ve top taşıma da topun hızına ve konumuna göre ayrılıyor. Tüm hat, RTX 4050 ekran kartında saniyede yaklaşık 26 kare işliyor.
+
+5
+00:01:26,760 --> 00:01:36,735
+Analiz bitince her oyuncunun eylem sıklıkları CIES yöntemindeki gibi bir vektöre dönüştürülüyor ve oyuncular sekiz teknik profilden birine ya da dengeli sınıfına atanıyor.
+
+6
+00:01:38,760 --> 00:01:55,430
+Her oyuncu için bir karakter kartı üretiliyor. Hız, hareket, pas, top sürme, savunma, hücum ve top kontrolü puanları aynı kesitteki oyunculara göre yüzdelik olarak hesaplanıyor; genel puan ise oyuncunun profiline göre ağırlıklandırılıyor.
+
+7
+00:01:56,760 --> 00:02:12,658
+Test kümesinde top tespiti, ince ayarsız modelde 0,202, ek veriyle eğitilen son modelde 0,391 AP değerine ulaştı. Top kopyala-yapıştır artırımı ise 0,309 ile geride kaldı; bu bir olumsuz sonuç.
+
+8
+00:02:13,760 --> 00:02:28,622
+Son sistem pasları 0,660 F1 ile buluyor; ancak kısa kliplerde hakimiyet yüzdesi hatası yüksek kalıyor. Son sistemde uzak kamera ve bulanıklık koşullarında top tespiti belirgin biçimde düşüyor; gece ve JPEG sıkıştırması ise az etkiliyor.
+
+9
+00:02:29,760 --> 00:02:48,135
+Başarısız örnekte yayın kamerası ve kalabalık bir ceza sahası var. Saha noktaları bulunamadığı için taktik harita çizilemiyor ve hızlar yalnızca yaklaşık hesaplanabiliyor. Top oyuncu kalabalığında kaybolduğunda sahiplik yanlış oyuncuya geçiyor; bu da hatalı pas ve top kapma olaylarına yol açıyor.
+
+10
+00:03:05,720 --> 00:03:12,829
+İncelediğimiz 30 başarısız örnekte başlıca nedenler etiket kayması, hareket bulanıklığı, elde tutulan top ve örtülme.
+
+11
+00:03:13,720 --> 00:03:18,825
+Tüm sayılar raporda ve deney kayıtlarında yer alıyor. Teşekkürler.

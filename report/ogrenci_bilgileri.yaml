@@ -1,0 +1,25 @@
+# Raporda öğrencinin doldurması gereken alanlar (kapak, ekip katkıları, yapay zekâ doğrulama notu).
+# Boş bırakılan alan raporda noktalı satır / "[Doldurunuz]" olarak kalır.
+# Doldurduktan sonra raporu yeniden üretin (proje kökünden):
+#   python report/build_report.py
+#   powershell -ExecutionPolicy Bypass -File report/to_pdf.ps1
+
+donem: ""              # ör. 2026–2027 Güz
+proje_no: ""           # dersin verdiği proje konu numarası
+ogretim_elemani: ""    # ör. Dr. Öğr. Üyesi Ad Soyad
+teslim_tarihi: ""      # ör. 29.12.2026
+baglanti: ""           # kod deposu ve/veya gösterim videosu bağlantısı
+
+# Her ekip üyesi için bir kayıt; "katki": veri, model, deney, rapor ve gösterimdeki payı.
+ekip:
+  - ad: ""
+    numara: ""
+    katki: ""
+  # - ad: ""
+  #   numara: ""
+  #   katki: ""
+
+# Yapay zekâ çıktılarının ekip tarafından nasıl doğrulandığı (ortak koşul: "Kaynak ve yapay zekâ beyanı").
+# ör. "Kod ekip tarafından yeniden çalıştırıldı; tablo değerleri results/ çıktılarıyla, 30 hata örneği görsellerle
+#      tek tek karşılaştırıldı; rapor metni okunup düzeltildi."
+ai_dogrulama: ""
