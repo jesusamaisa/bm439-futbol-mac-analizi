@@ -1,0 +1,9 @@
+  E1_coco640     7.4±1.1 ms  135.5 FPS  66 MB  11.17M param  28.8 GFLOPs
+  E1_coco1280    13.9±1.1 ms  71.8 FPS  124 MB  11.17M param  115.3 GFLOPs
+  E2_ft640       7.5±1.1 ms  133.3 FPS  108 MB  9.84M param  23.6 GFLOPs
+  E3_ft1280_cp   13.2±0.9 ms  75.6 FPS  163 MB  9.84M param  94.3 GFLOPs
+  A1_ft1280      13.5±0.9 ms  74.1 FPS  182 MB  9.84M param  94.3 GFLOPs
+  A2_ft640_cp    8.5±1.5 ms  117.8 FPS  64 MB  9.84M param  23.6 GFLOPs
+  R_hmzbo640     12.1±1.2 ms  82.9 FPS  165 MB  43.63M param  165.4 GFLOPs
+  G1_ft1280_gsr  13.2±1.0 ms  75.9 FPS  206 MB  9.84M param  94.3 GFLOPs
+  tam hat: {'pipeline_fps': 28.887839434953268, 'pipeline_ms': 34.6166421428539, 'frames': 280, 'stage_ms_detect': 13.21, 'stage_ms_track_team': 5.85, 'stage_ms_homography': 11.37, 'stage_ms_logic': 0.64, 'stage_ms_draw': 6.13, 'device': 'NVIDIA GeForce RTX 4050 Laptop GPU'}

@@ -1,0 +1,32 @@
+[i] Merkezi dizin okunuyor: https://huggingface.co/datasets/SoccerNet/SN-Tracking-2023/resolve/main/test.zip
+[i] 49 sekans bulundu
+[i] 3750 kare indirilecek (8 iþ parçacýðý)
+    200/3750
+    400/3750
+    600/3750
+    800/3750
+    1000/3750
+    1200/3750
+    1400/3750
+    1600/3750
+    1800/3750
+    2000/3750
+    2200/3750
+    2400/3750
+    2600/3750
+    2800/3750
+    3000/3750
+    3200/3750
+    3400/3750
+    3600/3750
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\muham\BilgisayarliGoru\src\bgoru\data\prepare_soccernet.py", line 214, in <module>
+    main()
+  File "C:\Users\muham\BilgisayarliGoru\src\bgoru\data\prepare_soccernet.py", line 210, in main
+    print(f"[\u2713] {k}: {v['images']} kare, {len(v['sequences'])} sekans, {len(v['games'])} oyun")
+  File "C:\Users\muham\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1254.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 1: character maps to <undefined>

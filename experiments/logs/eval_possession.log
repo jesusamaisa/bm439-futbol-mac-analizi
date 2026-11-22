@@ -1,0 +1,6 @@
+[✓] V0_E1: hakimiyet hatası=20.46 pp, kontrol uyumu=0.665, pas F1=0.474, takım=0.912 (305s)
+[✓] V1_E2: hakimiyet hatası=16.91 pp, kontrol uyumu=0.697, pas F1=0.654, takım=0.903 (226s)
+[✓] V2_E3_full: hakimiyet hatası=22.01 pp, kontrol uyumu=0.712, pas F1=0.630, takım=0.900 (293s)
+[✓] V3_E3_team_baseline: hakimiyet hatası=16.74 pp, kontrol uyumu=0.703, pas F1=0.580, takım=0.890 (64s)
+[✓] V4_E3_no_ballfill: hakimiyet hatası=22.12 pp, kontrol uyumu=0.731, pas F1=0.635, takım=0.900 (74s)
+[✓] V5_E3_no_hysteresis: hakimiyet hatası=16.11 pp, kontrol uyumu=0.774, pas F1=0.571, takım=0.900 (81s)

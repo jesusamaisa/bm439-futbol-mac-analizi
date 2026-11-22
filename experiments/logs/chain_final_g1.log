@@ -1,0 +1,8 @@
+[12:09:24] robustness (G1 eklendi; diğer modeller önbellekten)
+[12:35:27] benchmark (GPU yalnız bu işte)
+[12:37:45] eval_possession V7_G1_final
+[12:45:15] make_demo
+[12:49:51] make_figures
+[12:51:19] make_showcase
+[12:52:39] make_narration --tts
+[12:52:45] BİTTİ

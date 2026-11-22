@@ -1,0 +1,17 @@
+[i] val=900 görüntü, test=1470 görüntü, test sekans=49
+  E1_coco640: val ball AP50=0.0590 (18s)
+  E1_coco1280: val ball AP50=0.2032 (0s)
+[✓] E1 (E1_coco1280): test ball AP50=0.2022 player AP50=0.8628
+  E2_ft640: val ball AP50=0.0865 (36s)
+[✓] E2_ft640 (E2_ft640): test ball AP50=0.1585 player AP50=0.9247
+  E3_ft1280_cp: val ball AP50=0.2400 (0s)
+[✓] E3_ft1280_cp (E3_ft1280_cp): test ball AP50=0.3094 player AP50=0.9428
+  R_hmzbo640: val ball AP50=0.0095 (0s)
+  R_hmzbo1280: val ball AP50=0.0187 (0s)
+[✓] R (R_hmzbo1280): test ball AP50=0.0075 player AP50=0.5636
+         config  ball_AP50  ball_APc  ball_R  player_AP50  referee_AP50   mAP50  mAP50_95
+0            E1     0.2022    0.4575  0.2646       0.8628           NaN  0.5325    0.2824
+1      E2_ft640     0.1585    0.4367  0.2325       0.9247        0.6862  0.5898    0.3309
+2  E3_ft1280_cp     0.3094    0.6908  0.4189       0.9428        0.6834  0.6452    0.3701
+3             R     0.0075    0.0353  0.0307       0.5636        0.0759  0.2157    0.0915
+{'E3_ft1280_cp - E2_ft640': {'mean': 0.14972171134974188, 'lo': 0.12660230268259676, 'hi': 0.17978039052968844, 'p_le_0': 0.0}, 'E2_ft640 - E1': {'mean': -0.03998286679832321, 'lo': -0.0698380580166535, 'hi': -0.003950221958780939, 'p_le_0': 0.995}}

@@ -1,0 +1,18 @@
+id: C1_ft1280_ep50
+description: "Kontrol: A1 verisi, G1 ile esit adim (50 epoch; 1950 x 50 ~ 4850 x 20 kare)"
+model: yolov8s.pt        # COCO on-egitimli YOLOv8s (Ultralytics)
+data: soccernet
+imgsz: 1280
+epochs: 50               # G1 ile esit gradyan adimi: 488 x 50 = 24 400 ~ 1213 x 20 = 24 260 iterasyon
+batch: 4               # nbs=64 ile gradyan biriktirme -> etkin batch 64 (tum deneylerde ayni)
+nbs: 64
+optimizer: SGD
+lr0: 0.01
+seed: 0
+deterministic: true
+cache: false            # Windows: RAM onbellegi isci sureclerine kopyalandigi icin kapali
+workers: 4
+patience: 100            # erken durdurma kapali (sabit butce)
+# Cizelge oranlari A1/G1 ile ayni tutulur (varsayilan 3 ve 10 epoch, 20 epoch'un %15'i ve %50'si):
+warmup_epochs: 7.5       # ~3660 isinma iterasyonu (G1: 3 x 1213 = 3639)
+close_mosaic: 25         # son %50'de mozaik kapali (G1: son 10/20 epoch)

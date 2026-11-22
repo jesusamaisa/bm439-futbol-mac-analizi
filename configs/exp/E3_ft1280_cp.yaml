@@ -1,0 +1,15 @@
+id: E3_ft1280_cp
+description: "Onerilen: 1280 px + top kopyala-yapistir"
+model: yolov8s.pt        # COCO on-egitimli YOLOv8s (Ultralytics)
+data: soccernet_cp
+imgsz: 1280
+epochs: 20               # sabit egitim butcesi (tum deneylerde ayni)
+batch: 4               # nbs=64 ile gradyan biriktirme -> etkin batch 64 (tum deneylerde ayni)
+nbs: 64
+optimizer: SGD
+lr0: 0.01
+seed: 0
+deterministic: true
+cache: false            # Windows: RAM onbellegi isci sureclerine kopyalandigi icin kapali
+workers: 4
+patience: 100            # erken durdurma kapali (sabit butce)

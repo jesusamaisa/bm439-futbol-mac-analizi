@@ -1,0 +1,8 @@
+names:
+  0: player
+  1: referee
+  2: ball
+path: C:\Users\muham\BilgisayarliGoru\data\soccernet
+test: images/test
+train: images/train
+val: images/val

@@ -1,0 +1,2 @@
+# Kabuk betikleri Windows'ta da LF satır sonuyla çıkarılsın (bash, CRLF satır sonlu betikte hata verir)
+*.sh text eol=lf

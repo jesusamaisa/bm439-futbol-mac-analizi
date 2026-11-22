@@ -1,0 +1,16 @@
+[23:49:44] eğitimler
+[skip] E3_ft1280_cp
+[skip] E2_ft640
+[skip] A1_ft1280
+[00:04:50] zincir
+[00:04:50] eval_detector (tüm modeller, 1000 bootstrap)
+[00:09:06] robustness (eksik modeller)
+[01:18:40] benchmark (GPU yalnız bu işte)
+[01:20:20] failure_cases
+[01:20:34] make_demo
+[01:26:55] make_figures
+[01:27:14] make_showcase
+[01:28:29] cli env
+[01:28:46] rapor
+[01:29:01] BİTTİ
+[01:29:01] TUM_ISLER_BITTI

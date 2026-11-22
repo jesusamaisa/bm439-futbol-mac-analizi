@@ -1,0 +1,38 @@
+  E1_coco1280    clean     ball AP50=0.2022 R=0.265 player AP50=0.8628 (15s)
+  E1_coco1280    night     ball AP50=0.1915 R=0.216 player AP50=0.8638 (3s)
+  E1_coco1280    blur      ball AP50=0.0515 R=0.100 player AP50=0.7356 (4s)
+  E1_coco1280    jpeg      ball AP50=0.1510 R=0.162 player AP50=0.8477 (4s)
+  E1_coco1280    far_half  ball AP50=0.0974 R=0.091 player AP50=0.8451 (3s)
+  E2_ft640       clean     ball AP50=0.1585 R=0.232 player AP50=0.9247 (1s)
+  E2_ft640       night     ball AP50=0.0827 R=0.088 player AP50=0.8783 (1s)
+  E2_ft640       blur      ball AP50=0.0952 R=0.144 player AP50=0.6385 (3s)
+  E2_ft640       jpeg      ball AP50=0.1427 R=0.197 player AP50=0.9214 (2s)
+  E2_ft640       far_half  ball AP50=0.0133 R=0.029 player AP50=0.7602 (2s)
+  E3_ft1280_cp   clean     ball AP50=0.3094 R=0.419 player AP50=0.9428 (2s)
+  E3_ft1280_cp   night     ball AP50=0.2624 R=0.336 player AP50=0.8963 (1s)
+  E3_ft1280_cp   blur      ball AP50=0.0866 R=0.118 player AP50=0.7599 (2s)
+  E3_ft1280_cp   jpeg      ball AP50=0.1905 R=0.322 player AP50=0.9337 (2s)
+  E3_ft1280_cp   far_half  ball AP50=0.1394 R=0.192 player AP50=0.8930 (1s)
+  A1_ft1280      clean     ball AP50=0.3535 R=0.431 player AP50=0.9390 (2s)
+  A1_ft1280      night     ball AP50=0.2415 R=0.265 player AP50=0.9105 (1s)
+  A1_ft1280      blur      ball AP50=0.1874 R=0.186 player AP50=0.7626 (2s)
+  A1_ft1280      jpeg      ball AP50=0.3282 R=0.388 player AP50=0.9328 (2s)
+  A1_ft1280      far_half  ball AP50=0.1754 R=0.175 player AP50=0.8832 (2s)
+  A2_ft640_cp    clean     ball AP50=0.1495 R=0.226 player AP50=0.9143 (2s)
+  A2_ft640_cp    night     ball AP50=0.1129 R=0.117 player AP50=0.8667 (1s)
+  A2_ft640_cp    blur      ball AP50=0.0528 R=0.107 player AP50=0.6207 (3s)
+  A2_ft640_cp    jpeg      ball AP50=0.0897 R=0.187 player AP50=0.9186 (2s)
+  A2_ft640_cp    far_half  ball AP50=0.0122 R=0.039 player AP50=0.7785 (2s)
+  G1_ft1280_gsr  clean     ball AP50=0.3911 R=0.434 player AP50=0.9663 (2s)
+  G1_ft1280_gsr  night     ball AP50=0.3361 R=0.356 player AP50=0.9471 (841s)
+  G1_ft1280_gsr  blur      ball AP50=0.1793 R=0.182 player AP50=0.8221 (501s)
+  G1_ft1280_gsr  jpeg      ball AP50=0.3513 R=0.388 player AP50=0.9598 (90s)
+  G1_ft1280_gsr  far_half  ball AP50=0.1779 R=0.159 player AP50=0.9456 (62s)
+condition        blur   clean  far_half    jpeg   night
+model                                                  
+A1_ft1280      0.1874  0.3535    0.1754  0.3282  0.2415
+A2_ft640_cp    0.0528  0.1495    0.0122  0.0897  0.1129
+E1_coco1280    0.0515  0.2022    0.0974  0.1510  0.1915
+E2_ft640       0.0952  0.1585    0.0133  0.1427  0.0827
+E3_ft1280_cp   0.0866  0.3094    0.1394  0.1905  0.2624
+G1_ft1280_gsr  0.1793  0.3911    0.1779  0.3513  0.3361

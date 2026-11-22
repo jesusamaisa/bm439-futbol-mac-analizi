@@ -1,0 +1,14 @@
+[✓] A1_ft1280: val top AP50=0.3133  test top AP50=0.3535
+[✓] A1_ft1280_s1: val top AP50=0.3323  test top AP50=0.3518
+[✓] G1_ft1280_gsr: val top AP50=0.3585  test top AP50=0.3911
+[✓] C1_ft1280_ep50: val top AP50=0.3194  test top AP50=0.3471
+      model_id                                      label  val_ball_AP50  val_mAP50_95  ball_AP50  ball_APc  player_AP50  referee_AP50  mAP50_95
+     A1_ft1280                               A1 (tohum 0)         0.3133        0.4214     0.3535    0.6891       0.9390        0.6994    0.3859
+  A1_ft1280_s1                               A1 (tohum 1)         0.3323        0.4250     0.3518    0.7125       0.9476        0.7011    0.3883
+ G1_ft1280_gsr                    G1 = A1 + GSR (tohum 0)         0.3585        0.4435     0.3911    0.7231       0.9663        0.9295    0.4551
+C1_ft1280_ep50 C1 = A1, 50 epoch (adım eşleşmeli kontrol)         0.3194        0.4281     0.3471    0.6802       0.9431        0.6876    0.3866
+G1 - A1 (tohum 0): +0.0375 [%95 GA +0.0122; +0.0642]  P(≤0)=0.003
+G1 - A1 tohum ortalaması: +0.0380 [%95 GA +0.0191; +0.0599]  P(≤0)=0.000
+A1 tohum 1 - tohum 0 (eğitim varyansı): -0.0010 [%95 GA -0.0245; +0.0240]  P(≤0)=0.533
+G1 - C1 (eşit adımda ek veri etkisi): +0.0437 [%95 GA +0.0206; +0.0666]  P(≤0)=0.000
+C1 - A1 (daha uzun eğitim etkisi): -0.0062 [%95 GA -0.0245; +0.0130]  P(≤0)=0.756

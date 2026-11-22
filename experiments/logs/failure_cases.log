@@ -1,0 +1,13 @@
+[✓] 30 başarısız örnek; toplam aday sayıları: {'ball_FN': 795, 'ball_FP': 584, 'player_FN': 1552, 'ball_FP_near_gt_ball': 376}
+type       auto_category                                            
+ball_FN    Etiket ötelemesi (eşik üstü tahmin yakında, IoU<0.5)         1
+           Eşik altında tespit (düşük güven)                            3
+           Karmaşık arka plan / diğer                                   1
+           Konum/kutu hatası (IoU<0.5)                                  3
+           Oyuncuyla örtüşme / ayak temasında                           3
+           Saha dışı / tribün önünde                                    1
+ball_FP    Etiket ötelemesi (tahmin topun üstünde, GT kutusu kaymış)    6
+           Oyuncu parçası (ayak/kafa/ayakkabı)                          1
+           Topa benzer nesne (yedek top, krampon, çizgi kesişimi)       1
+player_FN  Örtülme (oyuncu kalabalığı)                                  4
+team       Takım ataması hatası                                         6

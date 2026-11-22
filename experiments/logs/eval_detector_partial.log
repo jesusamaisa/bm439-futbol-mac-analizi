@@ -1,0 +1,14 @@
+[i] val=900 görüntü, test=1470 görüntü, test sekans=49
+  E1_coco640: val ball AP50=0.0590 (65s)
+  E1_coco1280: val ball AP50=0.2032 (96s)
+[✓] E1 (E1_coco1280): test ball AP50=0.2022 player AP50=0.8628
+  E3_ft1280_cp: val ball AP50=0.2400 (105s)
+[✓] E3_ft1280_cp (E3_ft1280_cp): test ball AP50=0.3094 player AP50=0.9428
+  R_hmzbo640: val ball AP50=0.0095 (55s)
+  R_hmzbo1280: val ball AP50=0.0187 (108s)
+[✓] R (R_hmzbo1280): test ball AP50=0.0075 player AP50=0.5636
+         config  ball_AP50  ball_R  player_AP50  referee_AP50   mAP50  mAP50_95
+0            E1     0.2022  0.2646       0.8628           NaN  0.5325    0.2824
+1  E3_ft1280_cp     0.3094  0.4189       0.9428        0.6834  0.6452    0.3701
+2             R     0.0075  0.0307       0.5636        0.0759  0.2157    0.0915
+{}

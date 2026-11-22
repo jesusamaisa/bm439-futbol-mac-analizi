@@ -1,0 +1,2 @@
+  E1_coco1280    clean     ball AP50=0.2022 R=0.265 player AP50=0.8628 (9s)
+  E1_coco1280    night     ball AP50=0.1915 R=0.216 player AP50=0.8638 (416s)
