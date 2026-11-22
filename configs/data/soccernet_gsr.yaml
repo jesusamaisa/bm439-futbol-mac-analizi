@@ -1,0 +1,9 @@
+# SoccerNet-Tracking eğitim kümesi + SoccerNet-GSR-2025 'valid' ayrımından 58 klip (oyun 2, 3, 5; yeni maçlar).
+# bgoru.data.prepare_gsr ile üretilir; test/doğrulama maçlarıyla kesişmediği leak_check.json'da doğrulanır.
+# Doğrulama ve test kümeleri değişmez (aynı protokol).
+path: data/soccernet
+train:
+  - images/train                       # SoccerNet-Tracking train (oyun 6, 9)
+  - ../soccernet_gsr/images/train      # SoccerNet-GSR valid (oyun 2, 3, 5)
+val: images/val       # oyun 4 (değişmez)
+test: images/test     # oyun 7, 8, 11 (dokunulmaz)

@@ -1,0 +1,5 @@
+# Top kopyala-yapıştır artırımlı eğitim kümesi (bgoru.data.copy_paste). val/test değişmez.
+path: data/soccernet_cp
+train: images/train
+val: ../soccernet/images/val
+test: ../soccernet/images/test

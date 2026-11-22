@@ -1,0 +1,2901 @@
+image,sequence,gameID,frame,split,actionClass
+images/train/SNGS-021_000001.jpg,SNGS-021,2,1,train_gsr,Kick-off
+images/train/SNGS-021_000016.jpg,SNGS-021,2,16,train_gsr,Kick-off
+images/train/SNGS-021_000031.jpg,SNGS-021,2,31,train_gsr,Kick-off
+images/train/SNGS-021_000046.jpg,SNGS-021,2,46,train_gsr,Kick-off
+images/train/SNGS-021_000061.jpg,SNGS-021,2,61,train_gsr,Kick-off
+images/train/SNGS-021_000076.jpg,SNGS-021,2,76,train_gsr,Kick-off
+images/train/SNGS-021_000091.jpg,SNGS-021,2,91,train_gsr,Kick-off
+images/train/SNGS-021_000106.jpg,SNGS-021,2,106,train_gsr,Kick-off
+images/train/SNGS-021_000121.jpg,SNGS-021,2,121,train_gsr,Kick-off
+images/train/SNGS-021_000136.jpg,SNGS-021,2,136,train_gsr,Kick-off
+images/train/SNGS-021_000151.jpg,SNGS-021,2,151,train_gsr,Kick-off
+images/train/SNGS-021_000166.jpg,SNGS-021,2,166,train_gsr,Kick-off
+images/train/SNGS-021_000181.jpg,SNGS-021,2,181,train_gsr,Kick-off
+images/train/SNGS-021_000196.jpg,SNGS-021,2,196,train_gsr,Kick-off
+images/train/SNGS-021_000211.jpg,SNGS-021,2,211,train_gsr,Kick-off
+images/train/SNGS-021_000226.jpg,SNGS-021,2,226,train_gsr,Kick-off
+images/train/SNGS-021_000241.jpg,SNGS-021,2,241,train_gsr,Kick-off
+images/train/SNGS-021_000256.jpg,SNGS-021,2,256,train_gsr,Kick-off
+images/train/SNGS-021_000271.jpg,SNGS-021,2,271,train_gsr,Kick-off
+images/train/SNGS-021_000286.jpg,SNGS-021,2,286,train_gsr,Kick-off
+images/train/SNGS-021_000301.jpg,SNGS-021,2,301,train_gsr,Kick-off
+images/train/SNGS-021_000316.jpg,SNGS-021,2,316,train_gsr,Kick-off
+images/train/SNGS-021_000331.jpg,SNGS-021,2,331,train_gsr,Kick-off
+images/train/SNGS-021_000346.jpg,SNGS-021,2,346,train_gsr,Kick-off
+images/train/SNGS-021_000361.jpg,SNGS-021,2,361,train_gsr,Kick-off
+images/train/SNGS-021_000376.jpg,SNGS-021,2,376,train_gsr,Kick-off
+images/train/SNGS-021_000391.jpg,SNGS-021,2,391,train_gsr,Kick-off
+images/train/SNGS-021_000406.jpg,SNGS-021,2,406,train_gsr,Kick-off
+images/train/SNGS-021_000421.jpg,SNGS-021,2,421,train_gsr,Kick-off
+images/train/SNGS-021_000436.jpg,SNGS-021,2,436,train_gsr,Kick-off
+images/train/SNGS-021_000451.jpg,SNGS-021,2,451,train_gsr,Kick-off
+images/train/SNGS-021_000466.jpg,SNGS-021,2,466,train_gsr,Kick-off
+images/train/SNGS-021_000481.jpg,SNGS-021,2,481,train_gsr,Kick-off
+images/train/SNGS-021_000496.jpg,SNGS-021,2,496,train_gsr,Kick-off
+images/train/SNGS-021_000511.jpg,SNGS-021,2,511,train_gsr,Kick-off
+images/train/SNGS-021_000526.jpg,SNGS-021,2,526,train_gsr,Kick-off
+images/train/SNGS-021_000541.jpg,SNGS-021,2,541,train_gsr,Kick-off
+images/train/SNGS-021_000556.jpg,SNGS-021,2,556,train_gsr,Kick-off
+images/train/SNGS-021_000571.jpg,SNGS-021,2,571,train_gsr,Kick-off
+images/train/SNGS-021_000586.jpg,SNGS-021,2,586,train_gsr,Kick-off
+images/train/SNGS-021_000601.jpg,SNGS-021,2,601,train_gsr,Kick-off
+images/train/SNGS-021_000616.jpg,SNGS-021,2,616,train_gsr,Kick-off
+images/train/SNGS-021_000631.jpg,SNGS-021,2,631,train_gsr,Kick-off
+images/train/SNGS-021_000646.jpg,SNGS-021,2,646,train_gsr,Kick-off
+images/train/SNGS-021_000661.jpg,SNGS-021,2,661,train_gsr,Kick-off
+images/train/SNGS-021_000676.jpg,SNGS-021,2,676,train_gsr,Kick-off
+images/train/SNGS-021_000691.jpg,SNGS-021,2,691,train_gsr,Kick-off
+images/train/SNGS-021_000706.jpg,SNGS-021,2,706,train_gsr,Kick-off
+images/train/SNGS-021_000721.jpg,SNGS-021,2,721,train_gsr,Kick-off
+images/train/SNGS-021_000736.jpg,SNGS-021,2,736,train_gsr,Kick-off
+images/train/SNGS-022_000001.jpg,SNGS-022,2,1,train_gsr,Foul
+images/train/SNGS-022_000016.jpg,SNGS-022,2,16,train_gsr,Foul
+images/train/SNGS-022_000031.jpg,SNGS-022,2,31,train_gsr,Foul
+images/train/SNGS-022_000046.jpg,SNGS-022,2,46,train_gsr,Foul
+images/train/SNGS-022_000061.jpg,SNGS-022,2,61,train_gsr,Foul
+images/train/SNGS-022_000076.jpg,SNGS-022,2,76,train_gsr,Foul
+images/train/SNGS-022_000091.jpg,SNGS-022,2,91,train_gsr,Foul
+images/train/SNGS-022_000106.jpg,SNGS-022,2,106,train_gsr,Foul
+images/train/SNGS-022_000121.jpg,SNGS-022,2,121,train_gsr,Foul
+images/train/SNGS-022_000136.jpg,SNGS-022,2,136,train_gsr,Foul
+images/train/SNGS-022_000151.jpg,SNGS-022,2,151,train_gsr,Foul
+images/train/SNGS-022_000166.jpg,SNGS-022,2,166,train_gsr,Foul
+images/train/SNGS-022_000181.jpg,SNGS-022,2,181,train_gsr,Foul
+images/train/SNGS-022_000196.jpg,SNGS-022,2,196,train_gsr,Foul
+images/train/SNGS-022_000211.jpg,SNGS-022,2,211,train_gsr,Foul
+images/train/SNGS-022_000226.jpg,SNGS-022,2,226,train_gsr,Foul
+images/train/SNGS-022_000241.jpg,SNGS-022,2,241,train_gsr,Foul
+images/train/SNGS-022_000256.jpg,SNGS-022,2,256,train_gsr,Foul
+images/train/SNGS-022_000271.jpg,SNGS-022,2,271,train_gsr,Foul
+images/train/SNGS-022_000286.jpg,SNGS-022,2,286,train_gsr,Foul
+images/train/SNGS-022_000301.jpg,SNGS-022,2,301,train_gsr,Foul
+images/train/SNGS-022_000316.jpg,SNGS-022,2,316,train_gsr,Foul
+images/train/SNGS-022_000331.jpg,SNGS-022,2,331,train_gsr,Foul
+images/train/SNGS-022_000346.jpg,SNGS-022,2,346,train_gsr,Foul
+images/train/SNGS-022_000361.jpg,SNGS-022,2,361,train_gsr,Foul
+images/train/SNGS-022_000376.jpg,SNGS-022,2,376,train_gsr,Foul
+images/train/SNGS-022_000391.jpg,SNGS-022,2,391,train_gsr,Foul
+images/train/SNGS-022_000406.jpg,SNGS-022,2,406,train_gsr,Foul
+images/train/SNGS-022_000421.jpg,SNGS-022,2,421,train_gsr,Foul
+images/train/SNGS-022_000436.jpg,SNGS-022,2,436,train_gsr,Foul
+images/train/SNGS-022_000451.jpg,SNGS-022,2,451,train_gsr,Foul
+images/train/SNGS-022_000466.jpg,SNGS-022,2,466,train_gsr,Foul
+images/train/SNGS-022_000481.jpg,SNGS-022,2,481,train_gsr,Foul
+images/train/SNGS-022_000496.jpg,SNGS-022,2,496,train_gsr,Foul
+images/train/SNGS-022_000511.jpg,SNGS-022,2,511,train_gsr,Foul
+images/train/SNGS-022_000526.jpg,SNGS-022,2,526,train_gsr,Foul
+images/train/SNGS-022_000541.jpg,SNGS-022,2,541,train_gsr,Foul
+images/train/SNGS-022_000556.jpg,SNGS-022,2,556,train_gsr,Foul
+images/train/SNGS-022_000571.jpg,SNGS-022,2,571,train_gsr,Foul
+images/train/SNGS-022_000586.jpg,SNGS-022,2,586,train_gsr,Foul
+images/train/SNGS-022_000601.jpg,SNGS-022,2,601,train_gsr,Foul
+images/train/SNGS-022_000616.jpg,SNGS-022,2,616,train_gsr,Foul
+images/train/SNGS-022_000631.jpg,SNGS-022,2,631,train_gsr,Foul
+images/train/SNGS-022_000646.jpg,SNGS-022,2,646,train_gsr,Foul
+images/train/SNGS-022_000661.jpg,SNGS-022,2,661,train_gsr,Foul
+images/train/SNGS-022_000676.jpg,SNGS-022,2,676,train_gsr,Foul
+images/train/SNGS-022_000691.jpg,SNGS-022,2,691,train_gsr,Foul
+images/train/SNGS-022_000706.jpg,SNGS-022,2,706,train_gsr,Foul
+images/train/SNGS-022_000721.jpg,SNGS-022,2,721,train_gsr,Foul
+images/train/SNGS-022_000736.jpg,SNGS-022,2,736,train_gsr,Foul
+images/train/SNGS-023_000001.jpg,SNGS-023,2,1,train_gsr,Offside
+images/train/SNGS-023_000016.jpg,SNGS-023,2,16,train_gsr,Offside
+images/train/SNGS-023_000031.jpg,SNGS-023,2,31,train_gsr,Offside
+images/train/SNGS-023_000046.jpg,SNGS-023,2,46,train_gsr,Offside
+images/train/SNGS-023_000061.jpg,SNGS-023,2,61,train_gsr,Offside
+images/train/SNGS-023_000076.jpg,SNGS-023,2,76,train_gsr,Offside
+images/train/SNGS-023_000091.jpg,SNGS-023,2,91,train_gsr,Offside
+images/train/SNGS-023_000106.jpg,SNGS-023,2,106,train_gsr,Offside
+images/train/SNGS-023_000121.jpg,SNGS-023,2,121,train_gsr,Offside
+images/train/SNGS-023_000136.jpg,SNGS-023,2,136,train_gsr,Offside
+images/train/SNGS-023_000151.jpg,SNGS-023,2,151,train_gsr,Offside
+images/train/SNGS-023_000166.jpg,SNGS-023,2,166,train_gsr,Offside
+images/train/SNGS-023_000181.jpg,SNGS-023,2,181,train_gsr,Offside
+images/train/SNGS-023_000196.jpg,SNGS-023,2,196,train_gsr,Offside
+images/train/SNGS-023_000211.jpg,SNGS-023,2,211,train_gsr,Offside
+images/train/SNGS-023_000226.jpg,SNGS-023,2,226,train_gsr,Offside
+images/train/SNGS-023_000241.jpg,SNGS-023,2,241,train_gsr,Offside
+images/train/SNGS-023_000256.jpg,SNGS-023,2,256,train_gsr,Offside
+images/train/SNGS-023_000271.jpg,SNGS-023,2,271,train_gsr,Offside
+images/train/SNGS-023_000286.jpg,SNGS-023,2,286,train_gsr,Offside
+images/train/SNGS-023_000301.jpg,SNGS-023,2,301,train_gsr,Offside
+images/train/SNGS-023_000316.jpg,SNGS-023,2,316,train_gsr,Offside
+images/train/SNGS-023_000331.jpg,SNGS-023,2,331,train_gsr,Offside
+images/train/SNGS-023_000346.jpg,SNGS-023,2,346,train_gsr,Offside
+images/train/SNGS-023_000361.jpg,SNGS-023,2,361,train_gsr,Offside
+images/train/SNGS-023_000376.jpg,SNGS-023,2,376,train_gsr,Offside
+images/train/SNGS-023_000391.jpg,SNGS-023,2,391,train_gsr,Offside
+images/train/SNGS-023_000406.jpg,SNGS-023,2,406,train_gsr,Offside
+images/train/SNGS-023_000421.jpg,SNGS-023,2,421,train_gsr,Offside
+images/train/SNGS-023_000436.jpg,SNGS-023,2,436,train_gsr,Offside
+images/train/SNGS-023_000451.jpg,SNGS-023,2,451,train_gsr,Offside
+images/train/SNGS-023_000466.jpg,SNGS-023,2,466,train_gsr,Offside
+images/train/SNGS-023_000481.jpg,SNGS-023,2,481,train_gsr,Offside
+images/train/SNGS-023_000496.jpg,SNGS-023,2,496,train_gsr,Offside
+images/train/SNGS-023_000511.jpg,SNGS-023,2,511,train_gsr,Offside
+images/train/SNGS-023_000526.jpg,SNGS-023,2,526,train_gsr,Offside
+images/train/SNGS-023_000541.jpg,SNGS-023,2,541,train_gsr,Offside
+images/train/SNGS-023_000556.jpg,SNGS-023,2,556,train_gsr,Offside
+images/train/SNGS-023_000571.jpg,SNGS-023,2,571,train_gsr,Offside
+images/train/SNGS-023_000586.jpg,SNGS-023,2,586,train_gsr,Offside
+images/train/SNGS-023_000601.jpg,SNGS-023,2,601,train_gsr,Offside
+images/train/SNGS-023_000616.jpg,SNGS-023,2,616,train_gsr,Offside
+images/train/SNGS-023_000631.jpg,SNGS-023,2,631,train_gsr,Offside
+images/train/SNGS-023_000646.jpg,SNGS-023,2,646,train_gsr,Offside
+images/train/SNGS-023_000661.jpg,SNGS-023,2,661,train_gsr,Offside
+images/train/SNGS-023_000676.jpg,SNGS-023,2,676,train_gsr,Offside
+images/train/SNGS-023_000691.jpg,SNGS-023,2,691,train_gsr,Offside
+images/train/SNGS-023_000706.jpg,SNGS-023,2,706,train_gsr,Offside
+images/train/SNGS-023_000721.jpg,SNGS-023,2,721,train_gsr,Offside
+images/train/SNGS-023_000736.jpg,SNGS-023,2,736,train_gsr,Offside
+images/train/SNGS-024_000001.jpg,SNGS-024,2,1,train_gsr,Clearance
+images/train/SNGS-024_000016.jpg,SNGS-024,2,16,train_gsr,Clearance
+images/train/SNGS-024_000031.jpg,SNGS-024,2,31,train_gsr,Clearance
+images/train/SNGS-024_000046.jpg,SNGS-024,2,46,train_gsr,Clearance
+images/train/SNGS-024_000061.jpg,SNGS-024,2,61,train_gsr,Clearance
+images/train/SNGS-024_000076.jpg,SNGS-024,2,76,train_gsr,Clearance
+images/train/SNGS-024_000091.jpg,SNGS-024,2,91,train_gsr,Clearance
+images/train/SNGS-024_000106.jpg,SNGS-024,2,106,train_gsr,Clearance
+images/train/SNGS-024_000121.jpg,SNGS-024,2,121,train_gsr,Clearance
+images/train/SNGS-024_000136.jpg,SNGS-024,2,136,train_gsr,Clearance
+images/train/SNGS-024_000151.jpg,SNGS-024,2,151,train_gsr,Clearance
+images/train/SNGS-024_000166.jpg,SNGS-024,2,166,train_gsr,Clearance
+images/train/SNGS-024_000181.jpg,SNGS-024,2,181,train_gsr,Clearance
+images/train/SNGS-024_000196.jpg,SNGS-024,2,196,train_gsr,Clearance
+images/train/SNGS-024_000211.jpg,SNGS-024,2,211,train_gsr,Clearance
+images/train/SNGS-024_000226.jpg,SNGS-024,2,226,train_gsr,Clearance
+images/train/SNGS-024_000241.jpg,SNGS-024,2,241,train_gsr,Clearance
+images/train/SNGS-024_000256.jpg,SNGS-024,2,256,train_gsr,Clearance
+images/train/SNGS-024_000271.jpg,SNGS-024,2,271,train_gsr,Clearance
+images/train/SNGS-024_000286.jpg,SNGS-024,2,286,train_gsr,Clearance
+images/train/SNGS-024_000301.jpg,SNGS-024,2,301,train_gsr,Clearance
+images/train/SNGS-024_000316.jpg,SNGS-024,2,316,train_gsr,Clearance
+images/train/SNGS-024_000331.jpg,SNGS-024,2,331,train_gsr,Clearance
+images/train/SNGS-024_000346.jpg,SNGS-024,2,346,train_gsr,Clearance
+images/train/SNGS-024_000361.jpg,SNGS-024,2,361,train_gsr,Clearance
+images/train/SNGS-024_000376.jpg,SNGS-024,2,376,train_gsr,Clearance
+images/train/SNGS-024_000391.jpg,SNGS-024,2,391,train_gsr,Clearance
+images/train/SNGS-024_000406.jpg,SNGS-024,2,406,train_gsr,Clearance
+images/train/SNGS-024_000421.jpg,SNGS-024,2,421,train_gsr,Clearance
+images/train/SNGS-024_000436.jpg,SNGS-024,2,436,train_gsr,Clearance
+images/train/SNGS-024_000451.jpg,SNGS-024,2,451,train_gsr,Clearance
+images/train/SNGS-024_000466.jpg,SNGS-024,2,466,train_gsr,Clearance
+images/train/SNGS-024_000481.jpg,SNGS-024,2,481,train_gsr,Clearance
+images/train/SNGS-024_000496.jpg,SNGS-024,2,496,train_gsr,Clearance
+images/train/SNGS-024_000511.jpg,SNGS-024,2,511,train_gsr,Clearance
+images/train/SNGS-024_000526.jpg,SNGS-024,2,526,train_gsr,Clearance
+images/train/SNGS-024_000541.jpg,SNGS-024,2,541,train_gsr,Clearance
+images/train/SNGS-024_000556.jpg,SNGS-024,2,556,train_gsr,Clearance
+images/train/SNGS-024_000571.jpg,SNGS-024,2,571,train_gsr,Clearance
+images/train/SNGS-024_000586.jpg,SNGS-024,2,586,train_gsr,Clearance
+images/train/SNGS-024_000601.jpg,SNGS-024,2,601,train_gsr,Clearance
+images/train/SNGS-024_000616.jpg,SNGS-024,2,616,train_gsr,Clearance
+images/train/SNGS-024_000631.jpg,SNGS-024,2,631,train_gsr,Clearance
+images/train/SNGS-024_000646.jpg,SNGS-024,2,646,train_gsr,Clearance
+images/train/SNGS-024_000661.jpg,SNGS-024,2,661,train_gsr,Clearance
+images/train/SNGS-024_000676.jpg,SNGS-024,2,676,train_gsr,Clearance
+images/train/SNGS-024_000691.jpg,SNGS-024,2,691,train_gsr,Clearance
+images/train/SNGS-024_000706.jpg,SNGS-024,2,706,train_gsr,Clearance
+images/train/SNGS-024_000721.jpg,SNGS-024,2,721,train_gsr,Clearance
+images/train/SNGS-024_000736.jpg,SNGS-024,2,736,train_gsr,Clearance
+images/train/SNGS-025_000001.jpg,SNGS-025,2,1,train_gsr,Corner
+images/train/SNGS-025_000016.jpg,SNGS-025,2,16,train_gsr,Corner
+images/train/SNGS-025_000031.jpg,SNGS-025,2,31,train_gsr,Corner
+images/train/SNGS-025_000046.jpg,SNGS-025,2,46,train_gsr,Corner
+images/train/SNGS-025_000061.jpg,SNGS-025,2,61,train_gsr,Corner
+images/train/SNGS-025_000076.jpg,SNGS-025,2,76,train_gsr,Corner
+images/train/SNGS-025_000091.jpg,SNGS-025,2,91,train_gsr,Corner
+images/train/SNGS-025_000106.jpg,SNGS-025,2,106,train_gsr,Corner
+images/train/SNGS-025_000121.jpg,SNGS-025,2,121,train_gsr,Corner
+images/train/SNGS-025_000136.jpg,SNGS-025,2,136,train_gsr,Corner
+images/train/SNGS-025_000151.jpg,SNGS-025,2,151,train_gsr,Corner
+images/train/SNGS-025_000166.jpg,SNGS-025,2,166,train_gsr,Corner
+images/train/SNGS-025_000181.jpg,SNGS-025,2,181,train_gsr,Corner
+images/train/SNGS-025_000196.jpg,SNGS-025,2,196,train_gsr,Corner
+images/train/SNGS-025_000211.jpg,SNGS-025,2,211,train_gsr,Corner
+images/train/SNGS-025_000226.jpg,SNGS-025,2,226,train_gsr,Corner
+images/train/SNGS-025_000241.jpg,SNGS-025,2,241,train_gsr,Corner
+images/train/SNGS-025_000256.jpg,SNGS-025,2,256,train_gsr,Corner
+images/train/SNGS-025_000271.jpg,SNGS-025,2,271,train_gsr,Corner
+images/train/SNGS-025_000286.jpg,SNGS-025,2,286,train_gsr,Corner
+images/train/SNGS-025_000301.jpg,SNGS-025,2,301,train_gsr,Corner
+images/train/SNGS-025_000316.jpg,SNGS-025,2,316,train_gsr,Corner
+images/train/SNGS-025_000331.jpg,SNGS-025,2,331,train_gsr,Corner
+images/train/SNGS-025_000346.jpg,SNGS-025,2,346,train_gsr,Corner
+images/train/SNGS-025_000361.jpg,SNGS-025,2,361,train_gsr,Corner
+images/train/SNGS-025_000376.jpg,SNGS-025,2,376,train_gsr,Corner
+images/train/SNGS-025_000391.jpg,SNGS-025,2,391,train_gsr,Corner
+images/train/SNGS-025_000406.jpg,SNGS-025,2,406,train_gsr,Corner
+images/train/SNGS-025_000421.jpg,SNGS-025,2,421,train_gsr,Corner
+images/train/SNGS-025_000436.jpg,SNGS-025,2,436,train_gsr,Corner
+images/train/SNGS-025_000451.jpg,SNGS-025,2,451,train_gsr,Corner
+images/train/SNGS-025_000466.jpg,SNGS-025,2,466,train_gsr,Corner
+images/train/SNGS-025_000481.jpg,SNGS-025,2,481,train_gsr,Corner
+images/train/SNGS-025_000496.jpg,SNGS-025,2,496,train_gsr,Corner
+images/train/SNGS-025_000511.jpg,SNGS-025,2,511,train_gsr,Corner
+images/train/SNGS-025_000526.jpg,SNGS-025,2,526,train_gsr,Corner
+images/train/SNGS-025_000541.jpg,SNGS-025,2,541,train_gsr,Corner
+images/train/SNGS-025_000556.jpg,SNGS-025,2,556,train_gsr,Corner
+images/train/SNGS-025_000571.jpg,SNGS-025,2,571,train_gsr,Corner
+images/train/SNGS-025_000586.jpg,SNGS-025,2,586,train_gsr,Corner
+images/train/SNGS-025_000601.jpg,SNGS-025,2,601,train_gsr,Corner
+images/train/SNGS-025_000616.jpg,SNGS-025,2,616,train_gsr,Corner
+images/train/SNGS-025_000631.jpg,SNGS-025,2,631,train_gsr,Corner
+images/train/SNGS-025_000646.jpg,SNGS-025,2,646,train_gsr,Corner
+images/train/SNGS-025_000661.jpg,SNGS-025,2,661,train_gsr,Corner
+images/train/SNGS-025_000676.jpg,SNGS-025,2,676,train_gsr,Corner
+images/train/SNGS-025_000691.jpg,SNGS-025,2,691,train_gsr,Corner
+images/train/SNGS-025_000706.jpg,SNGS-025,2,706,train_gsr,Corner
+images/train/SNGS-025_000721.jpg,SNGS-025,2,721,train_gsr,Corner
+images/train/SNGS-025_000736.jpg,SNGS-025,2,736,train_gsr,Corner
+images/train/SNGS-026_000001.jpg,SNGS-026,2,1,train_gsr,Shots on target
+images/train/SNGS-026_000016.jpg,SNGS-026,2,16,train_gsr,Shots on target
+images/train/SNGS-026_000031.jpg,SNGS-026,2,31,train_gsr,Shots on target
+images/train/SNGS-026_000046.jpg,SNGS-026,2,46,train_gsr,Shots on target
+images/train/SNGS-026_000061.jpg,SNGS-026,2,61,train_gsr,Shots on target
+images/train/SNGS-026_000076.jpg,SNGS-026,2,76,train_gsr,Shots on target
+images/train/SNGS-026_000091.jpg,SNGS-026,2,91,train_gsr,Shots on target
+images/train/SNGS-026_000106.jpg,SNGS-026,2,106,train_gsr,Shots on target
+images/train/SNGS-026_000121.jpg,SNGS-026,2,121,train_gsr,Shots on target
+images/train/SNGS-026_000136.jpg,SNGS-026,2,136,train_gsr,Shots on target
+images/train/SNGS-026_000151.jpg,SNGS-026,2,151,train_gsr,Shots on target
+images/train/SNGS-026_000166.jpg,SNGS-026,2,166,train_gsr,Shots on target
+images/train/SNGS-026_000181.jpg,SNGS-026,2,181,train_gsr,Shots on target
+images/train/SNGS-026_000196.jpg,SNGS-026,2,196,train_gsr,Shots on target
+images/train/SNGS-026_000211.jpg,SNGS-026,2,211,train_gsr,Shots on target
+images/train/SNGS-026_000226.jpg,SNGS-026,2,226,train_gsr,Shots on target
+images/train/SNGS-026_000241.jpg,SNGS-026,2,241,train_gsr,Shots on target
+images/train/SNGS-026_000256.jpg,SNGS-026,2,256,train_gsr,Shots on target
+images/train/SNGS-026_000271.jpg,SNGS-026,2,271,train_gsr,Shots on target
+images/train/SNGS-026_000286.jpg,SNGS-026,2,286,train_gsr,Shots on target
+images/train/SNGS-026_000301.jpg,SNGS-026,2,301,train_gsr,Shots on target
+images/train/SNGS-026_000316.jpg,SNGS-026,2,316,train_gsr,Shots on target
+images/train/SNGS-026_000331.jpg,SNGS-026,2,331,train_gsr,Shots on target
+images/train/SNGS-026_000346.jpg,SNGS-026,2,346,train_gsr,Shots on target
+images/train/SNGS-026_000361.jpg,SNGS-026,2,361,train_gsr,Shots on target
+images/train/SNGS-026_000376.jpg,SNGS-026,2,376,train_gsr,Shots on target
+images/train/SNGS-026_000391.jpg,SNGS-026,2,391,train_gsr,Shots on target
+images/train/SNGS-026_000406.jpg,SNGS-026,2,406,train_gsr,Shots on target
+images/train/SNGS-026_000421.jpg,SNGS-026,2,421,train_gsr,Shots on target
+images/train/SNGS-026_000436.jpg,SNGS-026,2,436,train_gsr,Shots on target
+images/train/SNGS-026_000451.jpg,SNGS-026,2,451,train_gsr,Shots on target
+images/train/SNGS-026_000466.jpg,SNGS-026,2,466,train_gsr,Shots on target
+images/train/SNGS-026_000481.jpg,SNGS-026,2,481,train_gsr,Shots on target
+images/train/SNGS-026_000496.jpg,SNGS-026,2,496,train_gsr,Shots on target
+images/train/SNGS-026_000511.jpg,SNGS-026,2,511,train_gsr,Shots on target
+images/train/SNGS-026_000526.jpg,SNGS-026,2,526,train_gsr,Shots on target
+images/train/SNGS-026_000541.jpg,SNGS-026,2,541,train_gsr,Shots on target
+images/train/SNGS-026_000556.jpg,SNGS-026,2,556,train_gsr,Shots on target
+images/train/SNGS-026_000571.jpg,SNGS-026,2,571,train_gsr,Shots on target
+images/train/SNGS-026_000586.jpg,SNGS-026,2,586,train_gsr,Shots on target
+images/train/SNGS-026_000601.jpg,SNGS-026,2,601,train_gsr,Shots on target
+images/train/SNGS-026_000616.jpg,SNGS-026,2,616,train_gsr,Shots on target
+images/train/SNGS-026_000631.jpg,SNGS-026,2,631,train_gsr,Shots on target
+images/train/SNGS-026_000646.jpg,SNGS-026,2,646,train_gsr,Shots on target
+images/train/SNGS-026_000661.jpg,SNGS-026,2,661,train_gsr,Shots on target
+images/train/SNGS-026_000676.jpg,SNGS-026,2,676,train_gsr,Shots on target
+images/train/SNGS-026_000691.jpg,SNGS-026,2,691,train_gsr,Shots on target
+images/train/SNGS-026_000706.jpg,SNGS-026,2,706,train_gsr,Shots on target
+images/train/SNGS-026_000721.jpg,SNGS-026,2,721,train_gsr,Shots on target
+images/train/SNGS-026_000736.jpg,SNGS-026,2,736,train_gsr,Shots on target
+images/train/SNGS-027_000001.jpg,SNGS-027,2,1,train_gsr,Direct free-kick
+images/train/SNGS-027_000016.jpg,SNGS-027,2,16,train_gsr,Direct free-kick
+images/train/SNGS-027_000031.jpg,SNGS-027,2,31,train_gsr,Direct free-kick
+images/train/SNGS-027_000046.jpg,SNGS-027,2,46,train_gsr,Direct free-kick
+images/train/SNGS-027_000061.jpg,SNGS-027,2,61,train_gsr,Direct free-kick
+images/train/SNGS-027_000076.jpg,SNGS-027,2,76,train_gsr,Direct free-kick
+images/train/SNGS-027_000091.jpg,SNGS-027,2,91,train_gsr,Direct free-kick
+images/train/SNGS-027_000106.jpg,SNGS-027,2,106,train_gsr,Direct free-kick
+images/train/SNGS-027_000121.jpg,SNGS-027,2,121,train_gsr,Direct free-kick
+images/train/SNGS-027_000136.jpg,SNGS-027,2,136,train_gsr,Direct free-kick
+images/train/SNGS-027_000151.jpg,SNGS-027,2,151,train_gsr,Direct free-kick
+images/train/SNGS-027_000166.jpg,SNGS-027,2,166,train_gsr,Direct free-kick
+images/train/SNGS-027_000181.jpg,SNGS-027,2,181,train_gsr,Direct free-kick
+images/train/SNGS-027_000196.jpg,SNGS-027,2,196,train_gsr,Direct free-kick
+images/train/SNGS-027_000211.jpg,SNGS-027,2,211,train_gsr,Direct free-kick
+images/train/SNGS-027_000226.jpg,SNGS-027,2,226,train_gsr,Direct free-kick
+images/train/SNGS-027_000241.jpg,SNGS-027,2,241,train_gsr,Direct free-kick
+images/train/SNGS-027_000256.jpg,SNGS-027,2,256,train_gsr,Direct free-kick
+images/train/SNGS-027_000271.jpg,SNGS-027,2,271,train_gsr,Direct free-kick
+images/train/SNGS-027_000286.jpg,SNGS-027,2,286,train_gsr,Direct free-kick
+images/train/SNGS-027_000301.jpg,SNGS-027,2,301,train_gsr,Direct free-kick
+images/train/SNGS-027_000316.jpg,SNGS-027,2,316,train_gsr,Direct free-kick
+images/train/SNGS-027_000331.jpg,SNGS-027,2,331,train_gsr,Direct free-kick
+images/train/SNGS-027_000346.jpg,SNGS-027,2,346,train_gsr,Direct free-kick
+images/train/SNGS-027_000361.jpg,SNGS-027,2,361,train_gsr,Direct free-kick
+images/train/SNGS-027_000376.jpg,SNGS-027,2,376,train_gsr,Direct free-kick
+images/train/SNGS-027_000391.jpg,SNGS-027,2,391,train_gsr,Direct free-kick
+images/train/SNGS-027_000406.jpg,SNGS-027,2,406,train_gsr,Direct free-kick
+images/train/SNGS-027_000421.jpg,SNGS-027,2,421,train_gsr,Direct free-kick
+images/train/SNGS-027_000436.jpg,SNGS-027,2,436,train_gsr,Direct free-kick
+images/train/SNGS-027_000451.jpg,SNGS-027,2,451,train_gsr,Direct free-kick
+images/train/SNGS-027_000466.jpg,SNGS-027,2,466,train_gsr,Direct free-kick
+images/train/SNGS-027_000481.jpg,SNGS-027,2,481,train_gsr,Direct free-kick
+images/train/SNGS-027_000496.jpg,SNGS-027,2,496,train_gsr,Direct free-kick
+images/train/SNGS-027_000511.jpg,SNGS-027,2,511,train_gsr,Direct free-kick
+images/train/SNGS-027_000526.jpg,SNGS-027,2,526,train_gsr,Direct free-kick
+images/train/SNGS-027_000541.jpg,SNGS-027,2,541,train_gsr,Direct free-kick
+images/train/SNGS-027_000556.jpg,SNGS-027,2,556,train_gsr,Direct free-kick
+images/train/SNGS-027_000571.jpg,SNGS-027,2,571,train_gsr,Direct free-kick
+images/train/SNGS-027_000586.jpg,SNGS-027,2,586,train_gsr,Direct free-kick
+images/train/SNGS-027_000601.jpg,SNGS-027,2,601,train_gsr,Direct free-kick
+images/train/SNGS-027_000616.jpg,SNGS-027,2,616,train_gsr,Direct free-kick
+images/train/SNGS-027_000631.jpg,SNGS-027,2,631,train_gsr,Direct free-kick
+images/train/SNGS-027_000646.jpg,SNGS-027,2,646,train_gsr,Direct free-kick
+images/train/SNGS-027_000661.jpg,SNGS-027,2,661,train_gsr,Direct free-kick
+images/train/SNGS-027_000676.jpg,SNGS-027,2,676,train_gsr,Direct free-kick
+images/train/SNGS-027_000691.jpg,SNGS-027,2,691,train_gsr,Direct free-kick
+images/train/SNGS-027_000706.jpg,SNGS-027,2,706,train_gsr,Direct free-kick
+images/train/SNGS-027_000721.jpg,SNGS-027,2,721,train_gsr,Direct free-kick
+images/train/SNGS-027_000736.jpg,SNGS-027,2,736,train_gsr,Direct free-kick
+images/train/SNGS-028_000001.jpg,SNGS-028,2,1,train_gsr,Shots off target
+images/train/SNGS-028_000016.jpg,SNGS-028,2,16,train_gsr,Shots off target
+images/train/SNGS-028_000031.jpg,SNGS-028,2,31,train_gsr,Shots off target
+images/train/SNGS-028_000046.jpg,SNGS-028,2,46,train_gsr,Shots off target
+images/train/SNGS-028_000061.jpg,SNGS-028,2,61,train_gsr,Shots off target
+images/train/SNGS-028_000076.jpg,SNGS-028,2,76,train_gsr,Shots off target
+images/train/SNGS-028_000091.jpg,SNGS-028,2,91,train_gsr,Shots off target
+images/train/SNGS-028_000106.jpg,SNGS-028,2,106,train_gsr,Shots off target
+images/train/SNGS-028_000121.jpg,SNGS-028,2,121,train_gsr,Shots off target
+images/train/SNGS-028_000136.jpg,SNGS-028,2,136,train_gsr,Shots off target
+images/train/SNGS-028_000151.jpg,SNGS-028,2,151,train_gsr,Shots off target
+images/train/SNGS-028_000166.jpg,SNGS-028,2,166,train_gsr,Shots off target
+images/train/SNGS-028_000181.jpg,SNGS-028,2,181,train_gsr,Shots off target
+images/train/SNGS-028_000196.jpg,SNGS-028,2,196,train_gsr,Shots off target
+images/train/SNGS-028_000211.jpg,SNGS-028,2,211,train_gsr,Shots off target
+images/train/SNGS-028_000226.jpg,SNGS-028,2,226,train_gsr,Shots off target
+images/train/SNGS-028_000241.jpg,SNGS-028,2,241,train_gsr,Shots off target
+images/train/SNGS-028_000256.jpg,SNGS-028,2,256,train_gsr,Shots off target
+images/train/SNGS-028_000271.jpg,SNGS-028,2,271,train_gsr,Shots off target
+images/train/SNGS-028_000286.jpg,SNGS-028,2,286,train_gsr,Shots off target
+images/train/SNGS-028_000301.jpg,SNGS-028,2,301,train_gsr,Shots off target
+images/train/SNGS-028_000316.jpg,SNGS-028,2,316,train_gsr,Shots off target
+images/train/SNGS-028_000331.jpg,SNGS-028,2,331,train_gsr,Shots off target
+images/train/SNGS-028_000346.jpg,SNGS-028,2,346,train_gsr,Shots off target
+images/train/SNGS-028_000361.jpg,SNGS-028,2,361,train_gsr,Shots off target
+images/train/SNGS-028_000376.jpg,SNGS-028,2,376,train_gsr,Shots off target
+images/train/SNGS-028_000391.jpg,SNGS-028,2,391,train_gsr,Shots off target
+images/train/SNGS-028_000406.jpg,SNGS-028,2,406,train_gsr,Shots off target
+images/train/SNGS-028_000421.jpg,SNGS-028,2,421,train_gsr,Shots off target
+images/train/SNGS-028_000436.jpg,SNGS-028,2,436,train_gsr,Shots off target
+images/train/SNGS-028_000451.jpg,SNGS-028,2,451,train_gsr,Shots off target
+images/train/SNGS-028_000466.jpg,SNGS-028,2,466,train_gsr,Shots off target
+images/train/SNGS-028_000481.jpg,SNGS-028,2,481,train_gsr,Shots off target
+images/train/SNGS-028_000496.jpg,SNGS-028,2,496,train_gsr,Shots off target
+images/train/SNGS-028_000511.jpg,SNGS-028,2,511,train_gsr,Shots off target
+images/train/SNGS-028_000526.jpg,SNGS-028,2,526,train_gsr,Shots off target
+images/train/SNGS-028_000541.jpg,SNGS-028,2,541,train_gsr,Shots off target
+images/train/SNGS-028_000556.jpg,SNGS-028,2,556,train_gsr,Shots off target
+images/train/SNGS-028_000571.jpg,SNGS-028,2,571,train_gsr,Shots off target
+images/train/SNGS-028_000586.jpg,SNGS-028,2,586,train_gsr,Shots off target
+images/train/SNGS-028_000601.jpg,SNGS-028,2,601,train_gsr,Shots off target
+images/train/SNGS-028_000616.jpg,SNGS-028,2,616,train_gsr,Shots off target
+images/train/SNGS-028_000631.jpg,SNGS-028,2,631,train_gsr,Shots off target
+images/train/SNGS-028_000646.jpg,SNGS-028,2,646,train_gsr,Shots off target
+images/train/SNGS-028_000661.jpg,SNGS-028,2,661,train_gsr,Shots off target
+images/train/SNGS-028_000676.jpg,SNGS-028,2,676,train_gsr,Shots off target
+images/train/SNGS-028_000691.jpg,SNGS-028,2,691,train_gsr,Shots off target
+images/train/SNGS-028_000706.jpg,SNGS-028,2,706,train_gsr,Shots off target
+images/train/SNGS-028_000721.jpg,SNGS-028,2,721,train_gsr,Shots off target
+images/train/SNGS-028_000736.jpg,SNGS-028,2,736,train_gsr,Shots off target
+images/train/SNGS-029_000001.jpg,SNGS-029,2,1,train_gsr,Yellow card
+images/train/SNGS-029_000016.jpg,SNGS-029,2,16,train_gsr,Yellow card
+images/train/SNGS-029_000031.jpg,SNGS-029,2,31,train_gsr,Yellow card
+images/train/SNGS-029_000046.jpg,SNGS-029,2,46,train_gsr,Yellow card
+images/train/SNGS-029_000061.jpg,SNGS-029,2,61,train_gsr,Yellow card
+images/train/SNGS-029_000076.jpg,SNGS-029,2,76,train_gsr,Yellow card
+images/train/SNGS-029_000091.jpg,SNGS-029,2,91,train_gsr,Yellow card
+images/train/SNGS-029_000106.jpg,SNGS-029,2,106,train_gsr,Yellow card
+images/train/SNGS-029_000121.jpg,SNGS-029,2,121,train_gsr,Yellow card
+images/train/SNGS-029_000136.jpg,SNGS-029,2,136,train_gsr,Yellow card
+images/train/SNGS-029_000151.jpg,SNGS-029,2,151,train_gsr,Yellow card
+images/train/SNGS-029_000166.jpg,SNGS-029,2,166,train_gsr,Yellow card
+images/train/SNGS-029_000181.jpg,SNGS-029,2,181,train_gsr,Yellow card
+images/train/SNGS-029_000196.jpg,SNGS-029,2,196,train_gsr,Yellow card
+images/train/SNGS-029_000211.jpg,SNGS-029,2,211,train_gsr,Yellow card
+images/train/SNGS-029_000226.jpg,SNGS-029,2,226,train_gsr,Yellow card
+images/train/SNGS-029_000241.jpg,SNGS-029,2,241,train_gsr,Yellow card
+images/train/SNGS-029_000256.jpg,SNGS-029,2,256,train_gsr,Yellow card
+images/train/SNGS-029_000271.jpg,SNGS-029,2,271,train_gsr,Yellow card
+images/train/SNGS-029_000286.jpg,SNGS-029,2,286,train_gsr,Yellow card
+images/train/SNGS-029_000301.jpg,SNGS-029,2,301,train_gsr,Yellow card
+images/train/SNGS-029_000316.jpg,SNGS-029,2,316,train_gsr,Yellow card
+images/train/SNGS-029_000331.jpg,SNGS-029,2,331,train_gsr,Yellow card
+images/train/SNGS-029_000346.jpg,SNGS-029,2,346,train_gsr,Yellow card
+images/train/SNGS-029_000361.jpg,SNGS-029,2,361,train_gsr,Yellow card
+images/train/SNGS-029_000376.jpg,SNGS-029,2,376,train_gsr,Yellow card
+images/train/SNGS-029_000391.jpg,SNGS-029,2,391,train_gsr,Yellow card
+images/train/SNGS-029_000406.jpg,SNGS-029,2,406,train_gsr,Yellow card
+images/train/SNGS-029_000421.jpg,SNGS-029,2,421,train_gsr,Yellow card
+images/train/SNGS-029_000436.jpg,SNGS-029,2,436,train_gsr,Yellow card
+images/train/SNGS-029_000451.jpg,SNGS-029,2,451,train_gsr,Yellow card
+images/train/SNGS-029_000466.jpg,SNGS-029,2,466,train_gsr,Yellow card
+images/train/SNGS-029_000481.jpg,SNGS-029,2,481,train_gsr,Yellow card
+images/train/SNGS-029_000496.jpg,SNGS-029,2,496,train_gsr,Yellow card
+images/train/SNGS-029_000511.jpg,SNGS-029,2,511,train_gsr,Yellow card
+images/train/SNGS-029_000526.jpg,SNGS-029,2,526,train_gsr,Yellow card
+images/train/SNGS-029_000541.jpg,SNGS-029,2,541,train_gsr,Yellow card
+images/train/SNGS-029_000556.jpg,SNGS-029,2,556,train_gsr,Yellow card
+images/train/SNGS-029_000571.jpg,SNGS-029,2,571,train_gsr,Yellow card
+images/train/SNGS-029_000586.jpg,SNGS-029,2,586,train_gsr,Yellow card
+images/train/SNGS-029_000601.jpg,SNGS-029,2,601,train_gsr,Yellow card
+images/train/SNGS-029_000616.jpg,SNGS-029,2,616,train_gsr,Yellow card
+images/train/SNGS-029_000631.jpg,SNGS-029,2,631,train_gsr,Yellow card
+images/train/SNGS-029_000646.jpg,SNGS-029,2,646,train_gsr,Yellow card
+images/train/SNGS-029_000661.jpg,SNGS-029,2,661,train_gsr,Yellow card
+images/train/SNGS-029_000676.jpg,SNGS-029,2,676,train_gsr,Yellow card
+images/train/SNGS-029_000691.jpg,SNGS-029,2,691,train_gsr,Yellow card
+images/train/SNGS-029_000706.jpg,SNGS-029,2,706,train_gsr,Yellow card
+images/train/SNGS-029_000721.jpg,SNGS-029,2,721,train_gsr,Yellow card
+images/train/SNGS-029_000736.jpg,SNGS-029,2,736,train_gsr,Yellow card
+images/train/SNGS-030_000001.jpg,SNGS-030,2,1,train_gsr,Direct free-kick
+images/train/SNGS-030_000016.jpg,SNGS-030,2,16,train_gsr,Direct free-kick
+images/train/SNGS-030_000031.jpg,SNGS-030,2,31,train_gsr,Direct free-kick
+images/train/SNGS-030_000046.jpg,SNGS-030,2,46,train_gsr,Direct free-kick
+images/train/SNGS-030_000061.jpg,SNGS-030,2,61,train_gsr,Direct free-kick
+images/train/SNGS-030_000076.jpg,SNGS-030,2,76,train_gsr,Direct free-kick
+images/train/SNGS-030_000091.jpg,SNGS-030,2,91,train_gsr,Direct free-kick
+images/train/SNGS-030_000106.jpg,SNGS-030,2,106,train_gsr,Direct free-kick
+images/train/SNGS-030_000121.jpg,SNGS-030,2,121,train_gsr,Direct free-kick
+images/train/SNGS-030_000136.jpg,SNGS-030,2,136,train_gsr,Direct free-kick
+images/train/SNGS-030_000151.jpg,SNGS-030,2,151,train_gsr,Direct free-kick
+images/train/SNGS-030_000166.jpg,SNGS-030,2,166,train_gsr,Direct free-kick
+images/train/SNGS-030_000181.jpg,SNGS-030,2,181,train_gsr,Direct free-kick
+images/train/SNGS-030_000196.jpg,SNGS-030,2,196,train_gsr,Direct free-kick
+images/train/SNGS-030_000211.jpg,SNGS-030,2,211,train_gsr,Direct free-kick
+images/train/SNGS-030_000226.jpg,SNGS-030,2,226,train_gsr,Direct free-kick
+images/train/SNGS-030_000241.jpg,SNGS-030,2,241,train_gsr,Direct free-kick
+images/train/SNGS-030_000256.jpg,SNGS-030,2,256,train_gsr,Direct free-kick
+images/train/SNGS-030_000271.jpg,SNGS-030,2,271,train_gsr,Direct free-kick
+images/train/SNGS-030_000286.jpg,SNGS-030,2,286,train_gsr,Direct free-kick
+images/train/SNGS-030_000301.jpg,SNGS-030,2,301,train_gsr,Direct free-kick
+images/train/SNGS-030_000316.jpg,SNGS-030,2,316,train_gsr,Direct free-kick
+images/train/SNGS-030_000331.jpg,SNGS-030,2,331,train_gsr,Direct free-kick
+images/train/SNGS-030_000346.jpg,SNGS-030,2,346,train_gsr,Direct free-kick
+images/train/SNGS-030_000361.jpg,SNGS-030,2,361,train_gsr,Direct free-kick
+images/train/SNGS-030_000376.jpg,SNGS-030,2,376,train_gsr,Direct free-kick
+images/train/SNGS-030_000391.jpg,SNGS-030,2,391,train_gsr,Direct free-kick
+images/train/SNGS-030_000406.jpg,SNGS-030,2,406,train_gsr,Direct free-kick
+images/train/SNGS-030_000421.jpg,SNGS-030,2,421,train_gsr,Direct free-kick
+images/train/SNGS-030_000436.jpg,SNGS-030,2,436,train_gsr,Direct free-kick
+images/train/SNGS-030_000451.jpg,SNGS-030,2,451,train_gsr,Direct free-kick
+images/train/SNGS-030_000466.jpg,SNGS-030,2,466,train_gsr,Direct free-kick
+images/train/SNGS-030_000481.jpg,SNGS-030,2,481,train_gsr,Direct free-kick
+images/train/SNGS-030_000496.jpg,SNGS-030,2,496,train_gsr,Direct free-kick
+images/train/SNGS-030_000511.jpg,SNGS-030,2,511,train_gsr,Direct free-kick
+images/train/SNGS-030_000526.jpg,SNGS-030,2,526,train_gsr,Direct free-kick
+images/train/SNGS-030_000541.jpg,SNGS-030,2,541,train_gsr,Direct free-kick
+images/train/SNGS-030_000556.jpg,SNGS-030,2,556,train_gsr,Direct free-kick
+images/train/SNGS-030_000571.jpg,SNGS-030,2,571,train_gsr,Direct free-kick
+images/train/SNGS-030_000586.jpg,SNGS-030,2,586,train_gsr,Direct free-kick
+images/train/SNGS-030_000601.jpg,SNGS-030,2,601,train_gsr,Direct free-kick
+images/train/SNGS-030_000616.jpg,SNGS-030,2,616,train_gsr,Direct free-kick
+images/train/SNGS-030_000631.jpg,SNGS-030,2,631,train_gsr,Direct free-kick
+images/train/SNGS-030_000646.jpg,SNGS-030,2,646,train_gsr,Direct free-kick
+images/train/SNGS-030_000661.jpg,SNGS-030,2,661,train_gsr,Direct free-kick
+images/train/SNGS-030_000676.jpg,SNGS-030,2,676,train_gsr,Direct free-kick
+images/train/SNGS-030_000691.jpg,SNGS-030,2,691,train_gsr,Direct free-kick
+images/train/SNGS-030_000706.jpg,SNGS-030,2,706,train_gsr,Direct free-kick
+images/train/SNGS-030_000721.jpg,SNGS-030,2,721,train_gsr,Direct free-kick
+images/train/SNGS-030_000736.jpg,SNGS-030,2,736,train_gsr,Direct free-kick
+images/train/SNGS-031_000001.jpg,SNGS-031,2,1,train_gsr,Shots off target
+images/train/SNGS-031_000016.jpg,SNGS-031,2,16,train_gsr,Shots off target
+images/train/SNGS-031_000031.jpg,SNGS-031,2,31,train_gsr,Shots off target
+images/train/SNGS-031_000046.jpg,SNGS-031,2,46,train_gsr,Shots off target
+images/train/SNGS-031_000061.jpg,SNGS-031,2,61,train_gsr,Shots off target
+images/train/SNGS-031_000076.jpg,SNGS-031,2,76,train_gsr,Shots off target
+images/train/SNGS-031_000091.jpg,SNGS-031,2,91,train_gsr,Shots off target
+images/train/SNGS-031_000106.jpg,SNGS-031,2,106,train_gsr,Shots off target
+images/train/SNGS-031_000121.jpg,SNGS-031,2,121,train_gsr,Shots off target
+images/train/SNGS-031_000136.jpg,SNGS-031,2,136,train_gsr,Shots off target
+images/train/SNGS-031_000151.jpg,SNGS-031,2,151,train_gsr,Shots off target
+images/train/SNGS-031_000166.jpg,SNGS-031,2,166,train_gsr,Shots off target
+images/train/SNGS-031_000181.jpg,SNGS-031,2,181,train_gsr,Shots off target
+images/train/SNGS-031_000196.jpg,SNGS-031,2,196,train_gsr,Shots off target
+images/train/SNGS-031_000211.jpg,SNGS-031,2,211,train_gsr,Shots off target
+images/train/SNGS-031_000226.jpg,SNGS-031,2,226,train_gsr,Shots off target
+images/train/SNGS-031_000241.jpg,SNGS-031,2,241,train_gsr,Shots off target
+images/train/SNGS-031_000256.jpg,SNGS-031,2,256,train_gsr,Shots off target
+images/train/SNGS-031_000271.jpg,SNGS-031,2,271,train_gsr,Shots off target
+images/train/SNGS-031_000286.jpg,SNGS-031,2,286,train_gsr,Shots off target
+images/train/SNGS-031_000301.jpg,SNGS-031,2,301,train_gsr,Shots off target
+images/train/SNGS-031_000316.jpg,SNGS-031,2,316,train_gsr,Shots off target
+images/train/SNGS-031_000331.jpg,SNGS-031,2,331,train_gsr,Shots off target
+images/train/SNGS-031_000346.jpg,SNGS-031,2,346,train_gsr,Shots off target
+images/train/SNGS-031_000361.jpg,SNGS-031,2,361,train_gsr,Shots off target
+images/train/SNGS-031_000376.jpg,SNGS-031,2,376,train_gsr,Shots off target
+images/train/SNGS-031_000391.jpg,SNGS-031,2,391,train_gsr,Shots off target
+images/train/SNGS-031_000406.jpg,SNGS-031,2,406,train_gsr,Shots off target
+images/train/SNGS-031_000421.jpg,SNGS-031,2,421,train_gsr,Shots off target
+images/train/SNGS-031_000436.jpg,SNGS-031,2,436,train_gsr,Shots off target
+images/train/SNGS-031_000451.jpg,SNGS-031,2,451,train_gsr,Shots off target
+images/train/SNGS-031_000466.jpg,SNGS-031,2,466,train_gsr,Shots off target
+images/train/SNGS-031_000481.jpg,SNGS-031,2,481,train_gsr,Shots off target
+images/train/SNGS-031_000496.jpg,SNGS-031,2,496,train_gsr,Shots off target
+images/train/SNGS-031_000511.jpg,SNGS-031,2,511,train_gsr,Shots off target
+images/train/SNGS-031_000526.jpg,SNGS-031,2,526,train_gsr,Shots off target
+images/train/SNGS-031_000541.jpg,SNGS-031,2,541,train_gsr,Shots off target
+images/train/SNGS-031_000556.jpg,SNGS-031,2,556,train_gsr,Shots off target
+images/train/SNGS-031_000571.jpg,SNGS-031,2,571,train_gsr,Shots off target
+images/train/SNGS-031_000586.jpg,SNGS-031,2,586,train_gsr,Shots off target
+images/train/SNGS-031_000601.jpg,SNGS-031,2,601,train_gsr,Shots off target
+images/train/SNGS-031_000616.jpg,SNGS-031,2,616,train_gsr,Shots off target
+images/train/SNGS-031_000631.jpg,SNGS-031,2,631,train_gsr,Shots off target
+images/train/SNGS-031_000646.jpg,SNGS-031,2,646,train_gsr,Shots off target
+images/train/SNGS-031_000661.jpg,SNGS-031,2,661,train_gsr,Shots off target
+images/train/SNGS-031_000676.jpg,SNGS-031,2,676,train_gsr,Shots off target
+images/train/SNGS-031_000691.jpg,SNGS-031,2,691,train_gsr,Shots off target
+images/train/SNGS-031_000706.jpg,SNGS-031,2,706,train_gsr,Shots off target
+images/train/SNGS-031_000721.jpg,SNGS-031,2,721,train_gsr,Shots off target
+images/train/SNGS-031_000736.jpg,SNGS-031,2,736,train_gsr,Shots off target
+images/train/SNGS-032_000001.jpg,SNGS-032,2,1,train_gsr,Clearance
+images/train/SNGS-032_000016.jpg,SNGS-032,2,16,train_gsr,Clearance
+images/train/SNGS-032_000031.jpg,SNGS-032,2,31,train_gsr,Clearance
+images/train/SNGS-032_000046.jpg,SNGS-032,2,46,train_gsr,Clearance
+images/train/SNGS-032_000061.jpg,SNGS-032,2,61,train_gsr,Clearance
+images/train/SNGS-032_000076.jpg,SNGS-032,2,76,train_gsr,Clearance
+images/train/SNGS-032_000091.jpg,SNGS-032,2,91,train_gsr,Clearance
+images/train/SNGS-032_000106.jpg,SNGS-032,2,106,train_gsr,Clearance
+images/train/SNGS-032_000121.jpg,SNGS-032,2,121,train_gsr,Clearance
+images/train/SNGS-032_000136.jpg,SNGS-032,2,136,train_gsr,Clearance
+images/train/SNGS-032_000151.jpg,SNGS-032,2,151,train_gsr,Clearance
+images/train/SNGS-032_000166.jpg,SNGS-032,2,166,train_gsr,Clearance
+images/train/SNGS-032_000181.jpg,SNGS-032,2,181,train_gsr,Clearance
+images/train/SNGS-032_000196.jpg,SNGS-032,2,196,train_gsr,Clearance
+images/train/SNGS-032_000211.jpg,SNGS-032,2,211,train_gsr,Clearance
+images/train/SNGS-032_000226.jpg,SNGS-032,2,226,train_gsr,Clearance
+images/train/SNGS-032_000241.jpg,SNGS-032,2,241,train_gsr,Clearance
+images/train/SNGS-032_000256.jpg,SNGS-032,2,256,train_gsr,Clearance
+images/train/SNGS-032_000271.jpg,SNGS-032,2,271,train_gsr,Clearance
+images/train/SNGS-032_000286.jpg,SNGS-032,2,286,train_gsr,Clearance
+images/train/SNGS-032_000301.jpg,SNGS-032,2,301,train_gsr,Clearance
+images/train/SNGS-032_000316.jpg,SNGS-032,2,316,train_gsr,Clearance
+images/train/SNGS-032_000331.jpg,SNGS-032,2,331,train_gsr,Clearance
+images/train/SNGS-032_000346.jpg,SNGS-032,2,346,train_gsr,Clearance
+images/train/SNGS-032_000361.jpg,SNGS-032,2,361,train_gsr,Clearance
+images/train/SNGS-032_000376.jpg,SNGS-032,2,376,train_gsr,Clearance
+images/train/SNGS-032_000391.jpg,SNGS-032,2,391,train_gsr,Clearance
+images/train/SNGS-032_000406.jpg,SNGS-032,2,406,train_gsr,Clearance
+images/train/SNGS-032_000421.jpg,SNGS-032,2,421,train_gsr,Clearance
+images/train/SNGS-032_000436.jpg,SNGS-032,2,436,train_gsr,Clearance
+images/train/SNGS-032_000451.jpg,SNGS-032,2,451,train_gsr,Clearance
+images/train/SNGS-032_000466.jpg,SNGS-032,2,466,train_gsr,Clearance
+images/train/SNGS-032_000481.jpg,SNGS-032,2,481,train_gsr,Clearance
+images/train/SNGS-032_000496.jpg,SNGS-032,2,496,train_gsr,Clearance
+images/train/SNGS-032_000511.jpg,SNGS-032,2,511,train_gsr,Clearance
+images/train/SNGS-032_000526.jpg,SNGS-032,2,526,train_gsr,Clearance
+images/train/SNGS-032_000541.jpg,SNGS-032,2,541,train_gsr,Clearance
+images/train/SNGS-032_000556.jpg,SNGS-032,2,556,train_gsr,Clearance
+images/train/SNGS-032_000571.jpg,SNGS-032,2,571,train_gsr,Clearance
+images/train/SNGS-032_000586.jpg,SNGS-032,2,586,train_gsr,Clearance
+images/train/SNGS-032_000601.jpg,SNGS-032,2,601,train_gsr,Clearance
+images/train/SNGS-032_000616.jpg,SNGS-032,2,616,train_gsr,Clearance
+images/train/SNGS-032_000631.jpg,SNGS-032,2,631,train_gsr,Clearance
+images/train/SNGS-032_000646.jpg,SNGS-032,2,646,train_gsr,Clearance
+images/train/SNGS-032_000661.jpg,SNGS-032,2,661,train_gsr,Clearance
+images/train/SNGS-032_000676.jpg,SNGS-032,2,676,train_gsr,Clearance
+images/train/SNGS-032_000691.jpg,SNGS-032,2,691,train_gsr,Clearance
+images/train/SNGS-032_000706.jpg,SNGS-032,2,706,train_gsr,Clearance
+images/train/SNGS-032_000721.jpg,SNGS-032,2,721,train_gsr,Clearance
+images/train/SNGS-032_000736.jpg,SNGS-032,2,736,train_gsr,Clearance
+images/train/SNGS-033_000001.jpg,SNGS-033,2,1,train_gsr,Foul
+images/train/SNGS-033_000016.jpg,SNGS-033,2,16,train_gsr,Foul
+images/train/SNGS-033_000031.jpg,SNGS-033,2,31,train_gsr,Foul
+images/train/SNGS-033_000046.jpg,SNGS-033,2,46,train_gsr,Foul
+images/train/SNGS-033_000061.jpg,SNGS-033,2,61,train_gsr,Foul
+images/train/SNGS-033_000076.jpg,SNGS-033,2,76,train_gsr,Foul
+images/train/SNGS-033_000091.jpg,SNGS-033,2,91,train_gsr,Foul
+images/train/SNGS-033_000106.jpg,SNGS-033,2,106,train_gsr,Foul
+images/train/SNGS-033_000121.jpg,SNGS-033,2,121,train_gsr,Foul
+images/train/SNGS-033_000136.jpg,SNGS-033,2,136,train_gsr,Foul
+images/train/SNGS-033_000151.jpg,SNGS-033,2,151,train_gsr,Foul
+images/train/SNGS-033_000166.jpg,SNGS-033,2,166,train_gsr,Foul
+images/train/SNGS-033_000181.jpg,SNGS-033,2,181,train_gsr,Foul
+images/train/SNGS-033_000196.jpg,SNGS-033,2,196,train_gsr,Foul
+images/train/SNGS-033_000211.jpg,SNGS-033,2,211,train_gsr,Foul
+images/train/SNGS-033_000226.jpg,SNGS-033,2,226,train_gsr,Foul
+images/train/SNGS-033_000241.jpg,SNGS-033,2,241,train_gsr,Foul
+images/train/SNGS-033_000256.jpg,SNGS-033,2,256,train_gsr,Foul
+images/train/SNGS-033_000271.jpg,SNGS-033,2,271,train_gsr,Foul
+images/train/SNGS-033_000286.jpg,SNGS-033,2,286,train_gsr,Foul
+images/train/SNGS-033_000301.jpg,SNGS-033,2,301,train_gsr,Foul
+images/train/SNGS-033_000316.jpg,SNGS-033,2,316,train_gsr,Foul
+images/train/SNGS-033_000331.jpg,SNGS-033,2,331,train_gsr,Foul
+images/train/SNGS-033_000346.jpg,SNGS-033,2,346,train_gsr,Foul
+images/train/SNGS-033_000361.jpg,SNGS-033,2,361,train_gsr,Foul
+images/train/SNGS-033_000376.jpg,SNGS-033,2,376,train_gsr,Foul
+images/train/SNGS-033_000391.jpg,SNGS-033,2,391,train_gsr,Foul
+images/train/SNGS-033_000406.jpg,SNGS-033,2,406,train_gsr,Foul
+images/train/SNGS-033_000421.jpg,SNGS-033,2,421,train_gsr,Foul
+images/train/SNGS-033_000436.jpg,SNGS-033,2,436,train_gsr,Foul
+images/train/SNGS-033_000451.jpg,SNGS-033,2,451,train_gsr,Foul
+images/train/SNGS-033_000466.jpg,SNGS-033,2,466,train_gsr,Foul
+images/train/SNGS-033_000481.jpg,SNGS-033,2,481,train_gsr,Foul
+images/train/SNGS-033_000496.jpg,SNGS-033,2,496,train_gsr,Foul
+images/train/SNGS-033_000511.jpg,SNGS-033,2,511,train_gsr,Foul
+images/train/SNGS-033_000526.jpg,SNGS-033,2,526,train_gsr,Foul
+images/train/SNGS-033_000541.jpg,SNGS-033,2,541,train_gsr,Foul
+images/train/SNGS-033_000556.jpg,SNGS-033,2,556,train_gsr,Foul
+images/train/SNGS-033_000571.jpg,SNGS-033,2,571,train_gsr,Foul
+images/train/SNGS-033_000586.jpg,SNGS-033,2,586,train_gsr,Foul
+images/train/SNGS-033_000601.jpg,SNGS-033,2,601,train_gsr,Foul
+images/train/SNGS-033_000616.jpg,SNGS-033,2,616,train_gsr,Foul
+images/train/SNGS-033_000631.jpg,SNGS-033,2,631,train_gsr,Foul
+images/train/SNGS-033_000646.jpg,SNGS-033,2,646,train_gsr,Foul
+images/train/SNGS-033_000661.jpg,SNGS-033,2,661,train_gsr,Foul
+images/train/SNGS-033_000676.jpg,SNGS-033,2,676,train_gsr,Foul
+images/train/SNGS-033_000691.jpg,SNGS-033,2,691,train_gsr,Foul
+images/train/SNGS-033_000706.jpg,SNGS-033,2,706,train_gsr,Foul
+images/train/SNGS-033_000721.jpg,SNGS-033,2,721,train_gsr,Foul
+images/train/SNGS-033_000736.jpg,SNGS-033,2,736,train_gsr,Foul
+images/train/SNGS-034_000001.jpg,SNGS-034,2,1,train_gsr,Goal
+images/train/SNGS-034_000016.jpg,SNGS-034,2,16,train_gsr,Goal
+images/train/SNGS-034_000031.jpg,SNGS-034,2,31,train_gsr,Goal
+images/train/SNGS-034_000046.jpg,SNGS-034,2,46,train_gsr,Goal
+images/train/SNGS-034_000061.jpg,SNGS-034,2,61,train_gsr,Goal
+images/train/SNGS-034_000076.jpg,SNGS-034,2,76,train_gsr,Goal
+images/train/SNGS-034_000091.jpg,SNGS-034,2,91,train_gsr,Goal
+images/train/SNGS-034_000106.jpg,SNGS-034,2,106,train_gsr,Goal
+images/train/SNGS-034_000121.jpg,SNGS-034,2,121,train_gsr,Goal
+images/train/SNGS-034_000136.jpg,SNGS-034,2,136,train_gsr,Goal
+images/train/SNGS-034_000151.jpg,SNGS-034,2,151,train_gsr,Goal
+images/train/SNGS-034_000166.jpg,SNGS-034,2,166,train_gsr,Goal
+images/train/SNGS-034_000181.jpg,SNGS-034,2,181,train_gsr,Goal
+images/train/SNGS-034_000196.jpg,SNGS-034,2,196,train_gsr,Goal
+images/train/SNGS-034_000211.jpg,SNGS-034,2,211,train_gsr,Goal
+images/train/SNGS-034_000226.jpg,SNGS-034,2,226,train_gsr,Goal
+images/train/SNGS-034_000241.jpg,SNGS-034,2,241,train_gsr,Goal
+images/train/SNGS-034_000256.jpg,SNGS-034,2,256,train_gsr,Goal
+images/train/SNGS-034_000271.jpg,SNGS-034,2,271,train_gsr,Goal
+images/train/SNGS-034_000286.jpg,SNGS-034,2,286,train_gsr,Goal
+images/train/SNGS-034_000301.jpg,SNGS-034,2,301,train_gsr,Goal
+images/train/SNGS-034_000316.jpg,SNGS-034,2,316,train_gsr,Goal
+images/train/SNGS-034_000331.jpg,SNGS-034,2,331,train_gsr,Goal
+images/train/SNGS-034_000346.jpg,SNGS-034,2,346,train_gsr,Goal
+images/train/SNGS-034_000361.jpg,SNGS-034,2,361,train_gsr,Goal
+images/train/SNGS-034_000376.jpg,SNGS-034,2,376,train_gsr,Goal
+images/train/SNGS-034_000391.jpg,SNGS-034,2,391,train_gsr,Goal
+images/train/SNGS-034_000406.jpg,SNGS-034,2,406,train_gsr,Goal
+images/train/SNGS-034_000421.jpg,SNGS-034,2,421,train_gsr,Goal
+images/train/SNGS-034_000436.jpg,SNGS-034,2,436,train_gsr,Goal
+images/train/SNGS-034_000451.jpg,SNGS-034,2,451,train_gsr,Goal
+images/train/SNGS-034_000466.jpg,SNGS-034,2,466,train_gsr,Goal
+images/train/SNGS-034_000481.jpg,SNGS-034,2,481,train_gsr,Goal
+images/train/SNGS-034_000496.jpg,SNGS-034,2,496,train_gsr,Goal
+images/train/SNGS-034_000511.jpg,SNGS-034,2,511,train_gsr,Goal
+images/train/SNGS-034_000526.jpg,SNGS-034,2,526,train_gsr,Goal
+images/train/SNGS-034_000541.jpg,SNGS-034,2,541,train_gsr,Goal
+images/train/SNGS-034_000556.jpg,SNGS-034,2,556,train_gsr,Goal
+images/train/SNGS-034_000571.jpg,SNGS-034,2,571,train_gsr,Goal
+images/train/SNGS-034_000586.jpg,SNGS-034,2,586,train_gsr,Goal
+images/train/SNGS-034_000601.jpg,SNGS-034,2,601,train_gsr,Goal
+images/train/SNGS-034_000616.jpg,SNGS-034,2,616,train_gsr,Goal
+images/train/SNGS-034_000631.jpg,SNGS-034,2,631,train_gsr,Goal
+images/train/SNGS-034_000646.jpg,SNGS-034,2,646,train_gsr,Goal
+images/train/SNGS-034_000661.jpg,SNGS-034,2,661,train_gsr,Goal
+images/train/SNGS-034_000676.jpg,SNGS-034,2,676,train_gsr,Goal
+images/train/SNGS-034_000691.jpg,SNGS-034,2,691,train_gsr,Goal
+images/train/SNGS-034_000706.jpg,SNGS-034,2,706,train_gsr,Goal
+images/train/SNGS-034_000721.jpg,SNGS-034,2,721,train_gsr,Goal
+images/train/SNGS-034_000736.jpg,SNGS-034,2,736,train_gsr,Goal
+images/train/SNGS-035_000001.jpg,SNGS-035,2,1,train_gsr,Kick-off
+images/train/SNGS-035_000016.jpg,SNGS-035,2,16,train_gsr,Kick-off
+images/train/SNGS-035_000031.jpg,SNGS-035,2,31,train_gsr,Kick-off
+images/train/SNGS-035_000046.jpg,SNGS-035,2,46,train_gsr,Kick-off
+images/train/SNGS-035_000061.jpg,SNGS-035,2,61,train_gsr,Kick-off
+images/train/SNGS-035_000076.jpg,SNGS-035,2,76,train_gsr,Kick-off
+images/train/SNGS-035_000091.jpg,SNGS-035,2,91,train_gsr,Kick-off
+images/train/SNGS-035_000106.jpg,SNGS-035,2,106,train_gsr,Kick-off
+images/train/SNGS-035_000121.jpg,SNGS-035,2,121,train_gsr,Kick-off
+images/train/SNGS-035_000136.jpg,SNGS-035,2,136,train_gsr,Kick-off
+images/train/SNGS-035_000151.jpg,SNGS-035,2,151,train_gsr,Kick-off
+images/train/SNGS-035_000166.jpg,SNGS-035,2,166,train_gsr,Kick-off
+images/train/SNGS-035_000181.jpg,SNGS-035,2,181,train_gsr,Kick-off
+images/train/SNGS-035_000196.jpg,SNGS-035,2,196,train_gsr,Kick-off
+images/train/SNGS-035_000211.jpg,SNGS-035,2,211,train_gsr,Kick-off
+images/train/SNGS-035_000226.jpg,SNGS-035,2,226,train_gsr,Kick-off
+images/train/SNGS-035_000241.jpg,SNGS-035,2,241,train_gsr,Kick-off
+images/train/SNGS-035_000256.jpg,SNGS-035,2,256,train_gsr,Kick-off
+images/train/SNGS-035_000271.jpg,SNGS-035,2,271,train_gsr,Kick-off
+images/train/SNGS-035_000286.jpg,SNGS-035,2,286,train_gsr,Kick-off
+images/train/SNGS-035_000301.jpg,SNGS-035,2,301,train_gsr,Kick-off
+images/train/SNGS-035_000316.jpg,SNGS-035,2,316,train_gsr,Kick-off
+images/train/SNGS-035_000331.jpg,SNGS-035,2,331,train_gsr,Kick-off
+images/train/SNGS-035_000346.jpg,SNGS-035,2,346,train_gsr,Kick-off
+images/train/SNGS-035_000361.jpg,SNGS-035,2,361,train_gsr,Kick-off
+images/train/SNGS-035_000376.jpg,SNGS-035,2,376,train_gsr,Kick-off
+images/train/SNGS-035_000391.jpg,SNGS-035,2,391,train_gsr,Kick-off
+images/train/SNGS-035_000406.jpg,SNGS-035,2,406,train_gsr,Kick-off
+images/train/SNGS-035_000421.jpg,SNGS-035,2,421,train_gsr,Kick-off
+images/train/SNGS-035_000436.jpg,SNGS-035,2,436,train_gsr,Kick-off
+images/train/SNGS-035_000451.jpg,SNGS-035,2,451,train_gsr,Kick-off
+images/train/SNGS-035_000466.jpg,SNGS-035,2,466,train_gsr,Kick-off
+images/train/SNGS-035_000481.jpg,SNGS-035,2,481,train_gsr,Kick-off
+images/train/SNGS-035_000496.jpg,SNGS-035,2,496,train_gsr,Kick-off
+images/train/SNGS-035_000511.jpg,SNGS-035,2,511,train_gsr,Kick-off
+images/train/SNGS-035_000526.jpg,SNGS-035,2,526,train_gsr,Kick-off
+images/train/SNGS-035_000541.jpg,SNGS-035,2,541,train_gsr,Kick-off
+images/train/SNGS-035_000556.jpg,SNGS-035,2,556,train_gsr,Kick-off
+images/train/SNGS-035_000571.jpg,SNGS-035,2,571,train_gsr,Kick-off
+images/train/SNGS-035_000586.jpg,SNGS-035,2,586,train_gsr,Kick-off
+images/train/SNGS-035_000601.jpg,SNGS-035,2,601,train_gsr,Kick-off
+images/train/SNGS-035_000616.jpg,SNGS-035,2,616,train_gsr,Kick-off
+images/train/SNGS-035_000631.jpg,SNGS-035,2,631,train_gsr,Kick-off
+images/train/SNGS-035_000646.jpg,SNGS-035,2,646,train_gsr,Kick-off
+images/train/SNGS-035_000661.jpg,SNGS-035,2,661,train_gsr,Kick-off
+images/train/SNGS-035_000676.jpg,SNGS-035,2,676,train_gsr,Kick-off
+images/train/SNGS-035_000691.jpg,SNGS-035,2,691,train_gsr,Kick-off
+images/train/SNGS-035_000706.jpg,SNGS-035,2,706,train_gsr,Kick-off
+images/train/SNGS-035_000721.jpg,SNGS-035,2,721,train_gsr,Kick-off
+images/train/SNGS-035_000736.jpg,SNGS-035,2,736,train_gsr,Kick-off
+images/train/SNGS-036_000001.jpg,SNGS-036,2,1,train_gsr,Substitution
+images/train/SNGS-036_000016.jpg,SNGS-036,2,16,train_gsr,Substitution
+images/train/SNGS-036_000031.jpg,SNGS-036,2,31,train_gsr,Substitution
+images/train/SNGS-036_000046.jpg,SNGS-036,2,46,train_gsr,Substitution
+images/train/SNGS-036_000061.jpg,SNGS-036,2,61,train_gsr,Substitution
+images/train/SNGS-036_000076.jpg,SNGS-036,2,76,train_gsr,Substitution
+images/train/SNGS-036_000091.jpg,SNGS-036,2,91,train_gsr,Substitution
+images/train/SNGS-036_000106.jpg,SNGS-036,2,106,train_gsr,Substitution
+images/train/SNGS-036_000121.jpg,SNGS-036,2,121,train_gsr,Substitution
+images/train/SNGS-036_000136.jpg,SNGS-036,2,136,train_gsr,Substitution
+images/train/SNGS-036_000151.jpg,SNGS-036,2,151,train_gsr,Substitution
+images/train/SNGS-036_000166.jpg,SNGS-036,2,166,train_gsr,Substitution
+images/train/SNGS-036_000181.jpg,SNGS-036,2,181,train_gsr,Substitution
+images/train/SNGS-036_000196.jpg,SNGS-036,2,196,train_gsr,Substitution
+images/train/SNGS-036_000211.jpg,SNGS-036,2,211,train_gsr,Substitution
+images/train/SNGS-036_000226.jpg,SNGS-036,2,226,train_gsr,Substitution
+images/train/SNGS-036_000241.jpg,SNGS-036,2,241,train_gsr,Substitution
+images/train/SNGS-036_000256.jpg,SNGS-036,2,256,train_gsr,Substitution
+images/train/SNGS-036_000271.jpg,SNGS-036,2,271,train_gsr,Substitution
+images/train/SNGS-036_000286.jpg,SNGS-036,2,286,train_gsr,Substitution
+images/train/SNGS-036_000301.jpg,SNGS-036,2,301,train_gsr,Substitution
+images/train/SNGS-036_000316.jpg,SNGS-036,2,316,train_gsr,Substitution
+images/train/SNGS-036_000331.jpg,SNGS-036,2,331,train_gsr,Substitution
+images/train/SNGS-036_000346.jpg,SNGS-036,2,346,train_gsr,Substitution
+images/train/SNGS-036_000361.jpg,SNGS-036,2,361,train_gsr,Substitution
+images/train/SNGS-036_000376.jpg,SNGS-036,2,376,train_gsr,Substitution
+images/train/SNGS-036_000391.jpg,SNGS-036,2,391,train_gsr,Substitution
+images/train/SNGS-036_000406.jpg,SNGS-036,2,406,train_gsr,Substitution
+images/train/SNGS-036_000421.jpg,SNGS-036,2,421,train_gsr,Substitution
+images/train/SNGS-036_000436.jpg,SNGS-036,2,436,train_gsr,Substitution
+images/train/SNGS-036_000451.jpg,SNGS-036,2,451,train_gsr,Substitution
+images/train/SNGS-036_000466.jpg,SNGS-036,2,466,train_gsr,Substitution
+images/train/SNGS-036_000481.jpg,SNGS-036,2,481,train_gsr,Substitution
+images/train/SNGS-036_000496.jpg,SNGS-036,2,496,train_gsr,Substitution
+images/train/SNGS-036_000511.jpg,SNGS-036,2,511,train_gsr,Substitution
+images/train/SNGS-036_000526.jpg,SNGS-036,2,526,train_gsr,Substitution
+images/train/SNGS-036_000541.jpg,SNGS-036,2,541,train_gsr,Substitution
+images/train/SNGS-036_000556.jpg,SNGS-036,2,556,train_gsr,Substitution
+images/train/SNGS-036_000571.jpg,SNGS-036,2,571,train_gsr,Substitution
+images/train/SNGS-036_000586.jpg,SNGS-036,2,586,train_gsr,Substitution
+images/train/SNGS-036_000601.jpg,SNGS-036,2,601,train_gsr,Substitution
+images/train/SNGS-036_000616.jpg,SNGS-036,2,616,train_gsr,Substitution
+images/train/SNGS-036_000631.jpg,SNGS-036,2,631,train_gsr,Substitution
+images/train/SNGS-036_000646.jpg,SNGS-036,2,646,train_gsr,Substitution
+images/train/SNGS-036_000661.jpg,SNGS-036,2,661,train_gsr,Substitution
+images/train/SNGS-036_000676.jpg,SNGS-036,2,676,train_gsr,Substitution
+images/train/SNGS-036_000691.jpg,SNGS-036,2,691,train_gsr,Substitution
+images/train/SNGS-036_000706.jpg,SNGS-036,2,706,train_gsr,Substitution
+images/train/SNGS-036_000721.jpg,SNGS-036,2,721,train_gsr,Substitution
+images/train/SNGS-036_000736.jpg,SNGS-036,2,736,train_gsr,Substitution
+images/train/SNGS-037_000001.jpg,SNGS-037,2,1,train_gsr,Shots on target
+images/train/SNGS-037_000016.jpg,SNGS-037,2,16,train_gsr,Shots on target
+images/train/SNGS-037_000031.jpg,SNGS-037,2,31,train_gsr,Shots on target
+images/train/SNGS-037_000046.jpg,SNGS-037,2,46,train_gsr,Shots on target
+images/train/SNGS-037_000061.jpg,SNGS-037,2,61,train_gsr,Shots on target
+images/train/SNGS-037_000076.jpg,SNGS-037,2,76,train_gsr,Shots on target
+images/train/SNGS-037_000091.jpg,SNGS-037,2,91,train_gsr,Shots on target
+images/train/SNGS-037_000106.jpg,SNGS-037,2,106,train_gsr,Shots on target
+images/train/SNGS-037_000121.jpg,SNGS-037,2,121,train_gsr,Shots on target
+images/train/SNGS-037_000136.jpg,SNGS-037,2,136,train_gsr,Shots on target
+images/train/SNGS-037_000151.jpg,SNGS-037,2,151,train_gsr,Shots on target
+images/train/SNGS-037_000166.jpg,SNGS-037,2,166,train_gsr,Shots on target
+images/train/SNGS-037_000181.jpg,SNGS-037,2,181,train_gsr,Shots on target
+images/train/SNGS-037_000196.jpg,SNGS-037,2,196,train_gsr,Shots on target
+images/train/SNGS-037_000211.jpg,SNGS-037,2,211,train_gsr,Shots on target
+images/train/SNGS-037_000226.jpg,SNGS-037,2,226,train_gsr,Shots on target
+images/train/SNGS-037_000241.jpg,SNGS-037,2,241,train_gsr,Shots on target
+images/train/SNGS-037_000256.jpg,SNGS-037,2,256,train_gsr,Shots on target
+images/train/SNGS-037_000271.jpg,SNGS-037,2,271,train_gsr,Shots on target
+images/train/SNGS-037_000286.jpg,SNGS-037,2,286,train_gsr,Shots on target
+images/train/SNGS-037_000301.jpg,SNGS-037,2,301,train_gsr,Shots on target
+images/train/SNGS-037_000316.jpg,SNGS-037,2,316,train_gsr,Shots on target
+images/train/SNGS-037_000331.jpg,SNGS-037,2,331,train_gsr,Shots on target
+images/train/SNGS-037_000346.jpg,SNGS-037,2,346,train_gsr,Shots on target
+images/train/SNGS-037_000361.jpg,SNGS-037,2,361,train_gsr,Shots on target
+images/train/SNGS-037_000376.jpg,SNGS-037,2,376,train_gsr,Shots on target
+images/train/SNGS-037_000391.jpg,SNGS-037,2,391,train_gsr,Shots on target
+images/train/SNGS-037_000406.jpg,SNGS-037,2,406,train_gsr,Shots on target
+images/train/SNGS-037_000421.jpg,SNGS-037,2,421,train_gsr,Shots on target
+images/train/SNGS-037_000436.jpg,SNGS-037,2,436,train_gsr,Shots on target
+images/train/SNGS-037_000451.jpg,SNGS-037,2,451,train_gsr,Shots on target
+images/train/SNGS-037_000466.jpg,SNGS-037,2,466,train_gsr,Shots on target
+images/train/SNGS-037_000481.jpg,SNGS-037,2,481,train_gsr,Shots on target
+images/train/SNGS-037_000496.jpg,SNGS-037,2,496,train_gsr,Shots on target
+images/train/SNGS-037_000511.jpg,SNGS-037,2,511,train_gsr,Shots on target
+images/train/SNGS-037_000526.jpg,SNGS-037,2,526,train_gsr,Shots on target
+images/train/SNGS-037_000541.jpg,SNGS-037,2,541,train_gsr,Shots on target
+images/train/SNGS-037_000556.jpg,SNGS-037,2,556,train_gsr,Shots on target
+images/train/SNGS-037_000571.jpg,SNGS-037,2,571,train_gsr,Shots on target
+images/train/SNGS-037_000586.jpg,SNGS-037,2,586,train_gsr,Shots on target
+images/train/SNGS-037_000601.jpg,SNGS-037,2,601,train_gsr,Shots on target
+images/train/SNGS-037_000616.jpg,SNGS-037,2,616,train_gsr,Shots on target
+images/train/SNGS-037_000631.jpg,SNGS-037,2,631,train_gsr,Shots on target
+images/train/SNGS-037_000646.jpg,SNGS-037,2,646,train_gsr,Shots on target
+images/train/SNGS-037_000661.jpg,SNGS-037,2,661,train_gsr,Shots on target
+images/train/SNGS-037_000676.jpg,SNGS-037,2,676,train_gsr,Shots on target
+images/train/SNGS-037_000691.jpg,SNGS-037,2,691,train_gsr,Shots on target
+images/train/SNGS-037_000706.jpg,SNGS-037,2,706,train_gsr,Shots on target
+images/train/SNGS-037_000721.jpg,SNGS-037,2,721,train_gsr,Shots on target
+images/train/SNGS-037_000736.jpg,SNGS-037,2,736,train_gsr,Shots on target
+images/train/SNGS-038_000001.jpg,SNGS-038,2,1,train_gsr,Offside
+images/train/SNGS-038_000016.jpg,SNGS-038,2,16,train_gsr,Offside
+images/train/SNGS-038_000031.jpg,SNGS-038,2,31,train_gsr,Offside
+images/train/SNGS-038_000046.jpg,SNGS-038,2,46,train_gsr,Offside
+images/train/SNGS-038_000061.jpg,SNGS-038,2,61,train_gsr,Offside
+images/train/SNGS-038_000076.jpg,SNGS-038,2,76,train_gsr,Offside
+images/train/SNGS-038_000091.jpg,SNGS-038,2,91,train_gsr,Offside
+images/train/SNGS-038_000106.jpg,SNGS-038,2,106,train_gsr,Offside
+images/train/SNGS-038_000121.jpg,SNGS-038,2,121,train_gsr,Offside
+images/train/SNGS-038_000136.jpg,SNGS-038,2,136,train_gsr,Offside
+images/train/SNGS-038_000151.jpg,SNGS-038,2,151,train_gsr,Offside
+images/train/SNGS-038_000166.jpg,SNGS-038,2,166,train_gsr,Offside
+images/train/SNGS-038_000181.jpg,SNGS-038,2,181,train_gsr,Offside
+images/train/SNGS-038_000196.jpg,SNGS-038,2,196,train_gsr,Offside
+images/train/SNGS-038_000211.jpg,SNGS-038,2,211,train_gsr,Offside
+images/train/SNGS-038_000226.jpg,SNGS-038,2,226,train_gsr,Offside
+images/train/SNGS-038_000241.jpg,SNGS-038,2,241,train_gsr,Offside
+images/train/SNGS-038_000256.jpg,SNGS-038,2,256,train_gsr,Offside
+images/train/SNGS-038_000271.jpg,SNGS-038,2,271,train_gsr,Offside
+images/train/SNGS-038_000286.jpg,SNGS-038,2,286,train_gsr,Offside
+images/train/SNGS-038_000301.jpg,SNGS-038,2,301,train_gsr,Offside
+images/train/SNGS-038_000316.jpg,SNGS-038,2,316,train_gsr,Offside
+images/train/SNGS-038_000331.jpg,SNGS-038,2,331,train_gsr,Offside
+images/train/SNGS-038_000346.jpg,SNGS-038,2,346,train_gsr,Offside
+images/train/SNGS-038_000361.jpg,SNGS-038,2,361,train_gsr,Offside
+images/train/SNGS-038_000376.jpg,SNGS-038,2,376,train_gsr,Offside
+images/train/SNGS-038_000391.jpg,SNGS-038,2,391,train_gsr,Offside
+images/train/SNGS-038_000406.jpg,SNGS-038,2,406,train_gsr,Offside
+images/train/SNGS-038_000421.jpg,SNGS-038,2,421,train_gsr,Offside
+images/train/SNGS-038_000436.jpg,SNGS-038,2,436,train_gsr,Offside
+images/train/SNGS-038_000451.jpg,SNGS-038,2,451,train_gsr,Offside
+images/train/SNGS-038_000466.jpg,SNGS-038,2,466,train_gsr,Offside
+images/train/SNGS-038_000481.jpg,SNGS-038,2,481,train_gsr,Offside
+images/train/SNGS-038_000496.jpg,SNGS-038,2,496,train_gsr,Offside
+images/train/SNGS-038_000511.jpg,SNGS-038,2,511,train_gsr,Offside
+images/train/SNGS-038_000526.jpg,SNGS-038,2,526,train_gsr,Offside
+images/train/SNGS-038_000541.jpg,SNGS-038,2,541,train_gsr,Offside
+images/train/SNGS-038_000556.jpg,SNGS-038,2,556,train_gsr,Offside
+images/train/SNGS-038_000571.jpg,SNGS-038,2,571,train_gsr,Offside
+images/train/SNGS-038_000586.jpg,SNGS-038,2,586,train_gsr,Offside
+images/train/SNGS-038_000601.jpg,SNGS-038,2,601,train_gsr,Offside
+images/train/SNGS-038_000616.jpg,SNGS-038,2,616,train_gsr,Offside
+images/train/SNGS-038_000631.jpg,SNGS-038,2,631,train_gsr,Offside
+images/train/SNGS-038_000646.jpg,SNGS-038,2,646,train_gsr,Offside
+images/train/SNGS-038_000661.jpg,SNGS-038,2,661,train_gsr,Offside
+images/train/SNGS-038_000676.jpg,SNGS-038,2,676,train_gsr,Offside
+images/train/SNGS-038_000691.jpg,SNGS-038,2,691,train_gsr,Offside
+images/train/SNGS-038_000706.jpg,SNGS-038,2,706,train_gsr,Offside
+images/train/SNGS-038_000721.jpg,SNGS-038,2,721,train_gsr,Offside
+images/train/SNGS-038_000736.jpg,SNGS-038,2,736,train_gsr,Offside
+images/train/SNGS-039_000001.jpg,SNGS-039,3,1,train_gsr,Shots off target
+images/train/SNGS-039_000016.jpg,SNGS-039,3,16,train_gsr,Shots off target
+images/train/SNGS-039_000031.jpg,SNGS-039,3,31,train_gsr,Shots off target
+images/train/SNGS-039_000046.jpg,SNGS-039,3,46,train_gsr,Shots off target
+images/train/SNGS-039_000061.jpg,SNGS-039,3,61,train_gsr,Shots off target
+images/train/SNGS-039_000076.jpg,SNGS-039,3,76,train_gsr,Shots off target
+images/train/SNGS-039_000091.jpg,SNGS-039,3,91,train_gsr,Shots off target
+images/train/SNGS-039_000106.jpg,SNGS-039,3,106,train_gsr,Shots off target
+images/train/SNGS-039_000121.jpg,SNGS-039,3,121,train_gsr,Shots off target
+images/train/SNGS-039_000136.jpg,SNGS-039,3,136,train_gsr,Shots off target
+images/train/SNGS-039_000151.jpg,SNGS-039,3,151,train_gsr,Shots off target
+images/train/SNGS-039_000166.jpg,SNGS-039,3,166,train_gsr,Shots off target
+images/train/SNGS-039_000181.jpg,SNGS-039,3,181,train_gsr,Shots off target
+images/train/SNGS-039_000196.jpg,SNGS-039,3,196,train_gsr,Shots off target
+images/train/SNGS-039_000211.jpg,SNGS-039,3,211,train_gsr,Shots off target
+images/train/SNGS-039_000226.jpg,SNGS-039,3,226,train_gsr,Shots off target
+images/train/SNGS-039_000241.jpg,SNGS-039,3,241,train_gsr,Shots off target
+images/train/SNGS-039_000256.jpg,SNGS-039,3,256,train_gsr,Shots off target
+images/train/SNGS-039_000271.jpg,SNGS-039,3,271,train_gsr,Shots off target
+images/train/SNGS-039_000286.jpg,SNGS-039,3,286,train_gsr,Shots off target
+images/train/SNGS-039_000301.jpg,SNGS-039,3,301,train_gsr,Shots off target
+images/train/SNGS-039_000316.jpg,SNGS-039,3,316,train_gsr,Shots off target
+images/train/SNGS-039_000331.jpg,SNGS-039,3,331,train_gsr,Shots off target
+images/train/SNGS-039_000346.jpg,SNGS-039,3,346,train_gsr,Shots off target
+images/train/SNGS-039_000361.jpg,SNGS-039,3,361,train_gsr,Shots off target
+images/train/SNGS-039_000376.jpg,SNGS-039,3,376,train_gsr,Shots off target
+images/train/SNGS-039_000391.jpg,SNGS-039,3,391,train_gsr,Shots off target
+images/train/SNGS-039_000406.jpg,SNGS-039,3,406,train_gsr,Shots off target
+images/train/SNGS-039_000421.jpg,SNGS-039,3,421,train_gsr,Shots off target
+images/train/SNGS-039_000436.jpg,SNGS-039,3,436,train_gsr,Shots off target
+images/train/SNGS-039_000451.jpg,SNGS-039,3,451,train_gsr,Shots off target
+images/train/SNGS-039_000466.jpg,SNGS-039,3,466,train_gsr,Shots off target
+images/train/SNGS-039_000481.jpg,SNGS-039,3,481,train_gsr,Shots off target
+images/train/SNGS-039_000496.jpg,SNGS-039,3,496,train_gsr,Shots off target
+images/train/SNGS-039_000511.jpg,SNGS-039,3,511,train_gsr,Shots off target
+images/train/SNGS-039_000526.jpg,SNGS-039,3,526,train_gsr,Shots off target
+images/train/SNGS-039_000541.jpg,SNGS-039,3,541,train_gsr,Shots off target
+images/train/SNGS-039_000556.jpg,SNGS-039,3,556,train_gsr,Shots off target
+images/train/SNGS-039_000571.jpg,SNGS-039,3,571,train_gsr,Shots off target
+images/train/SNGS-039_000586.jpg,SNGS-039,3,586,train_gsr,Shots off target
+images/train/SNGS-039_000601.jpg,SNGS-039,3,601,train_gsr,Shots off target
+images/train/SNGS-039_000616.jpg,SNGS-039,3,616,train_gsr,Shots off target
+images/train/SNGS-039_000631.jpg,SNGS-039,3,631,train_gsr,Shots off target
+images/train/SNGS-039_000646.jpg,SNGS-039,3,646,train_gsr,Shots off target
+images/train/SNGS-039_000661.jpg,SNGS-039,3,661,train_gsr,Shots off target
+images/train/SNGS-039_000676.jpg,SNGS-039,3,676,train_gsr,Shots off target
+images/train/SNGS-039_000691.jpg,SNGS-039,3,691,train_gsr,Shots off target
+images/train/SNGS-039_000706.jpg,SNGS-039,3,706,train_gsr,Shots off target
+images/train/SNGS-039_000721.jpg,SNGS-039,3,721,train_gsr,Shots off target
+images/train/SNGS-039_000736.jpg,SNGS-039,3,736,train_gsr,Shots off target
+images/train/SNGS-040_000001.jpg,SNGS-040,3,1,train_gsr,Corner
+images/train/SNGS-040_000016.jpg,SNGS-040,3,16,train_gsr,Corner
+images/train/SNGS-040_000031.jpg,SNGS-040,3,31,train_gsr,Corner
+images/train/SNGS-040_000046.jpg,SNGS-040,3,46,train_gsr,Corner
+images/train/SNGS-040_000061.jpg,SNGS-040,3,61,train_gsr,Corner
+images/train/SNGS-040_000076.jpg,SNGS-040,3,76,train_gsr,Corner
+images/train/SNGS-040_000091.jpg,SNGS-040,3,91,train_gsr,Corner
+images/train/SNGS-040_000106.jpg,SNGS-040,3,106,train_gsr,Corner
+images/train/SNGS-040_000121.jpg,SNGS-040,3,121,train_gsr,Corner
+images/train/SNGS-040_000136.jpg,SNGS-040,3,136,train_gsr,Corner
+images/train/SNGS-040_000151.jpg,SNGS-040,3,151,train_gsr,Corner
+images/train/SNGS-040_000166.jpg,SNGS-040,3,166,train_gsr,Corner
+images/train/SNGS-040_000181.jpg,SNGS-040,3,181,train_gsr,Corner
+images/train/SNGS-040_000196.jpg,SNGS-040,3,196,train_gsr,Corner
+images/train/SNGS-040_000211.jpg,SNGS-040,3,211,train_gsr,Corner
+images/train/SNGS-040_000226.jpg,SNGS-040,3,226,train_gsr,Corner
+images/train/SNGS-040_000241.jpg,SNGS-040,3,241,train_gsr,Corner
+images/train/SNGS-040_000256.jpg,SNGS-040,3,256,train_gsr,Corner
+images/train/SNGS-040_000271.jpg,SNGS-040,3,271,train_gsr,Corner
+images/train/SNGS-040_000286.jpg,SNGS-040,3,286,train_gsr,Corner
+images/train/SNGS-040_000301.jpg,SNGS-040,3,301,train_gsr,Corner
+images/train/SNGS-040_000316.jpg,SNGS-040,3,316,train_gsr,Corner
+images/train/SNGS-040_000331.jpg,SNGS-040,3,331,train_gsr,Corner
+images/train/SNGS-040_000346.jpg,SNGS-040,3,346,train_gsr,Corner
+images/train/SNGS-040_000361.jpg,SNGS-040,3,361,train_gsr,Corner
+images/train/SNGS-040_000376.jpg,SNGS-040,3,376,train_gsr,Corner
+images/train/SNGS-040_000391.jpg,SNGS-040,3,391,train_gsr,Corner
+images/train/SNGS-040_000406.jpg,SNGS-040,3,406,train_gsr,Corner
+images/train/SNGS-040_000421.jpg,SNGS-040,3,421,train_gsr,Corner
+images/train/SNGS-040_000436.jpg,SNGS-040,3,436,train_gsr,Corner
+images/train/SNGS-040_000451.jpg,SNGS-040,3,451,train_gsr,Corner
+images/train/SNGS-040_000466.jpg,SNGS-040,3,466,train_gsr,Corner
+images/train/SNGS-040_000481.jpg,SNGS-040,3,481,train_gsr,Corner
+images/train/SNGS-040_000496.jpg,SNGS-040,3,496,train_gsr,Corner
+images/train/SNGS-040_000511.jpg,SNGS-040,3,511,train_gsr,Corner
+images/train/SNGS-040_000526.jpg,SNGS-040,3,526,train_gsr,Corner
+images/train/SNGS-040_000541.jpg,SNGS-040,3,541,train_gsr,Corner
+images/train/SNGS-040_000556.jpg,SNGS-040,3,556,train_gsr,Corner
+images/train/SNGS-040_000571.jpg,SNGS-040,3,571,train_gsr,Corner
+images/train/SNGS-040_000586.jpg,SNGS-040,3,586,train_gsr,Corner
+images/train/SNGS-040_000601.jpg,SNGS-040,3,601,train_gsr,Corner
+images/train/SNGS-040_000616.jpg,SNGS-040,3,616,train_gsr,Corner
+images/train/SNGS-040_000631.jpg,SNGS-040,3,631,train_gsr,Corner
+images/train/SNGS-040_000646.jpg,SNGS-040,3,646,train_gsr,Corner
+images/train/SNGS-040_000661.jpg,SNGS-040,3,661,train_gsr,Corner
+images/train/SNGS-040_000676.jpg,SNGS-040,3,676,train_gsr,Corner
+images/train/SNGS-040_000691.jpg,SNGS-040,3,691,train_gsr,Corner
+images/train/SNGS-040_000706.jpg,SNGS-040,3,706,train_gsr,Corner
+images/train/SNGS-040_000721.jpg,SNGS-040,3,721,train_gsr,Corner
+images/train/SNGS-040_000736.jpg,SNGS-040,3,736,train_gsr,Corner
+images/train/SNGS-041_000001.jpg,SNGS-041,3,1,train_gsr,Clearance
+images/train/SNGS-041_000016.jpg,SNGS-041,3,16,train_gsr,Clearance
+images/train/SNGS-041_000031.jpg,SNGS-041,3,31,train_gsr,Clearance
+images/train/SNGS-041_000046.jpg,SNGS-041,3,46,train_gsr,Clearance
+images/train/SNGS-041_000061.jpg,SNGS-041,3,61,train_gsr,Clearance
+images/train/SNGS-041_000076.jpg,SNGS-041,3,76,train_gsr,Clearance
+images/train/SNGS-041_000091.jpg,SNGS-041,3,91,train_gsr,Clearance
+images/train/SNGS-041_000106.jpg,SNGS-041,3,106,train_gsr,Clearance
+images/train/SNGS-041_000121.jpg,SNGS-041,3,121,train_gsr,Clearance
+images/train/SNGS-041_000136.jpg,SNGS-041,3,136,train_gsr,Clearance
+images/train/SNGS-041_000151.jpg,SNGS-041,3,151,train_gsr,Clearance
+images/train/SNGS-041_000166.jpg,SNGS-041,3,166,train_gsr,Clearance
+images/train/SNGS-041_000181.jpg,SNGS-041,3,181,train_gsr,Clearance
+images/train/SNGS-041_000196.jpg,SNGS-041,3,196,train_gsr,Clearance
+images/train/SNGS-041_000211.jpg,SNGS-041,3,211,train_gsr,Clearance
+images/train/SNGS-041_000226.jpg,SNGS-041,3,226,train_gsr,Clearance
+images/train/SNGS-041_000241.jpg,SNGS-041,3,241,train_gsr,Clearance
+images/train/SNGS-041_000256.jpg,SNGS-041,3,256,train_gsr,Clearance
+images/train/SNGS-041_000271.jpg,SNGS-041,3,271,train_gsr,Clearance
+images/train/SNGS-041_000286.jpg,SNGS-041,3,286,train_gsr,Clearance
+images/train/SNGS-041_000301.jpg,SNGS-041,3,301,train_gsr,Clearance
+images/train/SNGS-041_000316.jpg,SNGS-041,3,316,train_gsr,Clearance
+images/train/SNGS-041_000331.jpg,SNGS-041,3,331,train_gsr,Clearance
+images/train/SNGS-041_000346.jpg,SNGS-041,3,346,train_gsr,Clearance
+images/train/SNGS-041_000361.jpg,SNGS-041,3,361,train_gsr,Clearance
+images/train/SNGS-041_000376.jpg,SNGS-041,3,376,train_gsr,Clearance
+images/train/SNGS-041_000391.jpg,SNGS-041,3,391,train_gsr,Clearance
+images/train/SNGS-041_000406.jpg,SNGS-041,3,406,train_gsr,Clearance
+images/train/SNGS-041_000421.jpg,SNGS-041,3,421,train_gsr,Clearance
+images/train/SNGS-041_000436.jpg,SNGS-041,3,436,train_gsr,Clearance
+images/train/SNGS-041_000451.jpg,SNGS-041,3,451,train_gsr,Clearance
+images/train/SNGS-041_000466.jpg,SNGS-041,3,466,train_gsr,Clearance
+images/train/SNGS-041_000481.jpg,SNGS-041,3,481,train_gsr,Clearance
+images/train/SNGS-041_000496.jpg,SNGS-041,3,496,train_gsr,Clearance
+images/train/SNGS-041_000511.jpg,SNGS-041,3,511,train_gsr,Clearance
+images/train/SNGS-041_000526.jpg,SNGS-041,3,526,train_gsr,Clearance
+images/train/SNGS-041_000541.jpg,SNGS-041,3,541,train_gsr,Clearance
+images/train/SNGS-041_000556.jpg,SNGS-041,3,556,train_gsr,Clearance
+images/train/SNGS-041_000571.jpg,SNGS-041,3,571,train_gsr,Clearance
+images/train/SNGS-041_000586.jpg,SNGS-041,3,586,train_gsr,Clearance
+images/train/SNGS-041_000601.jpg,SNGS-041,3,601,train_gsr,Clearance
+images/train/SNGS-041_000616.jpg,SNGS-041,3,616,train_gsr,Clearance
+images/train/SNGS-041_000631.jpg,SNGS-041,3,631,train_gsr,Clearance
+images/train/SNGS-041_000646.jpg,SNGS-041,3,646,train_gsr,Clearance
+images/train/SNGS-041_000661.jpg,SNGS-041,3,661,train_gsr,Clearance
+images/train/SNGS-041_000676.jpg,SNGS-041,3,676,train_gsr,Clearance
+images/train/SNGS-041_000691.jpg,SNGS-041,3,691,train_gsr,Clearance
+images/train/SNGS-041_000706.jpg,SNGS-041,3,706,train_gsr,Clearance
+images/train/SNGS-041_000721.jpg,SNGS-041,3,721,train_gsr,Clearance
+images/train/SNGS-041_000736.jpg,SNGS-041,3,736,train_gsr,Clearance
+images/train/SNGS-042_000001.jpg,SNGS-042,3,1,train_gsr,Direct free-kick
+images/train/SNGS-042_000016.jpg,SNGS-042,3,16,train_gsr,Direct free-kick
+images/train/SNGS-042_000031.jpg,SNGS-042,3,31,train_gsr,Direct free-kick
+images/train/SNGS-042_000046.jpg,SNGS-042,3,46,train_gsr,Direct free-kick
+images/train/SNGS-042_000061.jpg,SNGS-042,3,61,train_gsr,Direct free-kick
+images/train/SNGS-042_000076.jpg,SNGS-042,3,76,train_gsr,Direct free-kick
+images/train/SNGS-042_000091.jpg,SNGS-042,3,91,train_gsr,Direct free-kick
+images/train/SNGS-042_000106.jpg,SNGS-042,3,106,train_gsr,Direct free-kick
+images/train/SNGS-042_000121.jpg,SNGS-042,3,121,train_gsr,Direct free-kick
+images/train/SNGS-042_000136.jpg,SNGS-042,3,136,train_gsr,Direct free-kick
+images/train/SNGS-042_000151.jpg,SNGS-042,3,151,train_gsr,Direct free-kick
+images/train/SNGS-042_000166.jpg,SNGS-042,3,166,train_gsr,Direct free-kick
+images/train/SNGS-042_000181.jpg,SNGS-042,3,181,train_gsr,Direct free-kick
+images/train/SNGS-042_000196.jpg,SNGS-042,3,196,train_gsr,Direct free-kick
+images/train/SNGS-042_000211.jpg,SNGS-042,3,211,train_gsr,Direct free-kick
+images/train/SNGS-042_000226.jpg,SNGS-042,3,226,train_gsr,Direct free-kick
+images/train/SNGS-042_000241.jpg,SNGS-042,3,241,train_gsr,Direct free-kick
+images/train/SNGS-042_000256.jpg,SNGS-042,3,256,train_gsr,Direct free-kick
+images/train/SNGS-042_000271.jpg,SNGS-042,3,271,train_gsr,Direct free-kick
+images/train/SNGS-042_000286.jpg,SNGS-042,3,286,train_gsr,Direct free-kick
+images/train/SNGS-042_000301.jpg,SNGS-042,3,301,train_gsr,Direct free-kick
+images/train/SNGS-042_000316.jpg,SNGS-042,3,316,train_gsr,Direct free-kick
+images/train/SNGS-042_000331.jpg,SNGS-042,3,331,train_gsr,Direct free-kick
+images/train/SNGS-042_000346.jpg,SNGS-042,3,346,train_gsr,Direct free-kick
+images/train/SNGS-042_000361.jpg,SNGS-042,3,361,train_gsr,Direct free-kick
+images/train/SNGS-042_000376.jpg,SNGS-042,3,376,train_gsr,Direct free-kick
+images/train/SNGS-042_000391.jpg,SNGS-042,3,391,train_gsr,Direct free-kick
+images/train/SNGS-042_000406.jpg,SNGS-042,3,406,train_gsr,Direct free-kick
+images/train/SNGS-042_000421.jpg,SNGS-042,3,421,train_gsr,Direct free-kick
+images/train/SNGS-042_000436.jpg,SNGS-042,3,436,train_gsr,Direct free-kick
+images/train/SNGS-042_000451.jpg,SNGS-042,3,451,train_gsr,Direct free-kick
+images/train/SNGS-042_000466.jpg,SNGS-042,3,466,train_gsr,Direct free-kick
+images/train/SNGS-042_000481.jpg,SNGS-042,3,481,train_gsr,Direct free-kick
+images/train/SNGS-042_000496.jpg,SNGS-042,3,496,train_gsr,Direct free-kick
+images/train/SNGS-042_000511.jpg,SNGS-042,3,511,train_gsr,Direct free-kick
+images/train/SNGS-042_000526.jpg,SNGS-042,3,526,train_gsr,Direct free-kick
+images/train/SNGS-042_000541.jpg,SNGS-042,3,541,train_gsr,Direct free-kick
+images/train/SNGS-042_000556.jpg,SNGS-042,3,556,train_gsr,Direct free-kick
+images/train/SNGS-042_000571.jpg,SNGS-042,3,571,train_gsr,Direct free-kick
+images/train/SNGS-042_000586.jpg,SNGS-042,3,586,train_gsr,Direct free-kick
+images/train/SNGS-042_000601.jpg,SNGS-042,3,601,train_gsr,Direct free-kick
+images/train/SNGS-042_000616.jpg,SNGS-042,3,616,train_gsr,Direct free-kick
+images/train/SNGS-042_000631.jpg,SNGS-042,3,631,train_gsr,Direct free-kick
+images/train/SNGS-042_000646.jpg,SNGS-042,3,646,train_gsr,Direct free-kick
+images/train/SNGS-042_000661.jpg,SNGS-042,3,661,train_gsr,Direct free-kick
+images/train/SNGS-042_000676.jpg,SNGS-042,3,676,train_gsr,Direct free-kick
+images/train/SNGS-042_000691.jpg,SNGS-042,3,691,train_gsr,Direct free-kick
+images/train/SNGS-042_000706.jpg,SNGS-042,3,706,train_gsr,Direct free-kick
+images/train/SNGS-042_000721.jpg,SNGS-042,3,721,train_gsr,Direct free-kick
+images/train/SNGS-042_000736.jpg,SNGS-042,3,736,train_gsr,Direct free-kick
+images/train/SNGS-043_000001.jpg,SNGS-043,3,1,train_gsr,Goal
+images/train/SNGS-043_000016.jpg,SNGS-043,3,16,train_gsr,Goal
+images/train/SNGS-043_000031.jpg,SNGS-043,3,31,train_gsr,Goal
+images/train/SNGS-043_000046.jpg,SNGS-043,3,46,train_gsr,Goal
+images/train/SNGS-043_000061.jpg,SNGS-043,3,61,train_gsr,Goal
+images/train/SNGS-043_000076.jpg,SNGS-043,3,76,train_gsr,Goal
+images/train/SNGS-043_000091.jpg,SNGS-043,3,91,train_gsr,Goal
+images/train/SNGS-043_000106.jpg,SNGS-043,3,106,train_gsr,Goal
+images/train/SNGS-043_000121.jpg,SNGS-043,3,121,train_gsr,Goal
+images/train/SNGS-043_000136.jpg,SNGS-043,3,136,train_gsr,Goal
+images/train/SNGS-043_000151.jpg,SNGS-043,3,151,train_gsr,Goal
+images/train/SNGS-043_000166.jpg,SNGS-043,3,166,train_gsr,Goal
+images/train/SNGS-043_000181.jpg,SNGS-043,3,181,train_gsr,Goal
+images/train/SNGS-043_000196.jpg,SNGS-043,3,196,train_gsr,Goal
+images/train/SNGS-043_000211.jpg,SNGS-043,3,211,train_gsr,Goal
+images/train/SNGS-043_000226.jpg,SNGS-043,3,226,train_gsr,Goal
+images/train/SNGS-043_000241.jpg,SNGS-043,3,241,train_gsr,Goal
+images/train/SNGS-043_000256.jpg,SNGS-043,3,256,train_gsr,Goal
+images/train/SNGS-043_000271.jpg,SNGS-043,3,271,train_gsr,Goal
+images/train/SNGS-043_000286.jpg,SNGS-043,3,286,train_gsr,Goal
+images/train/SNGS-043_000301.jpg,SNGS-043,3,301,train_gsr,Goal
+images/train/SNGS-043_000316.jpg,SNGS-043,3,316,train_gsr,Goal
+images/train/SNGS-043_000331.jpg,SNGS-043,3,331,train_gsr,Goal
+images/train/SNGS-043_000346.jpg,SNGS-043,3,346,train_gsr,Goal
+images/train/SNGS-043_000361.jpg,SNGS-043,3,361,train_gsr,Goal
+images/train/SNGS-043_000376.jpg,SNGS-043,3,376,train_gsr,Goal
+images/train/SNGS-043_000391.jpg,SNGS-043,3,391,train_gsr,Goal
+images/train/SNGS-043_000406.jpg,SNGS-043,3,406,train_gsr,Goal
+images/train/SNGS-043_000421.jpg,SNGS-043,3,421,train_gsr,Goal
+images/train/SNGS-043_000436.jpg,SNGS-043,3,436,train_gsr,Goal
+images/train/SNGS-043_000451.jpg,SNGS-043,3,451,train_gsr,Goal
+images/train/SNGS-043_000466.jpg,SNGS-043,3,466,train_gsr,Goal
+images/train/SNGS-043_000481.jpg,SNGS-043,3,481,train_gsr,Goal
+images/train/SNGS-043_000496.jpg,SNGS-043,3,496,train_gsr,Goal
+images/train/SNGS-043_000511.jpg,SNGS-043,3,511,train_gsr,Goal
+images/train/SNGS-043_000526.jpg,SNGS-043,3,526,train_gsr,Goal
+images/train/SNGS-043_000541.jpg,SNGS-043,3,541,train_gsr,Goal
+images/train/SNGS-043_000556.jpg,SNGS-043,3,556,train_gsr,Goal
+images/train/SNGS-043_000571.jpg,SNGS-043,3,571,train_gsr,Goal
+images/train/SNGS-043_000586.jpg,SNGS-043,3,586,train_gsr,Goal
+images/train/SNGS-043_000601.jpg,SNGS-043,3,601,train_gsr,Goal
+images/train/SNGS-043_000616.jpg,SNGS-043,3,616,train_gsr,Goal
+images/train/SNGS-043_000631.jpg,SNGS-043,3,631,train_gsr,Goal
+images/train/SNGS-043_000646.jpg,SNGS-043,3,646,train_gsr,Goal
+images/train/SNGS-043_000661.jpg,SNGS-043,3,661,train_gsr,Goal
+images/train/SNGS-043_000676.jpg,SNGS-043,3,676,train_gsr,Goal
+images/train/SNGS-043_000691.jpg,SNGS-043,3,691,train_gsr,Goal
+images/train/SNGS-043_000706.jpg,SNGS-043,3,706,train_gsr,Goal
+images/train/SNGS-043_000721.jpg,SNGS-043,3,721,train_gsr,Goal
+images/train/SNGS-043_000736.jpg,SNGS-043,3,736,train_gsr,Goal
+images/train/SNGS-044_000001.jpg,SNGS-044,3,1,train_gsr,Yellow card
+images/train/SNGS-044_000016.jpg,SNGS-044,3,16,train_gsr,Yellow card
+images/train/SNGS-044_000031.jpg,SNGS-044,3,31,train_gsr,Yellow card
+images/train/SNGS-044_000046.jpg,SNGS-044,3,46,train_gsr,Yellow card
+images/train/SNGS-044_000061.jpg,SNGS-044,3,61,train_gsr,Yellow card
+images/train/SNGS-044_000076.jpg,SNGS-044,3,76,train_gsr,Yellow card
+images/train/SNGS-044_000091.jpg,SNGS-044,3,91,train_gsr,Yellow card
+images/train/SNGS-044_000106.jpg,SNGS-044,3,106,train_gsr,Yellow card
+images/train/SNGS-044_000121.jpg,SNGS-044,3,121,train_gsr,Yellow card
+images/train/SNGS-044_000136.jpg,SNGS-044,3,136,train_gsr,Yellow card
+images/train/SNGS-044_000151.jpg,SNGS-044,3,151,train_gsr,Yellow card
+images/train/SNGS-044_000166.jpg,SNGS-044,3,166,train_gsr,Yellow card
+images/train/SNGS-044_000181.jpg,SNGS-044,3,181,train_gsr,Yellow card
+images/train/SNGS-044_000196.jpg,SNGS-044,3,196,train_gsr,Yellow card
+images/train/SNGS-044_000211.jpg,SNGS-044,3,211,train_gsr,Yellow card
+images/train/SNGS-044_000226.jpg,SNGS-044,3,226,train_gsr,Yellow card
+images/train/SNGS-044_000241.jpg,SNGS-044,3,241,train_gsr,Yellow card
+images/train/SNGS-044_000256.jpg,SNGS-044,3,256,train_gsr,Yellow card
+images/train/SNGS-044_000271.jpg,SNGS-044,3,271,train_gsr,Yellow card
+images/train/SNGS-044_000286.jpg,SNGS-044,3,286,train_gsr,Yellow card
+images/train/SNGS-044_000301.jpg,SNGS-044,3,301,train_gsr,Yellow card
+images/train/SNGS-044_000316.jpg,SNGS-044,3,316,train_gsr,Yellow card
+images/train/SNGS-044_000331.jpg,SNGS-044,3,331,train_gsr,Yellow card
+images/train/SNGS-044_000346.jpg,SNGS-044,3,346,train_gsr,Yellow card
+images/train/SNGS-044_000361.jpg,SNGS-044,3,361,train_gsr,Yellow card
+images/train/SNGS-044_000376.jpg,SNGS-044,3,376,train_gsr,Yellow card
+images/train/SNGS-044_000391.jpg,SNGS-044,3,391,train_gsr,Yellow card
+images/train/SNGS-044_000406.jpg,SNGS-044,3,406,train_gsr,Yellow card
+images/train/SNGS-044_000421.jpg,SNGS-044,3,421,train_gsr,Yellow card
+images/train/SNGS-044_000436.jpg,SNGS-044,3,436,train_gsr,Yellow card
+images/train/SNGS-044_000451.jpg,SNGS-044,3,451,train_gsr,Yellow card
+images/train/SNGS-044_000466.jpg,SNGS-044,3,466,train_gsr,Yellow card
+images/train/SNGS-044_000481.jpg,SNGS-044,3,481,train_gsr,Yellow card
+images/train/SNGS-044_000496.jpg,SNGS-044,3,496,train_gsr,Yellow card
+images/train/SNGS-044_000511.jpg,SNGS-044,3,511,train_gsr,Yellow card
+images/train/SNGS-044_000526.jpg,SNGS-044,3,526,train_gsr,Yellow card
+images/train/SNGS-044_000541.jpg,SNGS-044,3,541,train_gsr,Yellow card
+images/train/SNGS-044_000556.jpg,SNGS-044,3,556,train_gsr,Yellow card
+images/train/SNGS-044_000571.jpg,SNGS-044,3,571,train_gsr,Yellow card
+images/train/SNGS-044_000586.jpg,SNGS-044,3,586,train_gsr,Yellow card
+images/train/SNGS-044_000601.jpg,SNGS-044,3,601,train_gsr,Yellow card
+images/train/SNGS-044_000616.jpg,SNGS-044,3,616,train_gsr,Yellow card
+images/train/SNGS-044_000631.jpg,SNGS-044,3,631,train_gsr,Yellow card
+images/train/SNGS-044_000646.jpg,SNGS-044,3,646,train_gsr,Yellow card
+images/train/SNGS-044_000661.jpg,SNGS-044,3,661,train_gsr,Yellow card
+images/train/SNGS-044_000676.jpg,SNGS-044,3,676,train_gsr,Yellow card
+images/train/SNGS-044_000691.jpg,SNGS-044,3,691,train_gsr,Yellow card
+images/train/SNGS-044_000706.jpg,SNGS-044,3,706,train_gsr,Yellow card
+images/train/SNGS-044_000721.jpg,SNGS-044,3,721,train_gsr,Yellow card
+images/train/SNGS-044_000736.jpg,SNGS-044,3,736,train_gsr,Yellow card
+images/train/SNGS-045_000001.jpg,SNGS-045,3,1,train_gsr,Offside
+images/train/SNGS-045_000016.jpg,SNGS-045,3,16,train_gsr,Offside
+images/train/SNGS-045_000031.jpg,SNGS-045,3,31,train_gsr,Offside
+images/train/SNGS-045_000046.jpg,SNGS-045,3,46,train_gsr,Offside
+images/train/SNGS-045_000061.jpg,SNGS-045,3,61,train_gsr,Offside
+images/train/SNGS-045_000076.jpg,SNGS-045,3,76,train_gsr,Offside
+images/train/SNGS-045_000091.jpg,SNGS-045,3,91,train_gsr,Offside
+images/train/SNGS-045_000106.jpg,SNGS-045,3,106,train_gsr,Offside
+images/train/SNGS-045_000121.jpg,SNGS-045,3,121,train_gsr,Offside
+images/train/SNGS-045_000136.jpg,SNGS-045,3,136,train_gsr,Offside
+images/train/SNGS-045_000151.jpg,SNGS-045,3,151,train_gsr,Offside
+images/train/SNGS-045_000166.jpg,SNGS-045,3,166,train_gsr,Offside
+images/train/SNGS-045_000181.jpg,SNGS-045,3,181,train_gsr,Offside
+images/train/SNGS-045_000196.jpg,SNGS-045,3,196,train_gsr,Offside
+images/train/SNGS-045_000211.jpg,SNGS-045,3,211,train_gsr,Offside
+images/train/SNGS-045_000226.jpg,SNGS-045,3,226,train_gsr,Offside
+images/train/SNGS-045_000241.jpg,SNGS-045,3,241,train_gsr,Offside
+images/train/SNGS-045_000256.jpg,SNGS-045,3,256,train_gsr,Offside
+images/train/SNGS-045_000271.jpg,SNGS-045,3,271,train_gsr,Offside
+images/train/SNGS-045_000286.jpg,SNGS-045,3,286,train_gsr,Offside
+images/train/SNGS-045_000301.jpg,SNGS-045,3,301,train_gsr,Offside
+images/train/SNGS-045_000316.jpg,SNGS-045,3,316,train_gsr,Offside
+images/train/SNGS-045_000331.jpg,SNGS-045,3,331,train_gsr,Offside
+images/train/SNGS-045_000346.jpg,SNGS-045,3,346,train_gsr,Offside
+images/train/SNGS-045_000361.jpg,SNGS-045,3,361,train_gsr,Offside
+images/train/SNGS-045_000376.jpg,SNGS-045,3,376,train_gsr,Offside
+images/train/SNGS-045_000391.jpg,SNGS-045,3,391,train_gsr,Offside
+images/train/SNGS-045_000406.jpg,SNGS-045,3,406,train_gsr,Offside
+images/train/SNGS-045_000421.jpg,SNGS-045,3,421,train_gsr,Offside
+images/train/SNGS-045_000436.jpg,SNGS-045,3,436,train_gsr,Offside
+images/train/SNGS-045_000451.jpg,SNGS-045,3,451,train_gsr,Offside
+images/train/SNGS-045_000466.jpg,SNGS-045,3,466,train_gsr,Offside
+images/train/SNGS-045_000481.jpg,SNGS-045,3,481,train_gsr,Offside
+images/train/SNGS-045_000496.jpg,SNGS-045,3,496,train_gsr,Offside
+images/train/SNGS-045_000511.jpg,SNGS-045,3,511,train_gsr,Offside
+images/train/SNGS-045_000526.jpg,SNGS-045,3,526,train_gsr,Offside
+images/train/SNGS-045_000541.jpg,SNGS-045,3,541,train_gsr,Offside
+images/train/SNGS-045_000556.jpg,SNGS-045,3,556,train_gsr,Offside
+images/train/SNGS-045_000571.jpg,SNGS-045,3,571,train_gsr,Offside
+images/train/SNGS-045_000586.jpg,SNGS-045,3,586,train_gsr,Offside
+images/train/SNGS-045_000601.jpg,SNGS-045,3,601,train_gsr,Offside
+images/train/SNGS-045_000616.jpg,SNGS-045,3,616,train_gsr,Offside
+images/train/SNGS-045_000631.jpg,SNGS-045,3,631,train_gsr,Offside
+images/train/SNGS-045_000646.jpg,SNGS-045,3,646,train_gsr,Offside
+images/train/SNGS-045_000661.jpg,SNGS-045,3,661,train_gsr,Offside
+images/train/SNGS-045_000676.jpg,SNGS-045,3,676,train_gsr,Offside
+images/train/SNGS-045_000691.jpg,SNGS-045,3,691,train_gsr,Offside
+images/train/SNGS-045_000706.jpg,SNGS-045,3,706,train_gsr,Offside
+images/train/SNGS-045_000721.jpg,SNGS-045,3,721,train_gsr,Offside
+images/train/SNGS-045_000736.jpg,SNGS-045,3,736,train_gsr,Offside
+images/train/SNGS-046_000001.jpg,SNGS-046,3,1,train_gsr,Foul
+images/train/SNGS-046_000016.jpg,SNGS-046,3,16,train_gsr,Foul
+images/train/SNGS-046_000031.jpg,SNGS-046,3,31,train_gsr,Foul
+images/train/SNGS-046_000046.jpg,SNGS-046,3,46,train_gsr,Foul
+images/train/SNGS-046_000061.jpg,SNGS-046,3,61,train_gsr,Foul
+images/train/SNGS-046_000076.jpg,SNGS-046,3,76,train_gsr,Foul
+images/train/SNGS-046_000091.jpg,SNGS-046,3,91,train_gsr,Foul
+images/train/SNGS-046_000106.jpg,SNGS-046,3,106,train_gsr,Foul
+images/train/SNGS-046_000121.jpg,SNGS-046,3,121,train_gsr,Foul
+images/train/SNGS-046_000136.jpg,SNGS-046,3,136,train_gsr,Foul
+images/train/SNGS-046_000151.jpg,SNGS-046,3,151,train_gsr,Foul
+images/train/SNGS-046_000166.jpg,SNGS-046,3,166,train_gsr,Foul
+images/train/SNGS-046_000181.jpg,SNGS-046,3,181,train_gsr,Foul
+images/train/SNGS-046_000196.jpg,SNGS-046,3,196,train_gsr,Foul
+images/train/SNGS-046_000211.jpg,SNGS-046,3,211,train_gsr,Foul
+images/train/SNGS-046_000226.jpg,SNGS-046,3,226,train_gsr,Foul
+images/train/SNGS-046_000241.jpg,SNGS-046,3,241,train_gsr,Foul
+images/train/SNGS-046_000256.jpg,SNGS-046,3,256,train_gsr,Foul
+images/train/SNGS-046_000271.jpg,SNGS-046,3,271,train_gsr,Foul
+images/train/SNGS-046_000286.jpg,SNGS-046,3,286,train_gsr,Foul
+images/train/SNGS-046_000301.jpg,SNGS-046,3,301,train_gsr,Foul
+images/train/SNGS-046_000316.jpg,SNGS-046,3,316,train_gsr,Foul
+images/train/SNGS-046_000331.jpg,SNGS-046,3,331,train_gsr,Foul
+images/train/SNGS-046_000346.jpg,SNGS-046,3,346,train_gsr,Foul
+images/train/SNGS-046_000361.jpg,SNGS-046,3,361,train_gsr,Foul
+images/train/SNGS-046_000376.jpg,SNGS-046,3,376,train_gsr,Foul
+images/train/SNGS-046_000391.jpg,SNGS-046,3,391,train_gsr,Foul
+images/train/SNGS-046_000406.jpg,SNGS-046,3,406,train_gsr,Foul
+images/train/SNGS-046_000421.jpg,SNGS-046,3,421,train_gsr,Foul
+images/train/SNGS-046_000436.jpg,SNGS-046,3,436,train_gsr,Foul
+images/train/SNGS-046_000451.jpg,SNGS-046,3,451,train_gsr,Foul
+images/train/SNGS-046_000466.jpg,SNGS-046,3,466,train_gsr,Foul
+images/train/SNGS-046_000481.jpg,SNGS-046,3,481,train_gsr,Foul
+images/train/SNGS-046_000496.jpg,SNGS-046,3,496,train_gsr,Foul
+images/train/SNGS-046_000511.jpg,SNGS-046,3,511,train_gsr,Foul
+images/train/SNGS-046_000526.jpg,SNGS-046,3,526,train_gsr,Foul
+images/train/SNGS-046_000541.jpg,SNGS-046,3,541,train_gsr,Foul
+images/train/SNGS-046_000556.jpg,SNGS-046,3,556,train_gsr,Foul
+images/train/SNGS-046_000571.jpg,SNGS-046,3,571,train_gsr,Foul
+images/train/SNGS-046_000586.jpg,SNGS-046,3,586,train_gsr,Foul
+images/train/SNGS-046_000601.jpg,SNGS-046,3,601,train_gsr,Foul
+images/train/SNGS-046_000616.jpg,SNGS-046,3,616,train_gsr,Foul
+images/train/SNGS-046_000631.jpg,SNGS-046,3,631,train_gsr,Foul
+images/train/SNGS-046_000646.jpg,SNGS-046,3,646,train_gsr,Foul
+images/train/SNGS-046_000661.jpg,SNGS-046,3,661,train_gsr,Foul
+images/train/SNGS-046_000676.jpg,SNGS-046,3,676,train_gsr,Foul
+images/train/SNGS-046_000691.jpg,SNGS-046,3,691,train_gsr,Foul
+images/train/SNGS-046_000706.jpg,SNGS-046,3,706,train_gsr,Foul
+images/train/SNGS-046_000721.jpg,SNGS-046,3,721,train_gsr,Foul
+images/train/SNGS-046_000736.jpg,SNGS-046,3,736,train_gsr,Foul
+images/train/SNGS-047_000001.jpg,SNGS-047,3,1,train_gsr,Goal
+images/train/SNGS-047_000016.jpg,SNGS-047,3,16,train_gsr,Goal
+images/train/SNGS-047_000031.jpg,SNGS-047,3,31,train_gsr,Goal
+images/train/SNGS-047_000046.jpg,SNGS-047,3,46,train_gsr,Goal
+images/train/SNGS-047_000061.jpg,SNGS-047,3,61,train_gsr,Goal
+images/train/SNGS-047_000076.jpg,SNGS-047,3,76,train_gsr,Goal
+images/train/SNGS-047_000091.jpg,SNGS-047,3,91,train_gsr,Goal
+images/train/SNGS-047_000106.jpg,SNGS-047,3,106,train_gsr,Goal
+images/train/SNGS-047_000121.jpg,SNGS-047,3,121,train_gsr,Goal
+images/train/SNGS-047_000136.jpg,SNGS-047,3,136,train_gsr,Goal
+images/train/SNGS-047_000151.jpg,SNGS-047,3,151,train_gsr,Goal
+images/train/SNGS-047_000166.jpg,SNGS-047,3,166,train_gsr,Goal
+images/train/SNGS-047_000181.jpg,SNGS-047,3,181,train_gsr,Goal
+images/train/SNGS-047_000196.jpg,SNGS-047,3,196,train_gsr,Goal
+images/train/SNGS-047_000211.jpg,SNGS-047,3,211,train_gsr,Goal
+images/train/SNGS-047_000226.jpg,SNGS-047,3,226,train_gsr,Goal
+images/train/SNGS-047_000241.jpg,SNGS-047,3,241,train_gsr,Goal
+images/train/SNGS-047_000256.jpg,SNGS-047,3,256,train_gsr,Goal
+images/train/SNGS-047_000271.jpg,SNGS-047,3,271,train_gsr,Goal
+images/train/SNGS-047_000286.jpg,SNGS-047,3,286,train_gsr,Goal
+images/train/SNGS-047_000301.jpg,SNGS-047,3,301,train_gsr,Goal
+images/train/SNGS-047_000316.jpg,SNGS-047,3,316,train_gsr,Goal
+images/train/SNGS-047_000331.jpg,SNGS-047,3,331,train_gsr,Goal
+images/train/SNGS-047_000346.jpg,SNGS-047,3,346,train_gsr,Goal
+images/train/SNGS-047_000361.jpg,SNGS-047,3,361,train_gsr,Goal
+images/train/SNGS-047_000376.jpg,SNGS-047,3,376,train_gsr,Goal
+images/train/SNGS-047_000391.jpg,SNGS-047,3,391,train_gsr,Goal
+images/train/SNGS-047_000406.jpg,SNGS-047,3,406,train_gsr,Goal
+images/train/SNGS-047_000421.jpg,SNGS-047,3,421,train_gsr,Goal
+images/train/SNGS-047_000436.jpg,SNGS-047,3,436,train_gsr,Goal
+images/train/SNGS-047_000451.jpg,SNGS-047,3,451,train_gsr,Goal
+images/train/SNGS-047_000466.jpg,SNGS-047,3,466,train_gsr,Goal
+images/train/SNGS-047_000481.jpg,SNGS-047,3,481,train_gsr,Goal
+images/train/SNGS-047_000496.jpg,SNGS-047,3,496,train_gsr,Goal
+images/train/SNGS-047_000511.jpg,SNGS-047,3,511,train_gsr,Goal
+images/train/SNGS-047_000526.jpg,SNGS-047,3,526,train_gsr,Goal
+images/train/SNGS-047_000541.jpg,SNGS-047,3,541,train_gsr,Goal
+images/train/SNGS-047_000556.jpg,SNGS-047,3,556,train_gsr,Goal
+images/train/SNGS-047_000571.jpg,SNGS-047,3,571,train_gsr,Goal
+images/train/SNGS-047_000586.jpg,SNGS-047,3,586,train_gsr,Goal
+images/train/SNGS-047_000601.jpg,SNGS-047,3,601,train_gsr,Goal
+images/train/SNGS-047_000616.jpg,SNGS-047,3,616,train_gsr,Goal
+images/train/SNGS-047_000631.jpg,SNGS-047,3,631,train_gsr,Goal
+images/train/SNGS-047_000646.jpg,SNGS-047,3,646,train_gsr,Goal
+images/train/SNGS-047_000661.jpg,SNGS-047,3,661,train_gsr,Goal
+images/train/SNGS-047_000676.jpg,SNGS-047,3,676,train_gsr,Goal
+images/train/SNGS-047_000691.jpg,SNGS-047,3,691,train_gsr,Goal
+images/train/SNGS-047_000706.jpg,SNGS-047,3,706,train_gsr,Goal
+images/train/SNGS-047_000721.jpg,SNGS-047,3,721,train_gsr,Goal
+images/train/SNGS-047_000736.jpg,SNGS-047,3,736,train_gsr,Goal
+images/train/SNGS-048_000001.jpg,SNGS-048,3,1,train_gsr,Kick-off
+images/train/SNGS-048_000016.jpg,SNGS-048,3,16,train_gsr,Kick-off
+images/train/SNGS-048_000031.jpg,SNGS-048,3,31,train_gsr,Kick-off
+images/train/SNGS-048_000046.jpg,SNGS-048,3,46,train_gsr,Kick-off
+images/train/SNGS-048_000061.jpg,SNGS-048,3,61,train_gsr,Kick-off
+images/train/SNGS-048_000076.jpg,SNGS-048,3,76,train_gsr,Kick-off
+images/train/SNGS-048_000091.jpg,SNGS-048,3,91,train_gsr,Kick-off
+images/train/SNGS-048_000106.jpg,SNGS-048,3,106,train_gsr,Kick-off
+images/train/SNGS-048_000121.jpg,SNGS-048,3,121,train_gsr,Kick-off
+images/train/SNGS-048_000136.jpg,SNGS-048,3,136,train_gsr,Kick-off
+images/train/SNGS-048_000151.jpg,SNGS-048,3,151,train_gsr,Kick-off
+images/train/SNGS-048_000166.jpg,SNGS-048,3,166,train_gsr,Kick-off
+images/train/SNGS-048_000181.jpg,SNGS-048,3,181,train_gsr,Kick-off
+images/train/SNGS-048_000196.jpg,SNGS-048,3,196,train_gsr,Kick-off
+images/train/SNGS-048_000211.jpg,SNGS-048,3,211,train_gsr,Kick-off
+images/train/SNGS-048_000226.jpg,SNGS-048,3,226,train_gsr,Kick-off
+images/train/SNGS-048_000241.jpg,SNGS-048,3,241,train_gsr,Kick-off
+images/train/SNGS-048_000256.jpg,SNGS-048,3,256,train_gsr,Kick-off
+images/train/SNGS-048_000271.jpg,SNGS-048,3,271,train_gsr,Kick-off
+images/train/SNGS-048_000286.jpg,SNGS-048,3,286,train_gsr,Kick-off
+images/train/SNGS-048_000301.jpg,SNGS-048,3,301,train_gsr,Kick-off
+images/train/SNGS-048_000316.jpg,SNGS-048,3,316,train_gsr,Kick-off
+images/train/SNGS-048_000331.jpg,SNGS-048,3,331,train_gsr,Kick-off
+images/train/SNGS-048_000346.jpg,SNGS-048,3,346,train_gsr,Kick-off
+images/train/SNGS-048_000361.jpg,SNGS-048,3,361,train_gsr,Kick-off
+images/train/SNGS-048_000376.jpg,SNGS-048,3,376,train_gsr,Kick-off
+images/train/SNGS-048_000391.jpg,SNGS-048,3,391,train_gsr,Kick-off
+images/train/SNGS-048_000406.jpg,SNGS-048,3,406,train_gsr,Kick-off
+images/train/SNGS-048_000421.jpg,SNGS-048,3,421,train_gsr,Kick-off
+images/train/SNGS-048_000436.jpg,SNGS-048,3,436,train_gsr,Kick-off
+images/train/SNGS-048_000451.jpg,SNGS-048,3,451,train_gsr,Kick-off
+images/train/SNGS-048_000466.jpg,SNGS-048,3,466,train_gsr,Kick-off
+images/train/SNGS-048_000481.jpg,SNGS-048,3,481,train_gsr,Kick-off
+images/train/SNGS-048_000496.jpg,SNGS-048,3,496,train_gsr,Kick-off
+images/train/SNGS-048_000511.jpg,SNGS-048,3,511,train_gsr,Kick-off
+images/train/SNGS-048_000526.jpg,SNGS-048,3,526,train_gsr,Kick-off
+images/train/SNGS-048_000541.jpg,SNGS-048,3,541,train_gsr,Kick-off
+images/train/SNGS-048_000556.jpg,SNGS-048,3,556,train_gsr,Kick-off
+images/train/SNGS-048_000571.jpg,SNGS-048,3,571,train_gsr,Kick-off
+images/train/SNGS-048_000586.jpg,SNGS-048,3,586,train_gsr,Kick-off
+images/train/SNGS-048_000601.jpg,SNGS-048,3,601,train_gsr,Kick-off
+images/train/SNGS-048_000616.jpg,SNGS-048,3,616,train_gsr,Kick-off
+images/train/SNGS-048_000631.jpg,SNGS-048,3,631,train_gsr,Kick-off
+images/train/SNGS-048_000646.jpg,SNGS-048,3,646,train_gsr,Kick-off
+images/train/SNGS-048_000661.jpg,SNGS-048,3,661,train_gsr,Kick-off
+images/train/SNGS-048_000676.jpg,SNGS-048,3,676,train_gsr,Kick-off
+images/train/SNGS-048_000691.jpg,SNGS-048,3,691,train_gsr,Kick-off
+images/train/SNGS-048_000706.jpg,SNGS-048,3,706,train_gsr,Kick-off
+images/train/SNGS-048_000721.jpg,SNGS-048,3,721,train_gsr,Kick-off
+images/train/SNGS-048_000736.jpg,SNGS-048,3,736,train_gsr,Kick-off
+images/train/SNGS-049_000001.jpg,SNGS-049,3,1,train_gsr,Kick-off
+images/train/SNGS-049_000016.jpg,SNGS-049,3,16,train_gsr,Kick-off
+images/train/SNGS-049_000031.jpg,SNGS-049,3,31,train_gsr,Kick-off
+images/train/SNGS-049_000046.jpg,SNGS-049,3,46,train_gsr,Kick-off
+images/train/SNGS-049_000061.jpg,SNGS-049,3,61,train_gsr,Kick-off
+images/train/SNGS-049_000076.jpg,SNGS-049,3,76,train_gsr,Kick-off
+images/train/SNGS-049_000091.jpg,SNGS-049,3,91,train_gsr,Kick-off
+images/train/SNGS-049_000106.jpg,SNGS-049,3,106,train_gsr,Kick-off
+images/train/SNGS-049_000121.jpg,SNGS-049,3,121,train_gsr,Kick-off
+images/train/SNGS-049_000136.jpg,SNGS-049,3,136,train_gsr,Kick-off
+images/train/SNGS-049_000151.jpg,SNGS-049,3,151,train_gsr,Kick-off
+images/train/SNGS-049_000166.jpg,SNGS-049,3,166,train_gsr,Kick-off
+images/train/SNGS-049_000181.jpg,SNGS-049,3,181,train_gsr,Kick-off
+images/train/SNGS-049_000196.jpg,SNGS-049,3,196,train_gsr,Kick-off
+images/train/SNGS-049_000211.jpg,SNGS-049,3,211,train_gsr,Kick-off
+images/train/SNGS-049_000226.jpg,SNGS-049,3,226,train_gsr,Kick-off
+images/train/SNGS-049_000241.jpg,SNGS-049,3,241,train_gsr,Kick-off
+images/train/SNGS-049_000256.jpg,SNGS-049,3,256,train_gsr,Kick-off
+images/train/SNGS-049_000271.jpg,SNGS-049,3,271,train_gsr,Kick-off
+images/train/SNGS-049_000286.jpg,SNGS-049,3,286,train_gsr,Kick-off
+images/train/SNGS-049_000301.jpg,SNGS-049,3,301,train_gsr,Kick-off
+images/train/SNGS-049_000316.jpg,SNGS-049,3,316,train_gsr,Kick-off
+images/train/SNGS-049_000331.jpg,SNGS-049,3,331,train_gsr,Kick-off
+images/train/SNGS-049_000346.jpg,SNGS-049,3,346,train_gsr,Kick-off
+images/train/SNGS-049_000361.jpg,SNGS-049,3,361,train_gsr,Kick-off
+images/train/SNGS-049_000376.jpg,SNGS-049,3,376,train_gsr,Kick-off
+images/train/SNGS-049_000391.jpg,SNGS-049,3,391,train_gsr,Kick-off
+images/train/SNGS-049_000406.jpg,SNGS-049,3,406,train_gsr,Kick-off
+images/train/SNGS-049_000421.jpg,SNGS-049,3,421,train_gsr,Kick-off
+images/train/SNGS-049_000436.jpg,SNGS-049,3,436,train_gsr,Kick-off
+images/train/SNGS-049_000451.jpg,SNGS-049,3,451,train_gsr,Kick-off
+images/train/SNGS-049_000466.jpg,SNGS-049,3,466,train_gsr,Kick-off
+images/train/SNGS-049_000481.jpg,SNGS-049,3,481,train_gsr,Kick-off
+images/train/SNGS-049_000496.jpg,SNGS-049,3,496,train_gsr,Kick-off
+images/train/SNGS-049_000511.jpg,SNGS-049,3,511,train_gsr,Kick-off
+images/train/SNGS-049_000526.jpg,SNGS-049,3,526,train_gsr,Kick-off
+images/train/SNGS-049_000541.jpg,SNGS-049,3,541,train_gsr,Kick-off
+images/train/SNGS-049_000556.jpg,SNGS-049,3,556,train_gsr,Kick-off
+images/train/SNGS-049_000571.jpg,SNGS-049,3,571,train_gsr,Kick-off
+images/train/SNGS-049_000586.jpg,SNGS-049,3,586,train_gsr,Kick-off
+images/train/SNGS-049_000601.jpg,SNGS-049,3,601,train_gsr,Kick-off
+images/train/SNGS-049_000616.jpg,SNGS-049,3,616,train_gsr,Kick-off
+images/train/SNGS-049_000631.jpg,SNGS-049,3,631,train_gsr,Kick-off
+images/train/SNGS-049_000646.jpg,SNGS-049,3,646,train_gsr,Kick-off
+images/train/SNGS-049_000661.jpg,SNGS-049,3,661,train_gsr,Kick-off
+images/train/SNGS-049_000676.jpg,SNGS-049,3,676,train_gsr,Kick-off
+images/train/SNGS-049_000691.jpg,SNGS-049,3,691,train_gsr,Kick-off
+images/train/SNGS-049_000706.jpg,SNGS-049,3,706,train_gsr,Kick-off
+images/train/SNGS-049_000721.jpg,SNGS-049,3,721,train_gsr,Kick-off
+images/train/SNGS-049_000736.jpg,SNGS-049,3,736,train_gsr,Kick-off
+images/train/SNGS-050_000001.jpg,SNGS-050,3,1,train_gsr,Corner
+images/train/SNGS-050_000016.jpg,SNGS-050,3,16,train_gsr,Corner
+images/train/SNGS-050_000031.jpg,SNGS-050,3,31,train_gsr,Corner
+images/train/SNGS-050_000046.jpg,SNGS-050,3,46,train_gsr,Corner
+images/train/SNGS-050_000061.jpg,SNGS-050,3,61,train_gsr,Corner
+images/train/SNGS-050_000076.jpg,SNGS-050,3,76,train_gsr,Corner
+images/train/SNGS-050_000091.jpg,SNGS-050,3,91,train_gsr,Corner
+images/train/SNGS-050_000106.jpg,SNGS-050,3,106,train_gsr,Corner
+images/train/SNGS-050_000121.jpg,SNGS-050,3,121,train_gsr,Corner
+images/train/SNGS-050_000136.jpg,SNGS-050,3,136,train_gsr,Corner
+images/train/SNGS-050_000151.jpg,SNGS-050,3,151,train_gsr,Corner
+images/train/SNGS-050_000166.jpg,SNGS-050,3,166,train_gsr,Corner
+images/train/SNGS-050_000181.jpg,SNGS-050,3,181,train_gsr,Corner
+images/train/SNGS-050_000196.jpg,SNGS-050,3,196,train_gsr,Corner
+images/train/SNGS-050_000211.jpg,SNGS-050,3,211,train_gsr,Corner
+images/train/SNGS-050_000226.jpg,SNGS-050,3,226,train_gsr,Corner
+images/train/SNGS-050_000241.jpg,SNGS-050,3,241,train_gsr,Corner
+images/train/SNGS-050_000256.jpg,SNGS-050,3,256,train_gsr,Corner
+images/train/SNGS-050_000271.jpg,SNGS-050,3,271,train_gsr,Corner
+images/train/SNGS-050_000286.jpg,SNGS-050,3,286,train_gsr,Corner
+images/train/SNGS-050_000301.jpg,SNGS-050,3,301,train_gsr,Corner
+images/train/SNGS-050_000316.jpg,SNGS-050,3,316,train_gsr,Corner
+images/train/SNGS-050_000331.jpg,SNGS-050,3,331,train_gsr,Corner
+images/train/SNGS-050_000346.jpg,SNGS-050,3,346,train_gsr,Corner
+images/train/SNGS-050_000361.jpg,SNGS-050,3,361,train_gsr,Corner
+images/train/SNGS-050_000376.jpg,SNGS-050,3,376,train_gsr,Corner
+images/train/SNGS-050_000391.jpg,SNGS-050,3,391,train_gsr,Corner
+images/train/SNGS-050_000406.jpg,SNGS-050,3,406,train_gsr,Corner
+images/train/SNGS-050_000421.jpg,SNGS-050,3,421,train_gsr,Corner
+images/train/SNGS-050_000436.jpg,SNGS-050,3,436,train_gsr,Corner
+images/train/SNGS-050_000451.jpg,SNGS-050,3,451,train_gsr,Corner
+images/train/SNGS-050_000466.jpg,SNGS-050,3,466,train_gsr,Corner
+images/train/SNGS-050_000481.jpg,SNGS-050,3,481,train_gsr,Corner
+images/train/SNGS-050_000496.jpg,SNGS-050,3,496,train_gsr,Corner
+images/train/SNGS-050_000511.jpg,SNGS-050,3,511,train_gsr,Corner
+images/train/SNGS-050_000526.jpg,SNGS-050,3,526,train_gsr,Corner
+images/train/SNGS-050_000541.jpg,SNGS-050,3,541,train_gsr,Corner
+images/train/SNGS-050_000556.jpg,SNGS-050,3,556,train_gsr,Corner
+images/train/SNGS-050_000571.jpg,SNGS-050,3,571,train_gsr,Corner
+images/train/SNGS-050_000586.jpg,SNGS-050,3,586,train_gsr,Corner
+images/train/SNGS-050_000601.jpg,SNGS-050,3,601,train_gsr,Corner
+images/train/SNGS-050_000616.jpg,SNGS-050,3,616,train_gsr,Corner
+images/train/SNGS-050_000631.jpg,SNGS-050,3,631,train_gsr,Corner
+images/train/SNGS-050_000646.jpg,SNGS-050,3,646,train_gsr,Corner
+images/train/SNGS-050_000661.jpg,SNGS-050,3,661,train_gsr,Corner
+images/train/SNGS-050_000676.jpg,SNGS-050,3,676,train_gsr,Corner
+images/train/SNGS-050_000691.jpg,SNGS-050,3,691,train_gsr,Corner
+images/train/SNGS-050_000706.jpg,SNGS-050,3,706,train_gsr,Corner
+images/train/SNGS-050_000721.jpg,SNGS-050,3,721,train_gsr,Corner
+images/train/SNGS-050_000736.jpg,SNGS-050,3,736,train_gsr,Corner
+images/train/SNGS-051_000001.jpg,SNGS-051,3,1,train_gsr,Clearance
+images/train/SNGS-051_000016.jpg,SNGS-051,3,16,train_gsr,Clearance
+images/train/SNGS-051_000031.jpg,SNGS-051,3,31,train_gsr,Clearance
+images/train/SNGS-051_000046.jpg,SNGS-051,3,46,train_gsr,Clearance
+images/train/SNGS-051_000061.jpg,SNGS-051,3,61,train_gsr,Clearance
+images/train/SNGS-051_000076.jpg,SNGS-051,3,76,train_gsr,Clearance
+images/train/SNGS-051_000091.jpg,SNGS-051,3,91,train_gsr,Clearance
+images/train/SNGS-051_000106.jpg,SNGS-051,3,106,train_gsr,Clearance
+images/train/SNGS-051_000121.jpg,SNGS-051,3,121,train_gsr,Clearance
+images/train/SNGS-051_000136.jpg,SNGS-051,3,136,train_gsr,Clearance
+images/train/SNGS-051_000151.jpg,SNGS-051,3,151,train_gsr,Clearance
+images/train/SNGS-051_000166.jpg,SNGS-051,3,166,train_gsr,Clearance
+images/train/SNGS-051_000181.jpg,SNGS-051,3,181,train_gsr,Clearance
+images/train/SNGS-051_000196.jpg,SNGS-051,3,196,train_gsr,Clearance
+images/train/SNGS-051_000211.jpg,SNGS-051,3,211,train_gsr,Clearance
+images/train/SNGS-051_000226.jpg,SNGS-051,3,226,train_gsr,Clearance
+images/train/SNGS-051_000241.jpg,SNGS-051,3,241,train_gsr,Clearance
+images/train/SNGS-051_000256.jpg,SNGS-051,3,256,train_gsr,Clearance
+images/train/SNGS-051_000271.jpg,SNGS-051,3,271,train_gsr,Clearance
+images/train/SNGS-051_000286.jpg,SNGS-051,3,286,train_gsr,Clearance
+images/train/SNGS-051_000301.jpg,SNGS-051,3,301,train_gsr,Clearance
+images/train/SNGS-051_000316.jpg,SNGS-051,3,316,train_gsr,Clearance
+images/train/SNGS-051_000331.jpg,SNGS-051,3,331,train_gsr,Clearance
+images/train/SNGS-051_000346.jpg,SNGS-051,3,346,train_gsr,Clearance
+images/train/SNGS-051_000361.jpg,SNGS-051,3,361,train_gsr,Clearance
+images/train/SNGS-051_000376.jpg,SNGS-051,3,376,train_gsr,Clearance
+images/train/SNGS-051_000391.jpg,SNGS-051,3,391,train_gsr,Clearance
+images/train/SNGS-051_000406.jpg,SNGS-051,3,406,train_gsr,Clearance
+images/train/SNGS-051_000421.jpg,SNGS-051,3,421,train_gsr,Clearance
+images/train/SNGS-051_000436.jpg,SNGS-051,3,436,train_gsr,Clearance
+images/train/SNGS-051_000451.jpg,SNGS-051,3,451,train_gsr,Clearance
+images/train/SNGS-051_000466.jpg,SNGS-051,3,466,train_gsr,Clearance
+images/train/SNGS-051_000481.jpg,SNGS-051,3,481,train_gsr,Clearance
+images/train/SNGS-051_000496.jpg,SNGS-051,3,496,train_gsr,Clearance
+images/train/SNGS-051_000511.jpg,SNGS-051,3,511,train_gsr,Clearance
+images/train/SNGS-051_000526.jpg,SNGS-051,3,526,train_gsr,Clearance
+images/train/SNGS-051_000541.jpg,SNGS-051,3,541,train_gsr,Clearance
+images/train/SNGS-051_000556.jpg,SNGS-051,3,556,train_gsr,Clearance
+images/train/SNGS-051_000571.jpg,SNGS-051,3,571,train_gsr,Clearance
+images/train/SNGS-051_000586.jpg,SNGS-051,3,586,train_gsr,Clearance
+images/train/SNGS-051_000601.jpg,SNGS-051,3,601,train_gsr,Clearance
+images/train/SNGS-051_000616.jpg,SNGS-051,3,616,train_gsr,Clearance
+images/train/SNGS-051_000631.jpg,SNGS-051,3,631,train_gsr,Clearance
+images/train/SNGS-051_000646.jpg,SNGS-051,3,646,train_gsr,Clearance
+images/train/SNGS-051_000661.jpg,SNGS-051,3,661,train_gsr,Clearance
+images/train/SNGS-051_000676.jpg,SNGS-051,3,676,train_gsr,Clearance
+images/train/SNGS-051_000691.jpg,SNGS-051,3,691,train_gsr,Clearance
+images/train/SNGS-051_000706.jpg,SNGS-051,3,706,train_gsr,Clearance
+images/train/SNGS-051_000721.jpg,SNGS-051,3,721,train_gsr,Clearance
+images/train/SNGS-051_000736.jpg,SNGS-051,3,736,train_gsr,Clearance
+images/train/SNGS-052_000001.jpg,SNGS-052,3,1,train_gsr,Shots off target
+images/train/SNGS-052_000016.jpg,SNGS-052,3,16,train_gsr,Shots off target
+images/train/SNGS-052_000031.jpg,SNGS-052,3,31,train_gsr,Shots off target
+images/train/SNGS-052_000046.jpg,SNGS-052,3,46,train_gsr,Shots off target
+images/train/SNGS-052_000061.jpg,SNGS-052,3,61,train_gsr,Shots off target
+images/train/SNGS-052_000076.jpg,SNGS-052,3,76,train_gsr,Shots off target
+images/train/SNGS-052_000091.jpg,SNGS-052,3,91,train_gsr,Shots off target
+images/train/SNGS-052_000106.jpg,SNGS-052,3,106,train_gsr,Shots off target
+images/train/SNGS-052_000121.jpg,SNGS-052,3,121,train_gsr,Shots off target
+images/train/SNGS-052_000136.jpg,SNGS-052,3,136,train_gsr,Shots off target
+images/train/SNGS-052_000151.jpg,SNGS-052,3,151,train_gsr,Shots off target
+images/train/SNGS-052_000166.jpg,SNGS-052,3,166,train_gsr,Shots off target
+images/train/SNGS-052_000181.jpg,SNGS-052,3,181,train_gsr,Shots off target
+images/train/SNGS-052_000196.jpg,SNGS-052,3,196,train_gsr,Shots off target
+images/train/SNGS-052_000211.jpg,SNGS-052,3,211,train_gsr,Shots off target
+images/train/SNGS-052_000226.jpg,SNGS-052,3,226,train_gsr,Shots off target
+images/train/SNGS-052_000241.jpg,SNGS-052,3,241,train_gsr,Shots off target
+images/train/SNGS-052_000256.jpg,SNGS-052,3,256,train_gsr,Shots off target
+images/train/SNGS-052_000271.jpg,SNGS-052,3,271,train_gsr,Shots off target
+images/train/SNGS-052_000286.jpg,SNGS-052,3,286,train_gsr,Shots off target
+images/train/SNGS-052_000301.jpg,SNGS-052,3,301,train_gsr,Shots off target
+images/train/SNGS-052_000316.jpg,SNGS-052,3,316,train_gsr,Shots off target
+images/train/SNGS-052_000331.jpg,SNGS-052,3,331,train_gsr,Shots off target
+images/train/SNGS-052_000346.jpg,SNGS-052,3,346,train_gsr,Shots off target
+images/train/SNGS-052_000361.jpg,SNGS-052,3,361,train_gsr,Shots off target
+images/train/SNGS-052_000376.jpg,SNGS-052,3,376,train_gsr,Shots off target
+images/train/SNGS-052_000391.jpg,SNGS-052,3,391,train_gsr,Shots off target
+images/train/SNGS-052_000406.jpg,SNGS-052,3,406,train_gsr,Shots off target
+images/train/SNGS-052_000421.jpg,SNGS-052,3,421,train_gsr,Shots off target
+images/train/SNGS-052_000436.jpg,SNGS-052,3,436,train_gsr,Shots off target
+images/train/SNGS-052_000451.jpg,SNGS-052,3,451,train_gsr,Shots off target
+images/train/SNGS-052_000466.jpg,SNGS-052,3,466,train_gsr,Shots off target
+images/train/SNGS-052_000481.jpg,SNGS-052,3,481,train_gsr,Shots off target
+images/train/SNGS-052_000496.jpg,SNGS-052,3,496,train_gsr,Shots off target
+images/train/SNGS-052_000511.jpg,SNGS-052,3,511,train_gsr,Shots off target
+images/train/SNGS-052_000526.jpg,SNGS-052,3,526,train_gsr,Shots off target
+images/train/SNGS-052_000541.jpg,SNGS-052,3,541,train_gsr,Shots off target
+images/train/SNGS-052_000556.jpg,SNGS-052,3,556,train_gsr,Shots off target
+images/train/SNGS-052_000571.jpg,SNGS-052,3,571,train_gsr,Shots off target
+images/train/SNGS-052_000586.jpg,SNGS-052,3,586,train_gsr,Shots off target
+images/train/SNGS-052_000601.jpg,SNGS-052,3,601,train_gsr,Shots off target
+images/train/SNGS-052_000616.jpg,SNGS-052,3,616,train_gsr,Shots off target
+images/train/SNGS-052_000631.jpg,SNGS-052,3,631,train_gsr,Shots off target
+images/train/SNGS-052_000646.jpg,SNGS-052,3,646,train_gsr,Shots off target
+images/train/SNGS-052_000661.jpg,SNGS-052,3,661,train_gsr,Shots off target
+images/train/SNGS-052_000676.jpg,SNGS-052,3,676,train_gsr,Shots off target
+images/train/SNGS-052_000691.jpg,SNGS-052,3,691,train_gsr,Shots off target
+images/train/SNGS-052_000706.jpg,SNGS-052,3,706,train_gsr,Shots off target
+images/train/SNGS-052_000721.jpg,SNGS-052,3,721,train_gsr,Shots off target
+images/train/SNGS-052_000736.jpg,SNGS-052,3,736,train_gsr,Shots off target
+images/train/SNGS-053_000001.jpg,SNGS-053,3,1,train_gsr,Offside
+images/train/SNGS-053_000016.jpg,SNGS-053,3,16,train_gsr,Offside
+images/train/SNGS-053_000031.jpg,SNGS-053,3,31,train_gsr,Offside
+images/train/SNGS-053_000046.jpg,SNGS-053,3,46,train_gsr,Offside
+images/train/SNGS-053_000061.jpg,SNGS-053,3,61,train_gsr,Offside
+images/train/SNGS-053_000076.jpg,SNGS-053,3,76,train_gsr,Offside
+images/train/SNGS-053_000091.jpg,SNGS-053,3,91,train_gsr,Offside
+images/train/SNGS-053_000106.jpg,SNGS-053,3,106,train_gsr,Offside
+images/train/SNGS-053_000121.jpg,SNGS-053,3,121,train_gsr,Offside
+images/train/SNGS-053_000136.jpg,SNGS-053,3,136,train_gsr,Offside
+images/train/SNGS-053_000151.jpg,SNGS-053,3,151,train_gsr,Offside
+images/train/SNGS-053_000166.jpg,SNGS-053,3,166,train_gsr,Offside
+images/train/SNGS-053_000181.jpg,SNGS-053,3,181,train_gsr,Offside
+images/train/SNGS-053_000196.jpg,SNGS-053,3,196,train_gsr,Offside
+images/train/SNGS-053_000211.jpg,SNGS-053,3,211,train_gsr,Offside
+images/train/SNGS-053_000226.jpg,SNGS-053,3,226,train_gsr,Offside
+images/train/SNGS-053_000241.jpg,SNGS-053,3,241,train_gsr,Offside
+images/train/SNGS-053_000256.jpg,SNGS-053,3,256,train_gsr,Offside
+images/train/SNGS-053_000271.jpg,SNGS-053,3,271,train_gsr,Offside
+images/train/SNGS-053_000286.jpg,SNGS-053,3,286,train_gsr,Offside
+images/train/SNGS-053_000301.jpg,SNGS-053,3,301,train_gsr,Offside
+images/train/SNGS-053_000316.jpg,SNGS-053,3,316,train_gsr,Offside
+images/train/SNGS-053_000331.jpg,SNGS-053,3,331,train_gsr,Offside
+images/train/SNGS-053_000346.jpg,SNGS-053,3,346,train_gsr,Offside
+images/train/SNGS-053_000361.jpg,SNGS-053,3,361,train_gsr,Offside
+images/train/SNGS-053_000376.jpg,SNGS-053,3,376,train_gsr,Offside
+images/train/SNGS-053_000391.jpg,SNGS-053,3,391,train_gsr,Offside
+images/train/SNGS-053_000406.jpg,SNGS-053,3,406,train_gsr,Offside
+images/train/SNGS-053_000421.jpg,SNGS-053,3,421,train_gsr,Offside
+images/train/SNGS-053_000436.jpg,SNGS-053,3,436,train_gsr,Offside
+images/train/SNGS-053_000451.jpg,SNGS-053,3,451,train_gsr,Offside
+images/train/SNGS-053_000466.jpg,SNGS-053,3,466,train_gsr,Offside
+images/train/SNGS-053_000481.jpg,SNGS-053,3,481,train_gsr,Offside
+images/train/SNGS-053_000496.jpg,SNGS-053,3,496,train_gsr,Offside
+images/train/SNGS-053_000511.jpg,SNGS-053,3,511,train_gsr,Offside
+images/train/SNGS-053_000526.jpg,SNGS-053,3,526,train_gsr,Offside
+images/train/SNGS-053_000541.jpg,SNGS-053,3,541,train_gsr,Offside
+images/train/SNGS-053_000556.jpg,SNGS-053,3,556,train_gsr,Offside
+images/train/SNGS-053_000571.jpg,SNGS-053,3,571,train_gsr,Offside
+images/train/SNGS-053_000586.jpg,SNGS-053,3,586,train_gsr,Offside
+images/train/SNGS-053_000601.jpg,SNGS-053,3,601,train_gsr,Offside
+images/train/SNGS-053_000616.jpg,SNGS-053,3,616,train_gsr,Offside
+images/train/SNGS-053_000631.jpg,SNGS-053,3,631,train_gsr,Offside
+images/train/SNGS-053_000646.jpg,SNGS-053,3,646,train_gsr,Offside
+images/train/SNGS-053_000661.jpg,SNGS-053,3,661,train_gsr,Offside
+images/train/SNGS-053_000676.jpg,SNGS-053,3,676,train_gsr,Offside
+images/train/SNGS-053_000691.jpg,SNGS-053,3,691,train_gsr,Offside
+images/train/SNGS-053_000706.jpg,SNGS-053,3,706,train_gsr,Offside
+images/train/SNGS-053_000721.jpg,SNGS-053,3,721,train_gsr,Offside
+images/train/SNGS-053_000736.jpg,SNGS-053,3,736,train_gsr,Offside
+images/train/SNGS-054_000001.jpg,SNGS-054,3,1,train_gsr,Goal
+images/train/SNGS-054_000016.jpg,SNGS-054,3,16,train_gsr,Goal
+images/train/SNGS-054_000031.jpg,SNGS-054,3,31,train_gsr,Goal
+images/train/SNGS-054_000046.jpg,SNGS-054,3,46,train_gsr,Goal
+images/train/SNGS-054_000061.jpg,SNGS-054,3,61,train_gsr,Goal
+images/train/SNGS-054_000076.jpg,SNGS-054,3,76,train_gsr,Goal
+images/train/SNGS-054_000091.jpg,SNGS-054,3,91,train_gsr,Goal
+images/train/SNGS-054_000106.jpg,SNGS-054,3,106,train_gsr,Goal
+images/train/SNGS-054_000121.jpg,SNGS-054,3,121,train_gsr,Goal
+images/train/SNGS-054_000136.jpg,SNGS-054,3,136,train_gsr,Goal
+images/train/SNGS-054_000151.jpg,SNGS-054,3,151,train_gsr,Goal
+images/train/SNGS-054_000166.jpg,SNGS-054,3,166,train_gsr,Goal
+images/train/SNGS-054_000181.jpg,SNGS-054,3,181,train_gsr,Goal
+images/train/SNGS-054_000196.jpg,SNGS-054,3,196,train_gsr,Goal
+images/train/SNGS-054_000211.jpg,SNGS-054,3,211,train_gsr,Goal
+images/train/SNGS-054_000226.jpg,SNGS-054,3,226,train_gsr,Goal
+images/train/SNGS-054_000241.jpg,SNGS-054,3,241,train_gsr,Goal
+images/train/SNGS-054_000256.jpg,SNGS-054,3,256,train_gsr,Goal
+images/train/SNGS-054_000271.jpg,SNGS-054,3,271,train_gsr,Goal
+images/train/SNGS-054_000286.jpg,SNGS-054,3,286,train_gsr,Goal
+images/train/SNGS-054_000301.jpg,SNGS-054,3,301,train_gsr,Goal
+images/train/SNGS-054_000316.jpg,SNGS-054,3,316,train_gsr,Goal
+images/train/SNGS-054_000331.jpg,SNGS-054,3,331,train_gsr,Goal
+images/train/SNGS-054_000346.jpg,SNGS-054,3,346,train_gsr,Goal
+images/train/SNGS-054_000361.jpg,SNGS-054,3,361,train_gsr,Goal
+images/train/SNGS-054_000376.jpg,SNGS-054,3,376,train_gsr,Goal
+images/train/SNGS-054_000391.jpg,SNGS-054,3,391,train_gsr,Goal
+images/train/SNGS-054_000406.jpg,SNGS-054,3,406,train_gsr,Goal
+images/train/SNGS-054_000421.jpg,SNGS-054,3,421,train_gsr,Goal
+images/train/SNGS-054_000436.jpg,SNGS-054,3,436,train_gsr,Goal
+images/train/SNGS-054_000451.jpg,SNGS-054,3,451,train_gsr,Goal
+images/train/SNGS-054_000466.jpg,SNGS-054,3,466,train_gsr,Goal
+images/train/SNGS-054_000481.jpg,SNGS-054,3,481,train_gsr,Goal
+images/train/SNGS-054_000496.jpg,SNGS-054,3,496,train_gsr,Goal
+images/train/SNGS-054_000511.jpg,SNGS-054,3,511,train_gsr,Goal
+images/train/SNGS-054_000526.jpg,SNGS-054,3,526,train_gsr,Goal
+images/train/SNGS-054_000541.jpg,SNGS-054,3,541,train_gsr,Goal
+images/train/SNGS-054_000556.jpg,SNGS-054,3,556,train_gsr,Goal
+images/train/SNGS-054_000571.jpg,SNGS-054,3,571,train_gsr,Goal
+images/train/SNGS-054_000586.jpg,SNGS-054,3,586,train_gsr,Goal
+images/train/SNGS-054_000601.jpg,SNGS-054,3,601,train_gsr,Goal
+images/train/SNGS-054_000616.jpg,SNGS-054,3,616,train_gsr,Goal
+images/train/SNGS-054_000631.jpg,SNGS-054,3,631,train_gsr,Goal
+images/train/SNGS-054_000646.jpg,SNGS-054,3,646,train_gsr,Goal
+images/train/SNGS-054_000661.jpg,SNGS-054,3,661,train_gsr,Goal
+images/train/SNGS-054_000676.jpg,SNGS-054,3,676,train_gsr,Goal
+images/train/SNGS-054_000691.jpg,SNGS-054,3,691,train_gsr,Goal
+images/train/SNGS-054_000706.jpg,SNGS-054,3,706,train_gsr,Goal
+images/train/SNGS-054_000721.jpg,SNGS-054,3,721,train_gsr,Goal
+images/train/SNGS-054_000736.jpg,SNGS-054,3,736,train_gsr,Goal
+images/train/SNGS-055_000001.jpg,SNGS-055,3,1,train_gsr,Foul
+images/train/SNGS-055_000016.jpg,SNGS-055,3,16,train_gsr,Foul
+images/train/SNGS-055_000031.jpg,SNGS-055,3,31,train_gsr,Foul
+images/train/SNGS-055_000046.jpg,SNGS-055,3,46,train_gsr,Foul
+images/train/SNGS-055_000061.jpg,SNGS-055,3,61,train_gsr,Foul
+images/train/SNGS-055_000076.jpg,SNGS-055,3,76,train_gsr,Foul
+images/train/SNGS-055_000091.jpg,SNGS-055,3,91,train_gsr,Foul
+images/train/SNGS-055_000106.jpg,SNGS-055,3,106,train_gsr,Foul
+images/train/SNGS-055_000121.jpg,SNGS-055,3,121,train_gsr,Foul
+images/train/SNGS-055_000136.jpg,SNGS-055,3,136,train_gsr,Foul
+images/train/SNGS-055_000151.jpg,SNGS-055,3,151,train_gsr,Foul
+images/train/SNGS-055_000166.jpg,SNGS-055,3,166,train_gsr,Foul
+images/train/SNGS-055_000181.jpg,SNGS-055,3,181,train_gsr,Foul
+images/train/SNGS-055_000196.jpg,SNGS-055,3,196,train_gsr,Foul
+images/train/SNGS-055_000211.jpg,SNGS-055,3,211,train_gsr,Foul
+images/train/SNGS-055_000226.jpg,SNGS-055,3,226,train_gsr,Foul
+images/train/SNGS-055_000241.jpg,SNGS-055,3,241,train_gsr,Foul
+images/train/SNGS-055_000256.jpg,SNGS-055,3,256,train_gsr,Foul
+images/train/SNGS-055_000271.jpg,SNGS-055,3,271,train_gsr,Foul
+images/train/SNGS-055_000286.jpg,SNGS-055,3,286,train_gsr,Foul
+images/train/SNGS-055_000301.jpg,SNGS-055,3,301,train_gsr,Foul
+images/train/SNGS-055_000316.jpg,SNGS-055,3,316,train_gsr,Foul
+images/train/SNGS-055_000331.jpg,SNGS-055,3,331,train_gsr,Foul
+images/train/SNGS-055_000346.jpg,SNGS-055,3,346,train_gsr,Foul
+images/train/SNGS-055_000361.jpg,SNGS-055,3,361,train_gsr,Foul
+images/train/SNGS-055_000376.jpg,SNGS-055,3,376,train_gsr,Foul
+images/train/SNGS-055_000391.jpg,SNGS-055,3,391,train_gsr,Foul
+images/train/SNGS-055_000406.jpg,SNGS-055,3,406,train_gsr,Foul
+images/train/SNGS-055_000421.jpg,SNGS-055,3,421,train_gsr,Foul
+images/train/SNGS-055_000436.jpg,SNGS-055,3,436,train_gsr,Foul
+images/train/SNGS-055_000451.jpg,SNGS-055,3,451,train_gsr,Foul
+images/train/SNGS-055_000466.jpg,SNGS-055,3,466,train_gsr,Foul
+images/train/SNGS-055_000481.jpg,SNGS-055,3,481,train_gsr,Foul
+images/train/SNGS-055_000496.jpg,SNGS-055,3,496,train_gsr,Foul
+images/train/SNGS-055_000511.jpg,SNGS-055,3,511,train_gsr,Foul
+images/train/SNGS-055_000526.jpg,SNGS-055,3,526,train_gsr,Foul
+images/train/SNGS-055_000541.jpg,SNGS-055,3,541,train_gsr,Foul
+images/train/SNGS-055_000556.jpg,SNGS-055,3,556,train_gsr,Foul
+images/train/SNGS-055_000571.jpg,SNGS-055,3,571,train_gsr,Foul
+images/train/SNGS-055_000586.jpg,SNGS-055,3,586,train_gsr,Foul
+images/train/SNGS-055_000601.jpg,SNGS-055,3,601,train_gsr,Foul
+images/train/SNGS-055_000616.jpg,SNGS-055,3,616,train_gsr,Foul
+images/train/SNGS-055_000631.jpg,SNGS-055,3,631,train_gsr,Foul
+images/train/SNGS-055_000646.jpg,SNGS-055,3,646,train_gsr,Foul
+images/train/SNGS-055_000661.jpg,SNGS-055,3,661,train_gsr,Foul
+images/train/SNGS-055_000676.jpg,SNGS-055,3,676,train_gsr,Foul
+images/train/SNGS-055_000691.jpg,SNGS-055,3,691,train_gsr,Foul
+images/train/SNGS-055_000706.jpg,SNGS-055,3,706,train_gsr,Foul
+images/train/SNGS-055_000721.jpg,SNGS-055,3,721,train_gsr,Foul
+images/train/SNGS-055_000736.jpg,SNGS-055,3,736,train_gsr,Foul
+images/train/SNGS-056_000001.jpg,SNGS-056,3,1,train_gsr,Goal
+images/train/SNGS-056_000016.jpg,SNGS-056,3,16,train_gsr,Goal
+images/train/SNGS-056_000031.jpg,SNGS-056,3,31,train_gsr,Goal
+images/train/SNGS-056_000046.jpg,SNGS-056,3,46,train_gsr,Goal
+images/train/SNGS-056_000061.jpg,SNGS-056,3,61,train_gsr,Goal
+images/train/SNGS-056_000076.jpg,SNGS-056,3,76,train_gsr,Goal
+images/train/SNGS-056_000091.jpg,SNGS-056,3,91,train_gsr,Goal
+images/train/SNGS-056_000106.jpg,SNGS-056,3,106,train_gsr,Goal
+images/train/SNGS-056_000121.jpg,SNGS-056,3,121,train_gsr,Goal
+images/train/SNGS-056_000136.jpg,SNGS-056,3,136,train_gsr,Goal
+images/train/SNGS-056_000151.jpg,SNGS-056,3,151,train_gsr,Goal
+images/train/SNGS-056_000166.jpg,SNGS-056,3,166,train_gsr,Goal
+images/train/SNGS-056_000181.jpg,SNGS-056,3,181,train_gsr,Goal
+images/train/SNGS-056_000196.jpg,SNGS-056,3,196,train_gsr,Goal
+images/train/SNGS-056_000211.jpg,SNGS-056,3,211,train_gsr,Goal
+images/train/SNGS-056_000226.jpg,SNGS-056,3,226,train_gsr,Goal
+images/train/SNGS-056_000241.jpg,SNGS-056,3,241,train_gsr,Goal
+images/train/SNGS-056_000256.jpg,SNGS-056,3,256,train_gsr,Goal
+images/train/SNGS-056_000271.jpg,SNGS-056,3,271,train_gsr,Goal
+images/train/SNGS-056_000286.jpg,SNGS-056,3,286,train_gsr,Goal
+images/train/SNGS-056_000301.jpg,SNGS-056,3,301,train_gsr,Goal
+images/train/SNGS-056_000316.jpg,SNGS-056,3,316,train_gsr,Goal
+images/train/SNGS-056_000331.jpg,SNGS-056,3,331,train_gsr,Goal
+images/train/SNGS-056_000346.jpg,SNGS-056,3,346,train_gsr,Goal
+images/train/SNGS-056_000361.jpg,SNGS-056,3,361,train_gsr,Goal
+images/train/SNGS-056_000376.jpg,SNGS-056,3,376,train_gsr,Goal
+images/train/SNGS-056_000391.jpg,SNGS-056,3,391,train_gsr,Goal
+images/train/SNGS-056_000406.jpg,SNGS-056,3,406,train_gsr,Goal
+images/train/SNGS-056_000421.jpg,SNGS-056,3,421,train_gsr,Goal
+images/train/SNGS-056_000436.jpg,SNGS-056,3,436,train_gsr,Goal
+images/train/SNGS-056_000451.jpg,SNGS-056,3,451,train_gsr,Goal
+images/train/SNGS-056_000466.jpg,SNGS-056,3,466,train_gsr,Goal
+images/train/SNGS-056_000481.jpg,SNGS-056,3,481,train_gsr,Goal
+images/train/SNGS-056_000496.jpg,SNGS-056,3,496,train_gsr,Goal
+images/train/SNGS-056_000511.jpg,SNGS-056,3,511,train_gsr,Goal
+images/train/SNGS-056_000526.jpg,SNGS-056,3,526,train_gsr,Goal
+images/train/SNGS-056_000541.jpg,SNGS-056,3,541,train_gsr,Goal
+images/train/SNGS-056_000556.jpg,SNGS-056,3,556,train_gsr,Goal
+images/train/SNGS-056_000571.jpg,SNGS-056,3,571,train_gsr,Goal
+images/train/SNGS-056_000586.jpg,SNGS-056,3,586,train_gsr,Goal
+images/train/SNGS-056_000601.jpg,SNGS-056,3,601,train_gsr,Goal
+images/train/SNGS-056_000616.jpg,SNGS-056,3,616,train_gsr,Goal
+images/train/SNGS-056_000631.jpg,SNGS-056,3,631,train_gsr,Goal
+images/train/SNGS-056_000646.jpg,SNGS-056,3,646,train_gsr,Goal
+images/train/SNGS-056_000661.jpg,SNGS-056,3,661,train_gsr,Goal
+images/train/SNGS-056_000676.jpg,SNGS-056,3,676,train_gsr,Goal
+images/train/SNGS-056_000691.jpg,SNGS-056,3,691,train_gsr,Goal
+images/train/SNGS-056_000706.jpg,SNGS-056,3,706,train_gsr,Goal
+images/train/SNGS-056_000721.jpg,SNGS-056,3,721,train_gsr,Goal
+images/train/SNGS-056_000736.jpg,SNGS-056,3,736,train_gsr,Goal
+images/train/SNGS-057_000001.jpg,SNGS-057,3,1,train_gsr,Direct free-kick
+images/train/SNGS-057_000016.jpg,SNGS-057,3,16,train_gsr,Direct free-kick
+images/train/SNGS-057_000031.jpg,SNGS-057,3,31,train_gsr,Direct free-kick
+images/train/SNGS-057_000046.jpg,SNGS-057,3,46,train_gsr,Direct free-kick
+images/train/SNGS-057_000061.jpg,SNGS-057,3,61,train_gsr,Direct free-kick
+images/train/SNGS-057_000076.jpg,SNGS-057,3,76,train_gsr,Direct free-kick
+images/train/SNGS-057_000091.jpg,SNGS-057,3,91,train_gsr,Direct free-kick
+images/train/SNGS-057_000106.jpg,SNGS-057,3,106,train_gsr,Direct free-kick
+images/train/SNGS-057_000121.jpg,SNGS-057,3,121,train_gsr,Direct free-kick
+images/train/SNGS-057_000136.jpg,SNGS-057,3,136,train_gsr,Direct free-kick
+images/train/SNGS-057_000151.jpg,SNGS-057,3,151,train_gsr,Direct free-kick
+images/train/SNGS-057_000166.jpg,SNGS-057,3,166,train_gsr,Direct free-kick
+images/train/SNGS-057_000181.jpg,SNGS-057,3,181,train_gsr,Direct free-kick
+images/train/SNGS-057_000196.jpg,SNGS-057,3,196,train_gsr,Direct free-kick
+images/train/SNGS-057_000211.jpg,SNGS-057,3,211,train_gsr,Direct free-kick
+images/train/SNGS-057_000226.jpg,SNGS-057,3,226,train_gsr,Direct free-kick
+images/train/SNGS-057_000241.jpg,SNGS-057,3,241,train_gsr,Direct free-kick
+images/train/SNGS-057_000256.jpg,SNGS-057,3,256,train_gsr,Direct free-kick
+images/train/SNGS-057_000271.jpg,SNGS-057,3,271,train_gsr,Direct free-kick
+images/train/SNGS-057_000286.jpg,SNGS-057,3,286,train_gsr,Direct free-kick
+images/train/SNGS-057_000301.jpg,SNGS-057,3,301,train_gsr,Direct free-kick
+images/train/SNGS-057_000316.jpg,SNGS-057,3,316,train_gsr,Direct free-kick
+images/train/SNGS-057_000331.jpg,SNGS-057,3,331,train_gsr,Direct free-kick
+images/train/SNGS-057_000346.jpg,SNGS-057,3,346,train_gsr,Direct free-kick
+images/train/SNGS-057_000361.jpg,SNGS-057,3,361,train_gsr,Direct free-kick
+images/train/SNGS-057_000376.jpg,SNGS-057,3,376,train_gsr,Direct free-kick
+images/train/SNGS-057_000391.jpg,SNGS-057,3,391,train_gsr,Direct free-kick
+images/train/SNGS-057_000406.jpg,SNGS-057,3,406,train_gsr,Direct free-kick
+images/train/SNGS-057_000421.jpg,SNGS-057,3,421,train_gsr,Direct free-kick
+images/train/SNGS-057_000436.jpg,SNGS-057,3,436,train_gsr,Direct free-kick
+images/train/SNGS-057_000451.jpg,SNGS-057,3,451,train_gsr,Direct free-kick
+images/train/SNGS-057_000466.jpg,SNGS-057,3,466,train_gsr,Direct free-kick
+images/train/SNGS-057_000481.jpg,SNGS-057,3,481,train_gsr,Direct free-kick
+images/train/SNGS-057_000496.jpg,SNGS-057,3,496,train_gsr,Direct free-kick
+images/train/SNGS-057_000511.jpg,SNGS-057,3,511,train_gsr,Direct free-kick
+images/train/SNGS-057_000526.jpg,SNGS-057,3,526,train_gsr,Direct free-kick
+images/train/SNGS-057_000541.jpg,SNGS-057,3,541,train_gsr,Direct free-kick
+images/train/SNGS-057_000556.jpg,SNGS-057,3,556,train_gsr,Direct free-kick
+images/train/SNGS-057_000571.jpg,SNGS-057,3,571,train_gsr,Direct free-kick
+images/train/SNGS-057_000586.jpg,SNGS-057,3,586,train_gsr,Direct free-kick
+images/train/SNGS-057_000601.jpg,SNGS-057,3,601,train_gsr,Direct free-kick
+images/train/SNGS-057_000616.jpg,SNGS-057,3,616,train_gsr,Direct free-kick
+images/train/SNGS-057_000631.jpg,SNGS-057,3,631,train_gsr,Direct free-kick
+images/train/SNGS-057_000646.jpg,SNGS-057,3,646,train_gsr,Direct free-kick
+images/train/SNGS-057_000661.jpg,SNGS-057,3,661,train_gsr,Direct free-kick
+images/train/SNGS-057_000676.jpg,SNGS-057,3,676,train_gsr,Direct free-kick
+images/train/SNGS-057_000691.jpg,SNGS-057,3,691,train_gsr,Direct free-kick
+images/train/SNGS-057_000706.jpg,SNGS-057,3,706,train_gsr,Direct free-kick
+images/train/SNGS-057_000721.jpg,SNGS-057,3,721,train_gsr,Direct free-kick
+images/train/SNGS-057_000736.jpg,SNGS-057,3,736,train_gsr,Direct free-kick
+images/train/SNGS-058_000001.jpg,SNGS-058,3,1,train_gsr,Goal
+images/train/SNGS-058_000016.jpg,SNGS-058,3,16,train_gsr,Goal
+images/train/SNGS-058_000031.jpg,SNGS-058,3,31,train_gsr,Goal
+images/train/SNGS-058_000046.jpg,SNGS-058,3,46,train_gsr,Goal
+images/train/SNGS-058_000061.jpg,SNGS-058,3,61,train_gsr,Goal
+images/train/SNGS-058_000076.jpg,SNGS-058,3,76,train_gsr,Goal
+images/train/SNGS-058_000091.jpg,SNGS-058,3,91,train_gsr,Goal
+images/train/SNGS-058_000106.jpg,SNGS-058,3,106,train_gsr,Goal
+images/train/SNGS-058_000121.jpg,SNGS-058,3,121,train_gsr,Goal
+images/train/SNGS-058_000136.jpg,SNGS-058,3,136,train_gsr,Goal
+images/train/SNGS-058_000151.jpg,SNGS-058,3,151,train_gsr,Goal
+images/train/SNGS-058_000166.jpg,SNGS-058,3,166,train_gsr,Goal
+images/train/SNGS-058_000181.jpg,SNGS-058,3,181,train_gsr,Goal
+images/train/SNGS-058_000196.jpg,SNGS-058,3,196,train_gsr,Goal
+images/train/SNGS-058_000211.jpg,SNGS-058,3,211,train_gsr,Goal
+images/train/SNGS-058_000226.jpg,SNGS-058,3,226,train_gsr,Goal
+images/train/SNGS-058_000241.jpg,SNGS-058,3,241,train_gsr,Goal
+images/train/SNGS-058_000256.jpg,SNGS-058,3,256,train_gsr,Goal
+images/train/SNGS-058_000271.jpg,SNGS-058,3,271,train_gsr,Goal
+images/train/SNGS-058_000286.jpg,SNGS-058,3,286,train_gsr,Goal
+images/train/SNGS-058_000301.jpg,SNGS-058,3,301,train_gsr,Goal
+images/train/SNGS-058_000316.jpg,SNGS-058,3,316,train_gsr,Goal
+images/train/SNGS-058_000331.jpg,SNGS-058,3,331,train_gsr,Goal
+images/train/SNGS-058_000346.jpg,SNGS-058,3,346,train_gsr,Goal
+images/train/SNGS-058_000361.jpg,SNGS-058,3,361,train_gsr,Goal
+images/train/SNGS-058_000376.jpg,SNGS-058,3,376,train_gsr,Goal
+images/train/SNGS-058_000391.jpg,SNGS-058,3,391,train_gsr,Goal
+images/train/SNGS-058_000406.jpg,SNGS-058,3,406,train_gsr,Goal
+images/train/SNGS-058_000421.jpg,SNGS-058,3,421,train_gsr,Goal
+images/train/SNGS-058_000436.jpg,SNGS-058,3,436,train_gsr,Goal
+images/train/SNGS-058_000451.jpg,SNGS-058,3,451,train_gsr,Goal
+images/train/SNGS-058_000466.jpg,SNGS-058,3,466,train_gsr,Goal
+images/train/SNGS-058_000481.jpg,SNGS-058,3,481,train_gsr,Goal
+images/train/SNGS-058_000496.jpg,SNGS-058,3,496,train_gsr,Goal
+images/train/SNGS-058_000511.jpg,SNGS-058,3,511,train_gsr,Goal
+images/train/SNGS-058_000526.jpg,SNGS-058,3,526,train_gsr,Goal
+images/train/SNGS-058_000541.jpg,SNGS-058,3,541,train_gsr,Goal
+images/train/SNGS-058_000556.jpg,SNGS-058,3,556,train_gsr,Goal
+images/train/SNGS-058_000571.jpg,SNGS-058,3,571,train_gsr,Goal
+images/train/SNGS-058_000586.jpg,SNGS-058,3,586,train_gsr,Goal
+images/train/SNGS-058_000601.jpg,SNGS-058,3,601,train_gsr,Goal
+images/train/SNGS-058_000616.jpg,SNGS-058,3,616,train_gsr,Goal
+images/train/SNGS-058_000631.jpg,SNGS-058,3,631,train_gsr,Goal
+images/train/SNGS-058_000646.jpg,SNGS-058,3,646,train_gsr,Goal
+images/train/SNGS-058_000661.jpg,SNGS-058,3,661,train_gsr,Goal
+images/train/SNGS-058_000676.jpg,SNGS-058,3,676,train_gsr,Goal
+images/train/SNGS-058_000691.jpg,SNGS-058,3,691,train_gsr,Goal
+images/train/SNGS-058_000706.jpg,SNGS-058,3,706,train_gsr,Goal
+images/train/SNGS-058_000721.jpg,SNGS-058,3,721,train_gsr,Goal
+images/train/SNGS-058_000736.jpg,SNGS-058,3,736,train_gsr,Goal
+images/train/SNGS-059_000001.jpg,SNGS-059,3,1,train_gsr,Yellow card
+images/train/SNGS-059_000016.jpg,SNGS-059,3,16,train_gsr,Yellow card
+images/train/SNGS-059_000031.jpg,SNGS-059,3,31,train_gsr,Yellow card
+images/train/SNGS-059_000046.jpg,SNGS-059,3,46,train_gsr,Yellow card
+images/train/SNGS-059_000061.jpg,SNGS-059,3,61,train_gsr,Yellow card
+images/train/SNGS-059_000076.jpg,SNGS-059,3,76,train_gsr,Yellow card
+images/train/SNGS-059_000091.jpg,SNGS-059,3,91,train_gsr,Yellow card
+images/train/SNGS-059_000106.jpg,SNGS-059,3,106,train_gsr,Yellow card
+images/train/SNGS-059_000121.jpg,SNGS-059,3,121,train_gsr,Yellow card
+images/train/SNGS-059_000136.jpg,SNGS-059,3,136,train_gsr,Yellow card
+images/train/SNGS-059_000151.jpg,SNGS-059,3,151,train_gsr,Yellow card
+images/train/SNGS-059_000166.jpg,SNGS-059,3,166,train_gsr,Yellow card
+images/train/SNGS-059_000181.jpg,SNGS-059,3,181,train_gsr,Yellow card
+images/train/SNGS-059_000196.jpg,SNGS-059,3,196,train_gsr,Yellow card
+images/train/SNGS-059_000211.jpg,SNGS-059,3,211,train_gsr,Yellow card
+images/train/SNGS-059_000226.jpg,SNGS-059,3,226,train_gsr,Yellow card
+images/train/SNGS-059_000241.jpg,SNGS-059,3,241,train_gsr,Yellow card
+images/train/SNGS-059_000256.jpg,SNGS-059,3,256,train_gsr,Yellow card
+images/train/SNGS-059_000271.jpg,SNGS-059,3,271,train_gsr,Yellow card
+images/train/SNGS-059_000286.jpg,SNGS-059,3,286,train_gsr,Yellow card
+images/train/SNGS-059_000301.jpg,SNGS-059,3,301,train_gsr,Yellow card
+images/train/SNGS-059_000316.jpg,SNGS-059,3,316,train_gsr,Yellow card
+images/train/SNGS-059_000331.jpg,SNGS-059,3,331,train_gsr,Yellow card
+images/train/SNGS-059_000346.jpg,SNGS-059,3,346,train_gsr,Yellow card
+images/train/SNGS-059_000361.jpg,SNGS-059,3,361,train_gsr,Yellow card
+images/train/SNGS-059_000376.jpg,SNGS-059,3,376,train_gsr,Yellow card
+images/train/SNGS-059_000391.jpg,SNGS-059,3,391,train_gsr,Yellow card
+images/train/SNGS-059_000406.jpg,SNGS-059,3,406,train_gsr,Yellow card
+images/train/SNGS-059_000421.jpg,SNGS-059,3,421,train_gsr,Yellow card
+images/train/SNGS-059_000436.jpg,SNGS-059,3,436,train_gsr,Yellow card
+images/train/SNGS-059_000451.jpg,SNGS-059,3,451,train_gsr,Yellow card
+images/train/SNGS-059_000466.jpg,SNGS-059,3,466,train_gsr,Yellow card
+images/train/SNGS-059_000481.jpg,SNGS-059,3,481,train_gsr,Yellow card
+images/train/SNGS-059_000496.jpg,SNGS-059,3,496,train_gsr,Yellow card
+images/train/SNGS-059_000511.jpg,SNGS-059,3,511,train_gsr,Yellow card
+images/train/SNGS-059_000526.jpg,SNGS-059,3,526,train_gsr,Yellow card
+images/train/SNGS-059_000541.jpg,SNGS-059,3,541,train_gsr,Yellow card
+images/train/SNGS-059_000556.jpg,SNGS-059,3,556,train_gsr,Yellow card
+images/train/SNGS-059_000571.jpg,SNGS-059,3,571,train_gsr,Yellow card
+images/train/SNGS-059_000586.jpg,SNGS-059,3,586,train_gsr,Yellow card
+images/train/SNGS-059_000601.jpg,SNGS-059,3,601,train_gsr,Yellow card
+images/train/SNGS-059_000616.jpg,SNGS-059,3,616,train_gsr,Yellow card
+images/train/SNGS-059_000631.jpg,SNGS-059,3,631,train_gsr,Yellow card
+images/train/SNGS-059_000646.jpg,SNGS-059,3,646,train_gsr,Yellow card
+images/train/SNGS-059_000661.jpg,SNGS-059,3,661,train_gsr,Yellow card
+images/train/SNGS-059_000676.jpg,SNGS-059,3,676,train_gsr,Yellow card
+images/train/SNGS-059_000691.jpg,SNGS-059,3,691,train_gsr,Yellow card
+images/train/SNGS-059_000706.jpg,SNGS-059,3,706,train_gsr,Yellow card
+images/train/SNGS-059_000721.jpg,SNGS-059,3,721,train_gsr,Yellow card
+images/train/SNGS-059_000736.jpg,SNGS-059,3,736,train_gsr,Yellow card
+images/train/SNGS-078_000001.jpg,SNGS-078,5,1,train_gsr,Clearance
+images/train/SNGS-078_000016.jpg,SNGS-078,5,16,train_gsr,Clearance
+images/train/SNGS-078_000031.jpg,SNGS-078,5,31,train_gsr,Clearance
+images/train/SNGS-078_000046.jpg,SNGS-078,5,46,train_gsr,Clearance
+images/train/SNGS-078_000061.jpg,SNGS-078,5,61,train_gsr,Clearance
+images/train/SNGS-078_000076.jpg,SNGS-078,5,76,train_gsr,Clearance
+images/train/SNGS-078_000091.jpg,SNGS-078,5,91,train_gsr,Clearance
+images/train/SNGS-078_000106.jpg,SNGS-078,5,106,train_gsr,Clearance
+images/train/SNGS-078_000121.jpg,SNGS-078,5,121,train_gsr,Clearance
+images/train/SNGS-078_000136.jpg,SNGS-078,5,136,train_gsr,Clearance
+images/train/SNGS-078_000151.jpg,SNGS-078,5,151,train_gsr,Clearance
+images/train/SNGS-078_000166.jpg,SNGS-078,5,166,train_gsr,Clearance
+images/train/SNGS-078_000181.jpg,SNGS-078,5,181,train_gsr,Clearance
+images/train/SNGS-078_000196.jpg,SNGS-078,5,196,train_gsr,Clearance
+images/train/SNGS-078_000211.jpg,SNGS-078,5,211,train_gsr,Clearance
+images/train/SNGS-078_000226.jpg,SNGS-078,5,226,train_gsr,Clearance
+images/train/SNGS-078_000241.jpg,SNGS-078,5,241,train_gsr,Clearance
+images/train/SNGS-078_000256.jpg,SNGS-078,5,256,train_gsr,Clearance
+images/train/SNGS-078_000271.jpg,SNGS-078,5,271,train_gsr,Clearance
+images/train/SNGS-078_000286.jpg,SNGS-078,5,286,train_gsr,Clearance
+images/train/SNGS-078_000301.jpg,SNGS-078,5,301,train_gsr,Clearance
+images/train/SNGS-078_000316.jpg,SNGS-078,5,316,train_gsr,Clearance
+images/train/SNGS-078_000331.jpg,SNGS-078,5,331,train_gsr,Clearance
+images/train/SNGS-078_000346.jpg,SNGS-078,5,346,train_gsr,Clearance
+images/train/SNGS-078_000361.jpg,SNGS-078,5,361,train_gsr,Clearance
+images/train/SNGS-078_000376.jpg,SNGS-078,5,376,train_gsr,Clearance
+images/train/SNGS-078_000391.jpg,SNGS-078,5,391,train_gsr,Clearance
+images/train/SNGS-078_000406.jpg,SNGS-078,5,406,train_gsr,Clearance
+images/train/SNGS-078_000421.jpg,SNGS-078,5,421,train_gsr,Clearance
+images/train/SNGS-078_000436.jpg,SNGS-078,5,436,train_gsr,Clearance
+images/train/SNGS-078_000451.jpg,SNGS-078,5,451,train_gsr,Clearance
+images/train/SNGS-078_000466.jpg,SNGS-078,5,466,train_gsr,Clearance
+images/train/SNGS-078_000481.jpg,SNGS-078,5,481,train_gsr,Clearance
+images/train/SNGS-078_000496.jpg,SNGS-078,5,496,train_gsr,Clearance
+images/train/SNGS-078_000511.jpg,SNGS-078,5,511,train_gsr,Clearance
+images/train/SNGS-078_000526.jpg,SNGS-078,5,526,train_gsr,Clearance
+images/train/SNGS-078_000541.jpg,SNGS-078,5,541,train_gsr,Clearance
+images/train/SNGS-078_000556.jpg,SNGS-078,5,556,train_gsr,Clearance
+images/train/SNGS-078_000571.jpg,SNGS-078,5,571,train_gsr,Clearance
+images/train/SNGS-078_000586.jpg,SNGS-078,5,586,train_gsr,Clearance
+images/train/SNGS-078_000601.jpg,SNGS-078,5,601,train_gsr,Clearance
+images/train/SNGS-078_000616.jpg,SNGS-078,5,616,train_gsr,Clearance
+images/train/SNGS-078_000631.jpg,SNGS-078,5,631,train_gsr,Clearance
+images/train/SNGS-078_000646.jpg,SNGS-078,5,646,train_gsr,Clearance
+images/train/SNGS-078_000661.jpg,SNGS-078,5,661,train_gsr,Clearance
+images/train/SNGS-078_000676.jpg,SNGS-078,5,676,train_gsr,Clearance
+images/train/SNGS-078_000691.jpg,SNGS-078,5,691,train_gsr,Clearance
+images/train/SNGS-078_000706.jpg,SNGS-078,5,706,train_gsr,Clearance
+images/train/SNGS-078_000721.jpg,SNGS-078,5,721,train_gsr,Clearance
+images/train/SNGS-078_000736.jpg,SNGS-078,5,736,train_gsr,Clearance
+images/train/SNGS-079_000001.jpg,SNGS-079,5,1,train_gsr,Corner
+images/train/SNGS-079_000016.jpg,SNGS-079,5,16,train_gsr,Corner
+images/train/SNGS-079_000031.jpg,SNGS-079,5,31,train_gsr,Corner
+images/train/SNGS-079_000046.jpg,SNGS-079,5,46,train_gsr,Corner
+images/train/SNGS-079_000061.jpg,SNGS-079,5,61,train_gsr,Corner
+images/train/SNGS-079_000076.jpg,SNGS-079,5,76,train_gsr,Corner
+images/train/SNGS-079_000091.jpg,SNGS-079,5,91,train_gsr,Corner
+images/train/SNGS-079_000106.jpg,SNGS-079,5,106,train_gsr,Corner
+images/train/SNGS-079_000121.jpg,SNGS-079,5,121,train_gsr,Corner
+images/train/SNGS-079_000136.jpg,SNGS-079,5,136,train_gsr,Corner
+images/train/SNGS-079_000151.jpg,SNGS-079,5,151,train_gsr,Corner
+images/train/SNGS-079_000166.jpg,SNGS-079,5,166,train_gsr,Corner
+images/train/SNGS-079_000181.jpg,SNGS-079,5,181,train_gsr,Corner
+images/train/SNGS-079_000196.jpg,SNGS-079,5,196,train_gsr,Corner
+images/train/SNGS-079_000211.jpg,SNGS-079,5,211,train_gsr,Corner
+images/train/SNGS-079_000226.jpg,SNGS-079,5,226,train_gsr,Corner
+images/train/SNGS-079_000241.jpg,SNGS-079,5,241,train_gsr,Corner
+images/train/SNGS-079_000256.jpg,SNGS-079,5,256,train_gsr,Corner
+images/train/SNGS-079_000271.jpg,SNGS-079,5,271,train_gsr,Corner
+images/train/SNGS-079_000286.jpg,SNGS-079,5,286,train_gsr,Corner
+images/train/SNGS-079_000301.jpg,SNGS-079,5,301,train_gsr,Corner
+images/train/SNGS-079_000316.jpg,SNGS-079,5,316,train_gsr,Corner
+images/train/SNGS-079_000331.jpg,SNGS-079,5,331,train_gsr,Corner
+images/train/SNGS-079_000346.jpg,SNGS-079,5,346,train_gsr,Corner
+images/train/SNGS-079_000361.jpg,SNGS-079,5,361,train_gsr,Corner
+images/train/SNGS-079_000376.jpg,SNGS-079,5,376,train_gsr,Corner
+images/train/SNGS-079_000391.jpg,SNGS-079,5,391,train_gsr,Corner
+images/train/SNGS-079_000406.jpg,SNGS-079,5,406,train_gsr,Corner
+images/train/SNGS-079_000421.jpg,SNGS-079,5,421,train_gsr,Corner
+images/train/SNGS-079_000436.jpg,SNGS-079,5,436,train_gsr,Corner
+images/train/SNGS-079_000451.jpg,SNGS-079,5,451,train_gsr,Corner
+images/train/SNGS-079_000466.jpg,SNGS-079,5,466,train_gsr,Corner
+images/train/SNGS-079_000481.jpg,SNGS-079,5,481,train_gsr,Corner
+images/train/SNGS-079_000496.jpg,SNGS-079,5,496,train_gsr,Corner
+images/train/SNGS-079_000511.jpg,SNGS-079,5,511,train_gsr,Corner
+images/train/SNGS-079_000526.jpg,SNGS-079,5,526,train_gsr,Corner
+images/train/SNGS-079_000541.jpg,SNGS-079,5,541,train_gsr,Corner
+images/train/SNGS-079_000556.jpg,SNGS-079,5,556,train_gsr,Corner
+images/train/SNGS-079_000571.jpg,SNGS-079,5,571,train_gsr,Corner
+images/train/SNGS-079_000586.jpg,SNGS-079,5,586,train_gsr,Corner
+images/train/SNGS-079_000601.jpg,SNGS-079,5,601,train_gsr,Corner
+images/train/SNGS-079_000616.jpg,SNGS-079,5,616,train_gsr,Corner
+images/train/SNGS-079_000631.jpg,SNGS-079,5,631,train_gsr,Corner
+images/train/SNGS-079_000646.jpg,SNGS-079,5,646,train_gsr,Corner
+images/train/SNGS-079_000661.jpg,SNGS-079,5,661,train_gsr,Corner
+images/train/SNGS-079_000676.jpg,SNGS-079,5,676,train_gsr,Corner
+images/train/SNGS-079_000691.jpg,SNGS-079,5,691,train_gsr,Corner
+images/train/SNGS-079_000706.jpg,SNGS-079,5,706,train_gsr,Corner
+images/train/SNGS-079_000721.jpg,SNGS-079,5,721,train_gsr,Corner
+images/train/SNGS-079_000736.jpg,SNGS-079,5,736,train_gsr,Corner
+images/train/SNGS-080_000001.jpg,SNGS-080,5,1,train_gsr,Yellow card
+images/train/SNGS-080_000016.jpg,SNGS-080,5,16,train_gsr,Yellow card
+images/train/SNGS-080_000031.jpg,SNGS-080,5,31,train_gsr,Yellow card
+images/train/SNGS-080_000046.jpg,SNGS-080,5,46,train_gsr,Yellow card
+images/train/SNGS-080_000061.jpg,SNGS-080,5,61,train_gsr,Yellow card
+images/train/SNGS-080_000076.jpg,SNGS-080,5,76,train_gsr,Yellow card
+images/train/SNGS-080_000091.jpg,SNGS-080,5,91,train_gsr,Yellow card
+images/train/SNGS-080_000106.jpg,SNGS-080,5,106,train_gsr,Yellow card
+images/train/SNGS-080_000121.jpg,SNGS-080,5,121,train_gsr,Yellow card
+images/train/SNGS-080_000136.jpg,SNGS-080,5,136,train_gsr,Yellow card
+images/train/SNGS-080_000151.jpg,SNGS-080,5,151,train_gsr,Yellow card
+images/train/SNGS-080_000166.jpg,SNGS-080,5,166,train_gsr,Yellow card
+images/train/SNGS-080_000181.jpg,SNGS-080,5,181,train_gsr,Yellow card
+images/train/SNGS-080_000196.jpg,SNGS-080,5,196,train_gsr,Yellow card
+images/train/SNGS-080_000211.jpg,SNGS-080,5,211,train_gsr,Yellow card
+images/train/SNGS-080_000226.jpg,SNGS-080,5,226,train_gsr,Yellow card
+images/train/SNGS-080_000241.jpg,SNGS-080,5,241,train_gsr,Yellow card
+images/train/SNGS-080_000256.jpg,SNGS-080,5,256,train_gsr,Yellow card
+images/train/SNGS-080_000271.jpg,SNGS-080,5,271,train_gsr,Yellow card
+images/train/SNGS-080_000286.jpg,SNGS-080,5,286,train_gsr,Yellow card
+images/train/SNGS-080_000301.jpg,SNGS-080,5,301,train_gsr,Yellow card
+images/train/SNGS-080_000316.jpg,SNGS-080,5,316,train_gsr,Yellow card
+images/train/SNGS-080_000331.jpg,SNGS-080,5,331,train_gsr,Yellow card
+images/train/SNGS-080_000346.jpg,SNGS-080,5,346,train_gsr,Yellow card
+images/train/SNGS-080_000361.jpg,SNGS-080,5,361,train_gsr,Yellow card
+images/train/SNGS-080_000376.jpg,SNGS-080,5,376,train_gsr,Yellow card
+images/train/SNGS-080_000391.jpg,SNGS-080,5,391,train_gsr,Yellow card
+images/train/SNGS-080_000406.jpg,SNGS-080,5,406,train_gsr,Yellow card
+images/train/SNGS-080_000421.jpg,SNGS-080,5,421,train_gsr,Yellow card
+images/train/SNGS-080_000436.jpg,SNGS-080,5,436,train_gsr,Yellow card
+images/train/SNGS-080_000451.jpg,SNGS-080,5,451,train_gsr,Yellow card
+images/train/SNGS-080_000466.jpg,SNGS-080,5,466,train_gsr,Yellow card
+images/train/SNGS-080_000481.jpg,SNGS-080,5,481,train_gsr,Yellow card
+images/train/SNGS-080_000496.jpg,SNGS-080,5,496,train_gsr,Yellow card
+images/train/SNGS-080_000511.jpg,SNGS-080,5,511,train_gsr,Yellow card
+images/train/SNGS-080_000526.jpg,SNGS-080,5,526,train_gsr,Yellow card
+images/train/SNGS-080_000541.jpg,SNGS-080,5,541,train_gsr,Yellow card
+images/train/SNGS-080_000556.jpg,SNGS-080,5,556,train_gsr,Yellow card
+images/train/SNGS-080_000571.jpg,SNGS-080,5,571,train_gsr,Yellow card
+images/train/SNGS-080_000586.jpg,SNGS-080,5,586,train_gsr,Yellow card
+images/train/SNGS-080_000601.jpg,SNGS-080,5,601,train_gsr,Yellow card
+images/train/SNGS-080_000616.jpg,SNGS-080,5,616,train_gsr,Yellow card
+images/train/SNGS-080_000631.jpg,SNGS-080,5,631,train_gsr,Yellow card
+images/train/SNGS-080_000646.jpg,SNGS-080,5,646,train_gsr,Yellow card
+images/train/SNGS-080_000661.jpg,SNGS-080,5,661,train_gsr,Yellow card
+images/train/SNGS-080_000676.jpg,SNGS-080,5,676,train_gsr,Yellow card
+images/train/SNGS-080_000691.jpg,SNGS-080,5,691,train_gsr,Yellow card
+images/train/SNGS-080_000706.jpg,SNGS-080,5,706,train_gsr,Yellow card
+images/train/SNGS-080_000721.jpg,SNGS-080,5,721,train_gsr,Yellow card
+images/train/SNGS-080_000736.jpg,SNGS-080,5,736,train_gsr,Yellow card
+images/train/SNGS-081_000001.jpg,SNGS-081,5,1,train_gsr,Foul
+images/train/SNGS-081_000016.jpg,SNGS-081,5,16,train_gsr,Foul
+images/train/SNGS-081_000031.jpg,SNGS-081,5,31,train_gsr,Foul
+images/train/SNGS-081_000046.jpg,SNGS-081,5,46,train_gsr,Foul
+images/train/SNGS-081_000061.jpg,SNGS-081,5,61,train_gsr,Foul
+images/train/SNGS-081_000076.jpg,SNGS-081,5,76,train_gsr,Foul
+images/train/SNGS-081_000091.jpg,SNGS-081,5,91,train_gsr,Foul
+images/train/SNGS-081_000106.jpg,SNGS-081,5,106,train_gsr,Foul
+images/train/SNGS-081_000121.jpg,SNGS-081,5,121,train_gsr,Foul
+images/train/SNGS-081_000136.jpg,SNGS-081,5,136,train_gsr,Foul
+images/train/SNGS-081_000151.jpg,SNGS-081,5,151,train_gsr,Foul
+images/train/SNGS-081_000166.jpg,SNGS-081,5,166,train_gsr,Foul
+images/train/SNGS-081_000181.jpg,SNGS-081,5,181,train_gsr,Foul
+images/train/SNGS-081_000196.jpg,SNGS-081,5,196,train_gsr,Foul
+images/train/SNGS-081_000211.jpg,SNGS-081,5,211,train_gsr,Foul
+images/train/SNGS-081_000226.jpg,SNGS-081,5,226,train_gsr,Foul
+images/train/SNGS-081_000241.jpg,SNGS-081,5,241,train_gsr,Foul
+images/train/SNGS-081_000256.jpg,SNGS-081,5,256,train_gsr,Foul
+images/train/SNGS-081_000271.jpg,SNGS-081,5,271,train_gsr,Foul
+images/train/SNGS-081_000286.jpg,SNGS-081,5,286,train_gsr,Foul
+images/train/SNGS-081_000301.jpg,SNGS-081,5,301,train_gsr,Foul
+images/train/SNGS-081_000316.jpg,SNGS-081,5,316,train_gsr,Foul
+images/train/SNGS-081_000331.jpg,SNGS-081,5,331,train_gsr,Foul
+images/train/SNGS-081_000346.jpg,SNGS-081,5,346,train_gsr,Foul
+images/train/SNGS-081_000361.jpg,SNGS-081,5,361,train_gsr,Foul
+images/train/SNGS-081_000376.jpg,SNGS-081,5,376,train_gsr,Foul
+images/train/SNGS-081_000391.jpg,SNGS-081,5,391,train_gsr,Foul
+images/train/SNGS-081_000406.jpg,SNGS-081,5,406,train_gsr,Foul
+images/train/SNGS-081_000421.jpg,SNGS-081,5,421,train_gsr,Foul
+images/train/SNGS-081_000436.jpg,SNGS-081,5,436,train_gsr,Foul
+images/train/SNGS-081_000451.jpg,SNGS-081,5,451,train_gsr,Foul
+images/train/SNGS-081_000466.jpg,SNGS-081,5,466,train_gsr,Foul
+images/train/SNGS-081_000481.jpg,SNGS-081,5,481,train_gsr,Foul
+images/train/SNGS-081_000496.jpg,SNGS-081,5,496,train_gsr,Foul
+images/train/SNGS-081_000511.jpg,SNGS-081,5,511,train_gsr,Foul
+images/train/SNGS-081_000526.jpg,SNGS-081,5,526,train_gsr,Foul
+images/train/SNGS-081_000541.jpg,SNGS-081,5,541,train_gsr,Foul
+images/train/SNGS-081_000556.jpg,SNGS-081,5,556,train_gsr,Foul
+images/train/SNGS-081_000571.jpg,SNGS-081,5,571,train_gsr,Foul
+images/train/SNGS-081_000586.jpg,SNGS-081,5,586,train_gsr,Foul
+images/train/SNGS-081_000601.jpg,SNGS-081,5,601,train_gsr,Foul
+images/train/SNGS-081_000616.jpg,SNGS-081,5,616,train_gsr,Foul
+images/train/SNGS-081_000631.jpg,SNGS-081,5,631,train_gsr,Foul
+images/train/SNGS-081_000646.jpg,SNGS-081,5,646,train_gsr,Foul
+images/train/SNGS-081_000661.jpg,SNGS-081,5,661,train_gsr,Foul
+images/train/SNGS-081_000676.jpg,SNGS-081,5,676,train_gsr,Foul
+images/train/SNGS-081_000691.jpg,SNGS-081,5,691,train_gsr,Foul
+images/train/SNGS-081_000706.jpg,SNGS-081,5,706,train_gsr,Foul
+images/train/SNGS-081_000721.jpg,SNGS-081,5,721,train_gsr,Foul
+images/train/SNGS-081_000736.jpg,SNGS-081,5,736,train_gsr,Foul
+images/train/SNGS-082_000001.jpg,SNGS-082,5,1,train_gsr,Shots on target
+images/train/SNGS-082_000016.jpg,SNGS-082,5,16,train_gsr,Shots on target
+images/train/SNGS-082_000031.jpg,SNGS-082,5,31,train_gsr,Shots on target
+images/train/SNGS-082_000046.jpg,SNGS-082,5,46,train_gsr,Shots on target
+images/train/SNGS-082_000061.jpg,SNGS-082,5,61,train_gsr,Shots on target
+images/train/SNGS-082_000076.jpg,SNGS-082,5,76,train_gsr,Shots on target
+images/train/SNGS-082_000091.jpg,SNGS-082,5,91,train_gsr,Shots on target
+images/train/SNGS-082_000106.jpg,SNGS-082,5,106,train_gsr,Shots on target
+images/train/SNGS-082_000121.jpg,SNGS-082,5,121,train_gsr,Shots on target
+images/train/SNGS-082_000136.jpg,SNGS-082,5,136,train_gsr,Shots on target
+images/train/SNGS-082_000151.jpg,SNGS-082,5,151,train_gsr,Shots on target
+images/train/SNGS-082_000166.jpg,SNGS-082,5,166,train_gsr,Shots on target
+images/train/SNGS-082_000181.jpg,SNGS-082,5,181,train_gsr,Shots on target
+images/train/SNGS-082_000196.jpg,SNGS-082,5,196,train_gsr,Shots on target
+images/train/SNGS-082_000211.jpg,SNGS-082,5,211,train_gsr,Shots on target
+images/train/SNGS-082_000226.jpg,SNGS-082,5,226,train_gsr,Shots on target
+images/train/SNGS-082_000241.jpg,SNGS-082,5,241,train_gsr,Shots on target
+images/train/SNGS-082_000256.jpg,SNGS-082,5,256,train_gsr,Shots on target
+images/train/SNGS-082_000271.jpg,SNGS-082,5,271,train_gsr,Shots on target
+images/train/SNGS-082_000286.jpg,SNGS-082,5,286,train_gsr,Shots on target
+images/train/SNGS-082_000301.jpg,SNGS-082,5,301,train_gsr,Shots on target
+images/train/SNGS-082_000316.jpg,SNGS-082,5,316,train_gsr,Shots on target
+images/train/SNGS-082_000331.jpg,SNGS-082,5,331,train_gsr,Shots on target
+images/train/SNGS-082_000346.jpg,SNGS-082,5,346,train_gsr,Shots on target
+images/train/SNGS-082_000361.jpg,SNGS-082,5,361,train_gsr,Shots on target
+images/train/SNGS-082_000376.jpg,SNGS-082,5,376,train_gsr,Shots on target
+images/train/SNGS-082_000391.jpg,SNGS-082,5,391,train_gsr,Shots on target
+images/train/SNGS-082_000406.jpg,SNGS-082,5,406,train_gsr,Shots on target
+images/train/SNGS-082_000421.jpg,SNGS-082,5,421,train_gsr,Shots on target
+images/train/SNGS-082_000436.jpg,SNGS-082,5,436,train_gsr,Shots on target
+images/train/SNGS-082_000451.jpg,SNGS-082,5,451,train_gsr,Shots on target
+images/train/SNGS-082_000466.jpg,SNGS-082,5,466,train_gsr,Shots on target
+images/train/SNGS-082_000481.jpg,SNGS-082,5,481,train_gsr,Shots on target
+images/train/SNGS-082_000496.jpg,SNGS-082,5,496,train_gsr,Shots on target
+images/train/SNGS-082_000511.jpg,SNGS-082,5,511,train_gsr,Shots on target
+images/train/SNGS-082_000526.jpg,SNGS-082,5,526,train_gsr,Shots on target
+images/train/SNGS-082_000541.jpg,SNGS-082,5,541,train_gsr,Shots on target
+images/train/SNGS-082_000556.jpg,SNGS-082,5,556,train_gsr,Shots on target
+images/train/SNGS-082_000571.jpg,SNGS-082,5,571,train_gsr,Shots on target
+images/train/SNGS-082_000586.jpg,SNGS-082,5,586,train_gsr,Shots on target
+images/train/SNGS-082_000601.jpg,SNGS-082,5,601,train_gsr,Shots on target
+images/train/SNGS-082_000616.jpg,SNGS-082,5,616,train_gsr,Shots on target
+images/train/SNGS-082_000631.jpg,SNGS-082,5,631,train_gsr,Shots on target
+images/train/SNGS-082_000646.jpg,SNGS-082,5,646,train_gsr,Shots on target
+images/train/SNGS-082_000661.jpg,SNGS-082,5,661,train_gsr,Shots on target
+images/train/SNGS-082_000676.jpg,SNGS-082,5,676,train_gsr,Shots on target
+images/train/SNGS-082_000691.jpg,SNGS-082,5,691,train_gsr,Shots on target
+images/train/SNGS-082_000706.jpg,SNGS-082,5,706,train_gsr,Shots on target
+images/train/SNGS-082_000721.jpg,SNGS-082,5,721,train_gsr,Shots on target
+images/train/SNGS-082_000736.jpg,SNGS-082,5,736,train_gsr,Shots on target
+images/train/SNGS-083_000001.jpg,SNGS-083,5,1,train_gsr,Shots off target
+images/train/SNGS-083_000016.jpg,SNGS-083,5,16,train_gsr,Shots off target
+images/train/SNGS-083_000031.jpg,SNGS-083,5,31,train_gsr,Shots off target
+images/train/SNGS-083_000046.jpg,SNGS-083,5,46,train_gsr,Shots off target
+images/train/SNGS-083_000061.jpg,SNGS-083,5,61,train_gsr,Shots off target
+images/train/SNGS-083_000076.jpg,SNGS-083,5,76,train_gsr,Shots off target
+images/train/SNGS-083_000091.jpg,SNGS-083,5,91,train_gsr,Shots off target
+images/train/SNGS-083_000106.jpg,SNGS-083,5,106,train_gsr,Shots off target
+images/train/SNGS-083_000121.jpg,SNGS-083,5,121,train_gsr,Shots off target
+images/train/SNGS-083_000136.jpg,SNGS-083,5,136,train_gsr,Shots off target
+images/train/SNGS-083_000151.jpg,SNGS-083,5,151,train_gsr,Shots off target
+images/train/SNGS-083_000166.jpg,SNGS-083,5,166,train_gsr,Shots off target
+images/train/SNGS-083_000181.jpg,SNGS-083,5,181,train_gsr,Shots off target
+images/train/SNGS-083_000196.jpg,SNGS-083,5,196,train_gsr,Shots off target
+images/train/SNGS-083_000211.jpg,SNGS-083,5,211,train_gsr,Shots off target
+images/train/SNGS-083_000226.jpg,SNGS-083,5,226,train_gsr,Shots off target
+images/train/SNGS-083_000241.jpg,SNGS-083,5,241,train_gsr,Shots off target
+images/train/SNGS-083_000256.jpg,SNGS-083,5,256,train_gsr,Shots off target
+images/train/SNGS-083_000271.jpg,SNGS-083,5,271,train_gsr,Shots off target
+images/train/SNGS-083_000286.jpg,SNGS-083,5,286,train_gsr,Shots off target
+images/train/SNGS-083_000301.jpg,SNGS-083,5,301,train_gsr,Shots off target
+images/train/SNGS-083_000316.jpg,SNGS-083,5,316,train_gsr,Shots off target
+images/train/SNGS-083_000331.jpg,SNGS-083,5,331,train_gsr,Shots off target
+images/train/SNGS-083_000346.jpg,SNGS-083,5,346,train_gsr,Shots off target
+images/train/SNGS-083_000361.jpg,SNGS-083,5,361,train_gsr,Shots off target
+images/train/SNGS-083_000376.jpg,SNGS-083,5,376,train_gsr,Shots off target
+images/train/SNGS-083_000391.jpg,SNGS-083,5,391,train_gsr,Shots off target
+images/train/SNGS-083_000406.jpg,SNGS-083,5,406,train_gsr,Shots off target
+images/train/SNGS-083_000421.jpg,SNGS-083,5,421,train_gsr,Shots off target
+images/train/SNGS-083_000436.jpg,SNGS-083,5,436,train_gsr,Shots off target
+images/train/SNGS-083_000451.jpg,SNGS-083,5,451,train_gsr,Shots off target
+images/train/SNGS-083_000466.jpg,SNGS-083,5,466,train_gsr,Shots off target
+images/train/SNGS-083_000481.jpg,SNGS-083,5,481,train_gsr,Shots off target
+images/train/SNGS-083_000496.jpg,SNGS-083,5,496,train_gsr,Shots off target
+images/train/SNGS-083_000511.jpg,SNGS-083,5,511,train_gsr,Shots off target
+images/train/SNGS-083_000526.jpg,SNGS-083,5,526,train_gsr,Shots off target
+images/train/SNGS-083_000541.jpg,SNGS-083,5,541,train_gsr,Shots off target
+images/train/SNGS-083_000556.jpg,SNGS-083,5,556,train_gsr,Shots off target
+images/train/SNGS-083_000571.jpg,SNGS-083,5,571,train_gsr,Shots off target
+images/train/SNGS-083_000586.jpg,SNGS-083,5,586,train_gsr,Shots off target
+images/train/SNGS-083_000601.jpg,SNGS-083,5,601,train_gsr,Shots off target
+images/train/SNGS-083_000616.jpg,SNGS-083,5,616,train_gsr,Shots off target
+images/train/SNGS-083_000631.jpg,SNGS-083,5,631,train_gsr,Shots off target
+images/train/SNGS-083_000646.jpg,SNGS-083,5,646,train_gsr,Shots off target
+images/train/SNGS-083_000661.jpg,SNGS-083,5,661,train_gsr,Shots off target
+images/train/SNGS-083_000676.jpg,SNGS-083,5,676,train_gsr,Shots off target
+images/train/SNGS-083_000691.jpg,SNGS-083,5,691,train_gsr,Shots off target
+images/train/SNGS-083_000706.jpg,SNGS-083,5,706,train_gsr,Shots off target
+images/train/SNGS-083_000721.jpg,SNGS-083,5,721,train_gsr,Shots off target
+images/train/SNGS-083_000736.jpg,SNGS-083,5,736,train_gsr,Shots off target
+images/train/SNGS-084_000001.jpg,SNGS-084,5,1,train_gsr,Goal
+images/train/SNGS-084_000016.jpg,SNGS-084,5,16,train_gsr,Goal
+images/train/SNGS-084_000031.jpg,SNGS-084,5,31,train_gsr,Goal
+images/train/SNGS-084_000046.jpg,SNGS-084,5,46,train_gsr,Goal
+images/train/SNGS-084_000061.jpg,SNGS-084,5,61,train_gsr,Goal
+images/train/SNGS-084_000076.jpg,SNGS-084,5,76,train_gsr,Goal
+images/train/SNGS-084_000091.jpg,SNGS-084,5,91,train_gsr,Goal
+images/train/SNGS-084_000106.jpg,SNGS-084,5,106,train_gsr,Goal
+images/train/SNGS-084_000121.jpg,SNGS-084,5,121,train_gsr,Goal
+images/train/SNGS-084_000136.jpg,SNGS-084,5,136,train_gsr,Goal
+images/train/SNGS-084_000151.jpg,SNGS-084,5,151,train_gsr,Goal
+images/train/SNGS-084_000166.jpg,SNGS-084,5,166,train_gsr,Goal
+images/train/SNGS-084_000181.jpg,SNGS-084,5,181,train_gsr,Goal
+images/train/SNGS-084_000196.jpg,SNGS-084,5,196,train_gsr,Goal
+images/train/SNGS-084_000211.jpg,SNGS-084,5,211,train_gsr,Goal
+images/train/SNGS-084_000226.jpg,SNGS-084,5,226,train_gsr,Goal
+images/train/SNGS-084_000241.jpg,SNGS-084,5,241,train_gsr,Goal
+images/train/SNGS-084_000256.jpg,SNGS-084,5,256,train_gsr,Goal
+images/train/SNGS-084_000271.jpg,SNGS-084,5,271,train_gsr,Goal
+images/train/SNGS-084_000286.jpg,SNGS-084,5,286,train_gsr,Goal
+images/train/SNGS-084_000301.jpg,SNGS-084,5,301,train_gsr,Goal
+images/train/SNGS-084_000316.jpg,SNGS-084,5,316,train_gsr,Goal
+images/train/SNGS-084_000331.jpg,SNGS-084,5,331,train_gsr,Goal
+images/train/SNGS-084_000346.jpg,SNGS-084,5,346,train_gsr,Goal
+images/train/SNGS-084_000361.jpg,SNGS-084,5,361,train_gsr,Goal
+images/train/SNGS-084_000376.jpg,SNGS-084,5,376,train_gsr,Goal
+images/train/SNGS-084_000391.jpg,SNGS-084,5,391,train_gsr,Goal
+images/train/SNGS-084_000406.jpg,SNGS-084,5,406,train_gsr,Goal
+images/train/SNGS-084_000421.jpg,SNGS-084,5,421,train_gsr,Goal
+images/train/SNGS-084_000436.jpg,SNGS-084,5,436,train_gsr,Goal
+images/train/SNGS-084_000451.jpg,SNGS-084,5,451,train_gsr,Goal
+images/train/SNGS-084_000466.jpg,SNGS-084,5,466,train_gsr,Goal
+images/train/SNGS-084_000481.jpg,SNGS-084,5,481,train_gsr,Goal
+images/train/SNGS-084_000496.jpg,SNGS-084,5,496,train_gsr,Goal
+images/train/SNGS-084_000511.jpg,SNGS-084,5,511,train_gsr,Goal
+images/train/SNGS-084_000526.jpg,SNGS-084,5,526,train_gsr,Goal
+images/train/SNGS-084_000541.jpg,SNGS-084,5,541,train_gsr,Goal
+images/train/SNGS-084_000556.jpg,SNGS-084,5,556,train_gsr,Goal
+images/train/SNGS-084_000571.jpg,SNGS-084,5,571,train_gsr,Goal
+images/train/SNGS-084_000586.jpg,SNGS-084,5,586,train_gsr,Goal
+images/train/SNGS-084_000601.jpg,SNGS-084,5,601,train_gsr,Goal
+images/train/SNGS-084_000616.jpg,SNGS-084,5,616,train_gsr,Goal
+images/train/SNGS-084_000631.jpg,SNGS-084,5,631,train_gsr,Goal
+images/train/SNGS-084_000646.jpg,SNGS-084,5,646,train_gsr,Goal
+images/train/SNGS-084_000661.jpg,SNGS-084,5,661,train_gsr,Goal
+images/train/SNGS-084_000676.jpg,SNGS-084,5,676,train_gsr,Goal
+images/train/SNGS-084_000691.jpg,SNGS-084,5,691,train_gsr,Goal
+images/train/SNGS-084_000706.jpg,SNGS-084,5,706,train_gsr,Goal
+images/train/SNGS-084_000721.jpg,SNGS-084,5,721,train_gsr,Goal
+images/train/SNGS-084_000736.jpg,SNGS-084,5,736,train_gsr,Goal
+images/train/SNGS-085_000001.jpg,SNGS-085,5,1,train_gsr,Kick-off
+images/train/SNGS-085_000016.jpg,SNGS-085,5,16,train_gsr,Kick-off
+images/train/SNGS-085_000031.jpg,SNGS-085,5,31,train_gsr,Kick-off
+images/train/SNGS-085_000046.jpg,SNGS-085,5,46,train_gsr,Kick-off
+images/train/SNGS-085_000061.jpg,SNGS-085,5,61,train_gsr,Kick-off
+images/train/SNGS-085_000076.jpg,SNGS-085,5,76,train_gsr,Kick-off
+images/train/SNGS-085_000091.jpg,SNGS-085,5,91,train_gsr,Kick-off
+images/train/SNGS-085_000106.jpg,SNGS-085,5,106,train_gsr,Kick-off
+images/train/SNGS-085_000121.jpg,SNGS-085,5,121,train_gsr,Kick-off
+images/train/SNGS-085_000136.jpg,SNGS-085,5,136,train_gsr,Kick-off
+images/train/SNGS-085_000151.jpg,SNGS-085,5,151,train_gsr,Kick-off
+images/train/SNGS-085_000166.jpg,SNGS-085,5,166,train_gsr,Kick-off
+images/train/SNGS-085_000181.jpg,SNGS-085,5,181,train_gsr,Kick-off
+images/train/SNGS-085_000196.jpg,SNGS-085,5,196,train_gsr,Kick-off
+images/train/SNGS-085_000211.jpg,SNGS-085,5,211,train_gsr,Kick-off
+images/train/SNGS-085_000226.jpg,SNGS-085,5,226,train_gsr,Kick-off
+images/train/SNGS-085_000241.jpg,SNGS-085,5,241,train_gsr,Kick-off
+images/train/SNGS-085_000256.jpg,SNGS-085,5,256,train_gsr,Kick-off
+images/train/SNGS-085_000271.jpg,SNGS-085,5,271,train_gsr,Kick-off
+images/train/SNGS-085_000286.jpg,SNGS-085,5,286,train_gsr,Kick-off
+images/train/SNGS-085_000301.jpg,SNGS-085,5,301,train_gsr,Kick-off
+images/train/SNGS-085_000316.jpg,SNGS-085,5,316,train_gsr,Kick-off
+images/train/SNGS-085_000331.jpg,SNGS-085,5,331,train_gsr,Kick-off
+images/train/SNGS-085_000346.jpg,SNGS-085,5,346,train_gsr,Kick-off
+images/train/SNGS-085_000361.jpg,SNGS-085,5,361,train_gsr,Kick-off
+images/train/SNGS-085_000376.jpg,SNGS-085,5,376,train_gsr,Kick-off
+images/train/SNGS-085_000391.jpg,SNGS-085,5,391,train_gsr,Kick-off
+images/train/SNGS-085_000406.jpg,SNGS-085,5,406,train_gsr,Kick-off
+images/train/SNGS-085_000421.jpg,SNGS-085,5,421,train_gsr,Kick-off
+images/train/SNGS-085_000436.jpg,SNGS-085,5,436,train_gsr,Kick-off
+images/train/SNGS-085_000451.jpg,SNGS-085,5,451,train_gsr,Kick-off
+images/train/SNGS-085_000466.jpg,SNGS-085,5,466,train_gsr,Kick-off
+images/train/SNGS-085_000481.jpg,SNGS-085,5,481,train_gsr,Kick-off
+images/train/SNGS-085_000496.jpg,SNGS-085,5,496,train_gsr,Kick-off
+images/train/SNGS-085_000511.jpg,SNGS-085,5,511,train_gsr,Kick-off
+images/train/SNGS-085_000526.jpg,SNGS-085,5,526,train_gsr,Kick-off
+images/train/SNGS-085_000541.jpg,SNGS-085,5,541,train_gsr,Kick-off
+images/train/SNGS-085_000556.jpg,SNGS-085,5,556,train_gsr,Kick-off
+images/train/SNGS-085_000571.jpg,SNGS-085,5,571,train_gsr,Kick-off
+images/train/SNGS-085_000586.jpg,SNGS-085,5,586,train_gsr,Kick-off
+images/train/SNGS-085_000601.jpg,SNGS-085,5,601,train_gsr,Kick-off
+images/train/SNGS-085_000616.jpg,SNGS-085,5,616,train_gsr,Kick-off
+images/train/SNGS-085_000631.jpg,SNGS-085,5,631,train_gsr,Kick-off
+images/train/SNGS-085_000646.jpg,SNGS-085,5,646,train_gsr,Kick-off
+images/train/SNGS-085_000661.jpg,SNGS-085,5,661,train_gsr,Kick-off
+images/train/SNGS-085_000676.jpg,SNGS-085,5,676,train_gsr,Kick-off
+images/train/SNGS-085_000691.jpg,SNGS-085,5,691,train_gsr,Kick-off
+images/train/SNGS-085_000706.jpg,SNGS-085,5,706,train_gsr,Kick-off
+images/train/SNGS-085_000721.jpg,SNGS-085,5,721,train_gsr,Kick-off
+images/train/SNGS-085_000736.jpg,SNGS-085,5,736,train_gsr,Kick-off
+images/train/SNGS-086_000001.jpg,SNGS-086,5,1,train_gsr,Corner
+images/train/SNGS-086_000016.jpg,SNGS-086,5,16,train_gsr,Corner
+images/train/SNGS-086_000031.jpg,SNGS-086,5,31,train_gsr,Corner
+images/train/SNGS-086_000046.jpg,SNGS-086,5,46,train_gsr,Corner
+images/train/SNGS-086_000061.jpg,SNGS-086,5,61,train_gsr,Corner
+images/train/SNGS-086_000076.jpg,SNGS-086,5,76,train_gsr,Corner
+images/train/SNGS-086_000091.jpg,SNGS-086,5,91,train_gsr,Corner
+images/train/SNGS-086_000106.jpg,SNGS-086,5,106,train_gsr,Corner
+images/train/SNGS-086_000121.jpg,SNGS-086,5,121,train_gsr,Corner
+images/train/SNGS-086_000136.jpg,SNGS-086,5,136,train_gsr,Corner
+images/train/SNGS-086_000151.jpg,SNGS-086,5,151,train_gsr,Corner
+images/train/SNGS-086_000166.jpg,SNGS-086,5,166,train_gsr,Corner
+images/train/SNGS-086_000181.jpg,SNGS-086,5,181,train_gsr,Corner
+images/train/SNGS-086_000196.jpg,SNGS-086,5,196,train_gsr,Corner
+images/train/SNGS-086_000211.jpg,SNGS-086,5,211,train_gsr,Corner
+images/train/SNGS-086_000226.jpg,SNGS-086,5,226,train_gsr,Corner
+images/train/SNGS-086_000241.jpg,SNGS-086,5,241,train_gsr,Corner
+images/train/SNGS-086_000256.jpg,SNGS-086,5,256,train_gsr,Corner
+images/train/SNGS-086_000271.jpg,SNGS-086,5,271,train_gsr,Corner
+images/train/SNGS-086_000286.jpg,SNGS-086,5,286,train_gsr,Corner
+images/train/SNGS-086_000301.jpg,SNGS-086,5,301,train_gsr,Corner
+images/train/SNGS-086_000316.jpg,SNGS-086,5,316,train_gsr,Corner
+images/train/SNGS-086_000331.jpg,SNGS-086,5,331,train_gsr,Corner
+images/train/SNGS-086_000346.jpg,SNGS-086,5,346,train_gsr,Corner
+images/train/SNGS-086_000361.jpg,SNGS-086,5,361,train_gsr,Corner
+images/train/SNGS-086_000376.jpg,SNGS-086,5,376,train_gsr,Corner
+images/train/SNGS-086_000391.jpg,SNGS-086,5,391,train_gsr,Corner
+images/train/SNGS-086_000406.jpg,SNGS-086,5,406,train_gsr,Corner
+images/train/SNGS-086_000421.jpg,SNGS-086,5,421,train_gsr,Corner
+images/train/SNGS-086_000436.jpg,SNGS-086,5,436,train_gsr,Corner
+images/train/SNGS-086_000451.jpg,SNGS-086,5,451,train_gsr,Corner
+images/train/SNGS-086_000466.jpg,SNGS-086,5,466,train_gsr,Corner
+images/train/SNGS-086_000481.jpg,SNGS-086,5,481,train_gsr,Corner
+images/train/SNGS-086_000496.jpg,SNGS-086,5,496,train_gsr,Corner
+images/train/SNGS-086_000511.jpg,SNGS-086,5,511,train_gsr,Corner
+images/train/SNGS-086_000526.jpg,SNGS-086,5,526,train_gsr,Corner
+images/train/SNGS-086_000541.jpg,SNGS-086,5,541,train_gsr,Corner
+images/train/SNGS-086_000556.jpg,SNGS-086,5,556,train_gsr,Corner
+images/train/SNGS-086_000571.jpg,SNGS-086,5,571,train_gsr,Corner
+images/train/SNGS-086_000586.jpg,SNGS-086,5,586,train_gsr,Corner
+images/train/SNGS-086_000601.jpg,SNGS-086,5,601,train_gsr,Corner
+images/train/SNGS-086_000616.jpg,SNGS-086,5,616,train_gsr,Corner
+images/train/SNGS-086_000631.jpg,SNGS-086,5,631,train_gsr,Corner
+images/train/SNGS-086_000646.jpg,SNGS-086,5,646,train_gsr,Corner
+images/train/SNGS-086_000661.jpg,SNGS-086,5,661,train_gsr,Corner
+images/train/SNGS-086_000676.jpg,SNGS-086,5,676,train_gsr,Corner
+images/train/SNGS-086_000691.jpg,SNGS-086,5,691,train_gsr,Corner
+images/train/SNGS-086_000706.jpg,SNGS-086,5,706,train_gsr,Corner
+images/train/SNGS-086_000721.jpg,SNGS-086,5,721,train_gsr,Corner
+images/train/SNGS-086_000736.jpg,SNGS-086,5,736,train_gsr,Corner
+images/train/SNGS-087_000001.jpg,SNGS-087,5,1,train_gsr,Goal
+images/train/SNGS-087_000016.jpg,SNGS-087,5,16,train_gsr,Goal
+images/train/SNGS-087_000031.jpg,SNGS-087,5,31,train_gsr,Goal
+images/train/SNGS-087_000046.jpg,SNGS-087,5,46,train_gsr,Goal
+images/train/SNGS-087_000061.jpg,SNGS-087,5,61,train_gsr,Goal
+images/train/SNGS-087_000076.jpg,SNGS-087,5,76,train_gsr,Goal
+images/train/SNGS-087_000091.jpg,SNGS-087,5,91,train_gsr,Goal
+images/train/SNGS-087_000106.jpg,SNGS-087,5,106,train_gsr,Goal
+images/train/SNGS-087_000121.jpg,SNGS-087,5,121,train_gsr,Goal
+images/train/SNGS-087_000136.jpg,SNGS-087,5,136,train_gsr,Goal
+images/train/SNGS-087_000151.jpg,SNGS-087,5,151,train_gsr,Goal
+images/train/SNGS-087_000166.jpg,SNGS-087,5,166,train_gsr,Goal
+images/train/SNGS-087_000181.jpg,SNGS-087,5,181,train_gsr,Goal
+images/train/SNGS-087_000196.jpg,SNGS-087,5,196,train_gsr,Goal
+images/train/SNGS-087_000211.jpg,SNGS-087,5,211,train_gsr,Goal
+images/train/SNGS-087_000226.jpg,SNGS-087,5,226,train_gsr,Goal
+images/train/SNGS-087_000241.jpg,SNGS-087,5,241,train_gsr,Goal
+images/train/SNGS-087_000256.jpg,SNGS-087,5,256,train_gsr,Goal
+images/train/SNGS-087_000271.jpg,SNGS-087,5,271,train_gsr,Goal
+images/train/SNGS-087_000286.jpg,SNGS-087,5,286,train_gsr,Goal
+images/train/SNGS-087_000301.jpg,SNGS-087,5,301,train_gsr,Goal
+images/train/SNGS-087_000316.jpg,SNGS-087,5,316,train_gsr,Goal
+images/train/SNGS-087_000331.jpg,SNGS-087,5,331,train_gsr,Goal
+images/train/SNGS-087_000346.jpg,SNGS-087,5,346,train_gsr,Goal
+images/train/SNGS-087_000361.jpg,SNGS-087,5,361,train_gsr,Goal
+images/train/SNGS-087_000376.jpg,SNGS-087,5,376,train_gsr,Goal
+images/train/SNGS-087_000391.jpg,SNGS-087,5,391,train_gsr,Goal
+images/train/SNGS-087_000406.jpg,SNGS-087,5,406,train_gsr,Goal
+images/train/SNGS-087_000421.jpg,SNGS-087,5,421,train_gsr,Goal
+images/train/SNGS-087_000436.jpg,SNGS-087,5,436,train_gsr,Goal
+images/train/SNGS-087_000451.jpg,SNGS-087,5,451,train_gsr,Goal
+images/train/SNGS-087_000466.jpg,SNGS-087,5,466,train_gsr,Goal
+images/train/SNGS-087_000481.jpg,SNGS-087,5,481,train_gsr,Goal
+images/train/SNGS-087_000496.jpg,SNGS-087,5,496,train_gsr,Goal
+images/train/SNGS-087_000511.jpg,SNGS-087,5,511,train_gsr,Goal
+images/train/SNGS-087_000526.jpg,SNGS-087,5,526,train_gsr,Goal
+images/train/SNGS-087_000541.jpg,SNGS-087,5,541,train_gsr,Goal
+images/train/SNGS-087_000556.jpg,SNGS-087,5,556,train_gsr,Goal
+images/train/SNGS-087_000571.jpg,SNGS-087,5,571,train_gsr,Goal
+images/train/SNGS-087_000586.jpg,SNGS-087,5,586,train_gsr,Goal
+images/train/SNGS-087_000601.jpg,SNGS-087,5,601,train_gsr,Goal
+images/train/SNGS-087_000616.jpg,SNGS-087,5,616,train_gsr,Goal
+images/train/SNGS-087_000631.jpg,SNGS-087,5,631,train_gsr,Goal
+images/train/SNGS-087_000646.jpg,SNGS-087,5,646,train_gsr,Goal
+images/train/SNGS-087_000661.jpg,SNGS-087,5,661,train_gsr,Goal
+images/train/SNGS-087_000676.jpg,SNGS-087,5,676,train_gsr,Goal
+images/train/SNGS-087_000691.jpg,SNGS-087,5,691,train_gsr,Goal
+images/train/SNGS-087_000706.jpg,SNGS-087,5,706,train_gsr,Goal
+images/train/SNGS-087_000721.jpg,SNGS-087,5,721,train_gsr,Goal
+images/train/SNGS-087_000736.jpg,SNGS-087,5,736,train_gsr,Goal
+images/train/SNGS-088_000001.jpg,SNGS-088,5,1,train_gsr,Offside
+images/train/SNGS-088_000016.jpg,SNGS-088,5,16,train_gsr,Offside
+images/train/SNGS-088_000031.jpg,SNGS-088,5,31,train_gsr,Offside
+images/train/SNGS-088_000046.jpg,SNGS-088,5,46,train_gsr,Offside
+images/train/SNGS-088_000061.jpg,SNGS-088,5,61,train_gsr,Offside
+images/train/SNGS-088_000076.jpg,SNGS-088,5,76,train_gsr,Offside
+images/train/SNGS-088_000091.jpg,SNGS-088,5,91,train_gsr,Offside
+images/train/SNGS-088_000106.jpg,SNGS-088,5,106,train_gsr,Offside
+images/train/SNGS-088_000121.jpg,SNGS-088,5,121,train_gsr,Offside
+images/train/SNGS-088_000136.jpg,SNGS-088,5,136,train_gsr,Offside
+images/train/SNGS-088_000151.jpg,SNGS-088,5,151,train_gsr,Offside
+images/train/SNGS-088_000166.jpg,SNGS-088,5,166,train_gsr,Offside
+images/train/SNGS-088_000181.jpg,SNGS-088,5,181,train_gsr,Offside
+images/train/SNGS-088_000196.jpg,SNGS-088,5,196,train_gsr,Offside
+images/train/SNGS-088_000211.jpg,SNGS-088,5,211,train_gsr,Offside
+images/train/SNGS-088_000226.jpg,SNGS-088,5,226,train_gsr,Offside
+images/train/SNGS-088_000241.jpg,SNGS-088,5,241,train_gsr,Offside
+images/train/SNGS-088_000256.jpg,SNGS-088,5,256,train_gsr,Offside
+images/train/SNGS-088_000271.jpg,SNGS-088,5,271,train_gsr,Offside
+images/train/SNGS-088_000286.jpg,SNGS-088,5,286,train_gsr,Offside
+images/train/SNGS-088_000301.jpg,SNGS-088,5,301,train_gsr,Offside
+images/train/SNGS-088_000316.jpg,SNGS-088,5,316,train_gsr,Offside
+images/train/SNGS-088_000331.jpg,SNGS-088,5,331,train_gsr,Offside
+images/train/SNGS-088_000346.jpg,SNGS-088,5,346,train_gsr,Offside
+images/train/SNGS-088_000361.jpg,SNGS-088,5,361,train_gsr,Offside
+images/train/SNGS-088_000376.jpg,SNGS-088,5,376,train_gsr,Offside
+images/train/SNGS-088_000391.jpg,SNGS-088,5,391,train_gsr,Offside
+images/train/SNGS-088_000406.jpg,SNGS-088,5,406,train_gsr,Offside
+images/train/SNGS-088_000421.jpg,SNGS-088,5,421,train_gsr,Offside
+images/train/SNGS-088_000436.jpg,SNGS-088,5,436,train_gsr,Offside
+images/train/SNGS-088_000451.jpg,SNGS-088,5,451,train_gsr,Offside
+images/train/SNGS-088_000466.jpg,SNGS-088,5,466,train_gsr,Offside
+images/train/SNGS-088_000481.jpg,SNGS-088,5,481,train_gsr,Offside
+images/train/SNGS-088_000496.jpg,SNGS-088,5,496,train_gsr,Offside
+images/train/SNGS-088_000511.jpg,SNGS-088,5,511,train_gsr,Offside
+images/train/SNGS-088_000526.jpg,SNGS-088,5,526,train_gsr,Offside
+images/train/SNGS-088_000541.jpg,SNGS-088,5,541,train_gsr,Offside
+images/train/SNGS-088_000556.jpg,SNGS-088,5,556,train_gsr,Offside
+images/train/SNGS-088_000571.jpg,SNGS-088,5,571,train_gsr,Offside
+images/train/SNGS-088_000586.jpg,SNGS-088,5,586,train_gsr,Offside
+images/train/SNGS-088_000601.jpg,SNGS-088,5,601,train_gsr,Offside
+images/train/SNGS-088_000616.jpg,SNGS-088,5,616,train_gsr,Offside
+images/train/SNGS-088_000631.jpg,SNGS-088,5,631,train_gsr,Offside
+images/train/SNGS-088_000646.jpg,SNGS-088,5,646,train_gsr,Offside
+images/train/SNGS-088_000661.jpg,SNGS-088,5,661,train_gsr,Offside
+images/train/SNGS-088_000676.jpg,SNGS-088,5,676,train_gsr,Offside
+images/train/SNGS-088_000691.jpg,SNGS-088,5,691,train_gsr,Offside
+images/train/SNGS-088_000706.jpg,SNGS-088,5,706,train_gsr,Offside
+images/train/SNGS-088_000721.jpg,SNGS-088,5,721,train_gsr,Offside
+images/train/SNGS-088_000736.jpg,SNGS-088,5,736,train_gsr,Offside
+images/train/SNGS-089_000001.jpg,SNGS-089,5,1,train_gsr,Yellow card
+images/train/SNGS-089_000016.jpg,SNGS-089,5,16,train_gsr,Yellow card
+images/train/SNGS-089_000031.jpg,SNGS-089,5,31,train_gsr,Yellow card
+images/train/SNGS-089_000046.jpg,SNGS-089,5,46,train_gsr,Yellow card
+images/train/SNGS-089_000061.jpg,SNGS-089,5,61,train_gsr,Yellow card
+images/train/SNGS-089_000076.jpg,SNGS-089,5,76,train_gsr,Yellow card
+images/train/SNGS-089_000091.jpg,SNGS-089,5,91,train_gsr,Yellow card
+images/train/SNGS-089_000106.jpg,SNGS-089,5,106,train_gsr,Yellow card
+images/train/SNGS-089_000121.jpg,SNGS-089,5,121,train_gsr,Yellow card
+images/train/SNGS-089_000136.jpg,SNGS-089,5,136,train_gsr,Yellow card
+images/train/SNGS-089_000151.jpg,SNGS-089,5,151,train_gsr,Yellow card
+images/train/SNGS-089_000166.jpg,SNGS-089,5,166,train_gsr,Yellow card
+images/train/SNGS-089_000181.jpg,SNGS-089,5,181,train_gsr,Yellow card
+images/train/SNGS-089_000196.jpg,SNGS-089,5,196,train_gsr,Yellow card
+images/train/SNGS-089_000211.jpg,SNGS-089,5,211,train_gsr,Yellow card
+images/train/SNGS-089_000226.jpg,SNGS-089,5,226,train_gsr,Yellow card
+images/train/SNGS-089_000241.jpg,SNGS-089,5,241,train_gsr,Yellow card
+images/train/SNGS-089_000256.jpg,SNGS-089,5,256,train_gsr,Yellow card
+images/train/SNGS-089_000271.jpg,SNGS-089,5,271,train_gsr,Yellow card
+images/train/SNGS-089_000286.jpg,SNGS-089,5,286,train_gsr,Yellow card
+images/train/SNGS-089_000301.jpg,SNGS-089,5,301,train_gsr,Yellow card
+images/train/SNGS-089_000316.jpg,SNGS-089,5,316,train_gsr,Yellow card
+images/train/SNGS-089_000331.jpg,SNGS-089,5,331,train_gsr,Yellow card
+images/train/SNGS-089_000346.jpg,SNGS-089,5,346,train_gsr,Yellow card
+images/train/SNGS-089_000361.jpg,SNGS-089,5,361,train_gsr,Yellow card
+images/train/SNGS-089_000376.jpg,SNGS-089,5,376,train_gsr,Yellow card
+images/train/SNGS-089_000391.jpg,SNGS-089,5,391,train_gsr,Yellow card
+images/train/SNGS-089_000406.jpg,SNGS-089,5,406,train_gsr,Yellow card
+images/train/SNGS-089_000421.jpg,SNGS-089,5,421,train_gsr,Yellow card
+images/train/SNGS-089_000436.jpg,SNGS-089,5,436,train_gsr,Yellow card
+images/train/SNGS-089_000451.jpg,SNGS-089,5,451,train_gsr,Yellow card
+images/train/SNGS-089_000466.jpg,SNGS-089,5,466,train_gsr,Yellow card
+images/train/SNGS-089_000481.jpg,SNGS-089,5,481,train_gsr,Yellow card
+images/train/SNGS-089_000496.jpg,SNGS-089,5,496,train_gsr,Yellow card
+images/train/SNGS-089_000511.jpg,SNGS-089,5,511,train_gsr,Yellow card
+images/train/SNGS-089_000526.jpg,SNGS-089,5,526,train_gsr,Yellow card
+images/train/SNGS-089_000541.jpg,SNGS-089,5,541,train_gsr,Yellow card
+images/train/SNGS-089_000556.jpg,SNGS-089,5,556,train_gsr,Yellow card
+images/train/SNGS-089_000571.jpg,SNGS-089,5,571,train_gsr,Yellow card
+images/train/SNGS-089_000586.jpg,SNGS-089,5,586,train_gsr,Yellow card
+images/train/SNGS-089_000601.jpg,SNGS-089,5,601,train_gsr,Yellow card
+images/train/SNGS-089_000616.jpg,SNGS-089,5,616,train_gsr,Yellow card
+images/train/SNGS-089_000631.jpg,SNGS-089,5,631,train_gsr,Yellow card
+images/train/SNGS-089_000646.jpg,SNGS-089,5,646,train_gsr,Yellow card
+images/train/SNGS-089_000661.jpg,SNGS-089,5,661,train_gsr,Yellow card
+images/train/SNGS-089_000676.jpg,SNGS-089,5,676,train_gsr,Yellow card
+images/train/SNGS-089_000691.jpg,SNGS-089,5,691,train_gsr,Yellow card
+images/train/SNGS-089_000706.jpg,SNGS-089,5,706,train_gsr,Yellow card
+images/train/SNGS-089_000721.jpg,SNGS-089,5,721,train_gsr,Yellow card
+images/train/SNGS-089_000736.jpg,SNGS-089,5,736,train_gsr,Yellow card
+images/train/SNGS-090_000001.jpg,SNGS-090,5,1,train_gsr,Shots on target
+images/train/SNGS-090_000016.jpg,SNGS-090,5,16,train_gsr,Shots on target
+images/train/SNGS-090_000031.jpg,SNGS-090,5,31,train_gsr,Shots on target
+images/train/SNGS-090_000046.jpg,SNGS-090,5,46,train_gsr,Shots on target
+images/train/SNGS-090_000061.jpg,SNGS-090,5,61,train_gsr,Shots on target
+images/train/SNGS-090_000076.jpg,SNGS-090,5,76,train_gsr,Shots on target
+images/train/SNGS-090_000091.jpg,SNGS-090,5,91,train_gsr,Shots on target
+images/train/SNGS-090_000106.jpg,SNGS-090,5,106,train_gsr,Shots on target
+images/train/SNGS-090_000121.jpg,SNGS-090,5,121,train_gsr,Shots on target
+images/train/SNGS-090_000136.jpg,SNGS-090,5,136,train_gsr,Shots on target
+images/train/SNGS-090_000151.jpg,SNGS-090,5,151,train_gsr,Shots on target
+images/train/SNGS-090_000166.jpg,SNGS-090,5,166,train_gsr,Shots on target
+images/train/SNGS-090_000181.jpg,SNGS-090,5,181,train_gsr,Shots on target
+images/train/SNGS-090_000196.jpg,SNGS-090,5,196,train_gsr,Shots on target
+images/train/SNGS-090_000211.jpg,SNGS-090,5,211,train_gsr,Shots on target
+images/train/SNGS-090_000226.jpg,SNGS-090,5,226,train_gsr,Shots on target
+images/train/SNGS-090_000241.jpg,SNGS-090,5,241,train_gsr,Shots on target
+images/train/SNGS-090_000256.jpg,SNGS-090,5,256,train_gsr,Shots on target
+images/train/SNGS-090_000271.jpg,SNGS-090,5,271,train_gsr,Shots on target
+images/train/SNGS-090_000286.jpg,SNGS-090,5,286,train_gsr,Shots on target
+images/train/SNGS-090_000301.jpg,SNGS-090,5,301,train_gsr,Shots on target
+images/train/SNGS-090_000316.jpg,SNGS-090,5,316,train_gsr,Shots on target
+images/train/SNGS-090_000331.jpg,SNGS-090,5,331,train_gsr,Shots on target
+images/train/SNGS-090_000346.jpg,SNGS-090,5,346,train_gsr,Shots on target
+images/train/SNGS-090_000361.jpg,SNGS-090,5,361,train_gsr,Shots on target
+images/train/SNGS-090_000376.jpg,SNGS-090,5,376,train_gsr,Shots on target
+images/train/SNGS-090_000391.jpg,SNGS-090,5,391,train_gsr,Shots on target
+images/train/SNGS-090_000406.jpg,SNGS-090,5,406,train_gsr,Shots on target
+images/train/SNGS-090_000421.jpg,SNGS-090,5,421,train_gsr,Shots on target
+images/train/SNGS-090_000436.jpg,SNGS-090,5,436,train_gsr,Shots on target
+images/train/SNGS-090_000451.jpg,SNGS-090,5,451,train_gsr,Shots on target
+images/train/SNGS-090_000466.jpg,SNGS-090,5,466,train_gsr,Shots on target
+images/train/SNGS-090_000481.jpg,SNGS-090,5,481,train_gsr,Shots on target
+images/train/SNGS-090_000496.jpg,SNGS-090,5,496,train_gsr,Shots on target
+images/train/SNGS-090_000511.jpg,SNGS-090,5,511,train_gsr,Shots on target
+images/train/SNGS-090_000526.jpg,SNGS-090,5,526,train_gsr,Shots on target
+images/train/SNGS-090_000541.jpg,SNGS-090,5,541,train_gsr,Shots on target
+images/train/SNGS-090_000556.jpg,SNGS-090,5,556,train_gsr,Shots on target
+images/train/SNGS-090_000571.jpg,SNGS-090,5,571,train_gsr,Shots on target
+images/train/SNGS-090_000586.jpg,SNGS-090,5,586,train_gsr,Shots on target
+images/train/SNGS-090_000601.jpg,SNGS-090,5,601,train_gsr,Shots on target
+images/train/SNGS-090_000616.jpg,SNGS-090,5,616,train_gsr,Shots on target
+images/train/SNGS-090_000631.jpg,SNGS-090,5,631,train_gsr,Shots on target
+images/train/SNGS-090_000646.jpg,SNGS-090,5,646,train_gsr,Shots on target
+images/train/SNGS-090_000661.jpg,SNGS-090,5,661,train_gsr,Shots on target
+images/train/SNGS-090_000676.jpg,SNGS-090,5,676,train_gsr,Shots on target
+images/train/SNGS-090_000691.jpg,SNGS-090,5,691,train_gsr,Shots on target
+images/train/SNGS-090_000706.jpg,SNGS-090,5,706,train_gsr,Shots on target
+images/train/SNGS-090_000721.jpg,SNGS-090,5,721,train_gsr,Shots on target
+images/train/SNGS-090_000736.jpg,SNGS-090,5,736,train_gsr,Shots on target
+images/train/SNGS-091_000001.jpg,SNGS-091,5,1,train_gsr,Clearance
+images/train/SNGS-091_000016.jpg,SNGS-091,5,16,train_gsr,Clearance
+images/train/SNGS-091_000031.jpg,SNGS-091,5,31,train_gsr,Clearance
+images/train/SNGS-091_000046.jpg,SNGS-091,5,46,train_gsr,Clearance
+images/train/SNGS-091_000061.jpg,SNGS-091,5,61,train_gsr,Clearance
+images/train/SNGS-091_000076.jpg,SNGS-091,5,76,train_gsr,Clearance
+images/train/SNGS-091_000091.jpg,SNGS-091,5,91,train_gsr,Clearance
+images/train/SNGS-091_000106.jpg,SNGS-091,5,106,train_gsr,Clearance
+images/train/SNGS-091_000121.jpg,SNGS-091,5,121,train_gsr,Clearance
+images/train/SNGS-091_000136.jpg,SNGS-091,5,136,train_gsr,Clearance
+images/train/SNGS-091_000151.jpg,SNGS-091,5,151,train_gsr,Clearance
+images/train/SNGS-091_000166.jpg,SNGS-091,5,166,train_gsr,Clearance
+images/train/SNGS-091_000181.jpg,SNGS-091,5,181,train_gsr,Clearance
+images/train/SNGS-091_000196.jpg,SNGS-091,5,196,train_gsr,Clearance
+images/train/SNGS-091_000211.jpg,SNGS-091,5,211,train_gsr,Clearance
+images/train/SNGS-091_000226.jpg,SNGS-091,5,226,train_gsr,Clearance
+images/train/SNGS-091_000241.jpg,SNGS-091,5,241,train_gsr,Clearance
+images/train/SNGS-091_000256.jpg,SNGS-091,5,256,train_gsr,Clearance
+images/train/SNGS-091_000271.jpg,SNGS-091,5,271,train_gsr,Clearance
+images/train/SNGS-091_000286.jpg,SNGS-091,5,286,train_gsr,Clearance
+images/train/SNGS-091_000301.jpg,SNGS-091,5,301,train_gsr,Clearance
+images/train/SNGS-091_000316.jpg,SNGS-091,5,316,train_gsr,Clearance
+images/train/SNGS-091_000331.jpg,SNGS-091,5,331,train_gsr,Clearance
+images/train/SNGS-091_000346.jpg,SNGS-091,5,346,train_gsr,Clearance
+images/train/SNGS-091_000361.jpg,SNGS-091,5,361,train_gsr,Clearance
+images/train/SNGS-091_000376.jpg,SNGS-091,5,376,train_gsr,Clearance
+images/train/SNGS-091_000391.jpg,SNGS-091,5,391,train_gsr,Clearance
+images/train/SNGS-091_000406.jpg,SNGS-091,5,406,train_gsr,Clearance
+images/train/SNGS-091_000421.jpg,SNGS-091,5,421,train_gsr,Clearance
+images/train/SNGS-091_000436.jpg,SNGS-091,5,436,train_gsr,Clearance
+images/train/SNGS-091_000451.jpg,SNGS-091,5,451,train_gsr,Clearance
+images/train/SNGS-091_000466.jpg,SNGS-091,5,466,train_gsr,Clearance
+images/train/SNGS-091_000481.jpg,SNGS-091,5,481,train_gsr,Clearance
+images/train/SNGS-091_000496.jpg,SNGS-091,5,496,train_gsr,Clearance
+images/train/SNGS-091_000511.jpg,SNGS-091,5,511,train_gsr,Clearance
+images/train/SNGS-091_000526.jpg,SNGS-091,5,526,train_gsr,Clearance
+images/train/SNGS-091_000541.jpg,SNGS-091,5,541,train_gsr,Clearance
+images/train/SNGS-091_000556.jpg,SNGS-091,5,556,train_gsr,Clearance
+images/train/SNGS-091_000571.jpg,SNGS-091,5,571,train_gsr,Clearance
+images/train/SNGS-091_000586.jpg,SNGS-091,5,586,train_gsr,Clearance
+images/train/SNGS-091_000601.jpg,SNGS-091,5,601,train_gsr,Clearance
+images/train/SNGS-091_000616.jpg,SNGS-091,5,616,train_gsr,Clearance
+images/train/SNGS-091_000631.jpg,SNGS-091,5,631,train_gsr,Clearance
+images/train/SNGS-091_000646.jpg,SNGS-091,5,646,train_gsr,Clearance
+images/train/SNGS-091_000661.jpg,SNGS-091,5,661,train_gsr,Clearance
+images/train/SNGS-091_000676.jpg,SNGS-091,5,676,train_gsr,Clearance
+images/train/SNGS-091_000691.jpg,SNGS-091,5,691,train_gsr,Clearance
+images/train/SNGS-091_000706.jpg,SNGS-091,5,706,train_gsr,Clearance
+images/train/SNGS-091_000721.jpg,SNGS-091,5,721,train_gsr,Clearance
+images/train/SNGS-091_000736.jpg,SNGS-091,5,736,train_gsr,Clearance
+images/train/SNGS-092_000001.jpg,SNGS-092,5,1,train_gsr,Foul
+images/train/SNGS-092_000016.jpg,SNGS-092,5,16,train_gsr,Foul
+images/train/SNGS-092_000031.jpg,SNGS-092,5,31,train_gsr,Foul
+images/train/SNGS-092_000046.jpg,SNGS-092,5,46,train_gsr,Foul
+images/train/SNGS-092_000061.jpg,SNGS-092,5,61,train_gsr,Foul
+images/train/SNGS-092_000076.jpg,SNGS-092,5,76,train_gsr,Foul
+images/train/SNGS-092_000091.jpg,SNGS-092,5,91,train_gsr,Foul
+images/train/SNGS-092_000106.jpg,SNGS-092,5,106,train_gsr,Foul
+images/train/SNGS-092_000121.jpg,SNGS-092,5,121,train_gsr,Foul
+images/train/SNGS-092_000136.jpg,SNGS-092,5,136,train_gsr,Foul
+images/train/SNGS-092_000151.jpg,SNGS-092,5,151,train_gsr,Foul
+images/train/SNGS-092_000166.jpg,SNGS-092,5,166,train_gsr,Foul
+images/train/SNGS-092_000181.jpg,SNGS-092,5,181,train_gsr,Foul
+images/train/SNGS-092_000196.jpg,SNGS-092,5,196,train_gsr,Foul
+images/train/SNGS-092_000211.jpg,SNGS-092,5,211,train_gsr,Foul
+images/train/SNGS-092_000226.jpg,SNGS-092,5,226,train_gsr,Foul
+images/train/SNGS-092_000241.jpg,SNGS-092,5,241,train_gsr,Foul
+images/train/SNGS-092_000256.jpg,SNGS-092,5,256,train_gsr,Foul
+images/train/SNGS-092_000271.jpg,SNGS-092,5,271,train_gsr,Foul
+images/train/SNGS-092_000286.jpg,SNGS-092,5,286,train_gsr,Foul
+images/train/SNGS-092_000301.jpg,SNGS-092,5,301,train_gsr,Foul
+images/train/SNGS-092_000316.jpg,SNGS-092,5,316,train_gsr,Foul
+images/train/SNGS-092_000331.jpg,SNGS-092,5,331,train_gsr,Foul
+images/train/SNGS-092_000346.jpg,SNGS-092,5,346,train_gsr,Foul
+images/train/SNGS-092_000361.jpg,SNGS-092,5,361,train_gsr,Foul
+images/train/SNGS-092_000376.jpg,SNGS-092,5,376,train_gsr,Foul
+images/train/SNGS-092_000391.jpg,SNGS-092,5,391,train_gsr,Foul
+images/train/SNGS-092_000406.jpg,SNGS-092,5,406,train_gsr,Foul
+images/train/SNGS-092_000421.jpg,SNGS-092,5,421,train_gsr,Foul
+images/train/SNGS-092_000436.jpg,SNGS-092,5,436,train_gsr,Foul
+images/train/SNGS-092_000451.jpg,SNGS-092,5,451,train_gsr,Foul
+images/train/SNGS-092_000466.jpg,SNGS-092,5,466,train_gsr,Foul
+images/train/SNGS-092_000481.jpg,SNGS-092,5,481,train_gsr,Foul
+images/train/SNGS-092_000496.jpg,SNGS-092,5,496,train_gsr,Foul
+images/train/SNGS-092_000511.jpg,SNGS-092,5,511,train_gsr,Foul
+images/train/SNGS-092_000526.jpg,SNGS-092,5,526,train_gsr,Foul
+images/train/SNGS-092_000541.jpg,SNGS-092,5,541,train_gsr,Foul
+images/train/SNGS-092_000556.jpg,SNGS-092,5,556,train_gsr,Foul
+images/train/SNGS-092_000571.jpg,SNGS-092,5,571,train_gsr,Foul
+images/train/SNGS-092_000586.jpg,SNGS-092,5,586,train_gsr,Foul
+images/train/SNGS-092_000601.jpg,SNGS-092,5,601,train_gsr,Foul
+images/train/SNGS-092_000616.jpg,SNGS-092,5,616,train_gsr,Foul
+images/train/SNGS-092_000631.jpg,SNGS-092,5,631,train_gsr,Foul
+images/train/SNGS-092_000646.jpg,SNGS-092,5,646,train_gsr,Foul
+images/train/SNGS-092_000661.jpg,SNGS-092,5,661,train_gsr,Foul
+images/train/SNGS-092_000676.jpg,SNGS-092,5,676,train_gsr,Foul
+images/train/SNGS-092_000691.jpg,SNGS-092,5,691,train_gsr,Foul
+images/train/SNGS-092_000706.jpg,SNGS-092,5,706,train_gsr,Foul
+images/train/SNGS-092_000721.jpg,SNGS-092,5,721,train_gsr,Foul
+images/train/SNGS-092_000736.jpg,SNGS-092,5,736,train_gsr,Foul
+images/train/SNGS-093_000001.jpg,SNGS-093,5,1,train_gsr,Direct free-kick
+images/train/SNGS-093_000016.jpg,SNGS-093,5,16,train_gsr,Direct free-kick
+images/train/SNGS-093_000031.jpg,SNGS-093,5,31,train_gsr,Direct free-kick
+images/train/SNGS-093_000046.jpg,SNGS-093,5,46,train_gsr,Direct free-kick
+images/train/SNGS-093_000061.jpg,SNGS-093,5,61,train_gsr,Direct free-kick
+images/train/SNGS-093_000076.jpg,SNGS-093,5,76,train_gsr,Direct free-kick
+images/train/SNGS-093_000091.jpg,SNGS-093,5,91,train_gsr,Direct free-kick
+images/train/SNGS-093_000106.jpg,SNGS-093,5,106,train_gsr,Direct free-kick
+images/train/SNGS-093_000121.jpg,SNGS-093,5,121,train_gsr,Direct free-kick
+images/train/SNGS-093_000136.jpg,SNGS-093,5,136,train_gsr,Direct free-kick
+images/train/SNGS-093_000151.jpg,SNGS-093,5,151,train_gsr,Direct free-kick
+images/train/SNGS-093_000166.jpg,SNGS-093,5,166,train_gsr,Direct free-kick
+images/train/SNGS-093_000181.jpg,SNGS-093,5,181,train_gsr,Direct free-kick
+images/train/SNGS-093_000196.jpg,SNGS-093,5,196,train_gsr,Direct free-kick
+images/train/SNGS-093_000211.jpg,SNGS-093,5,211,train_gsr,Direct free-kick
+images/train/SNGS-093_000226.jpg,SNGS-093,5,226,train_gsr,Direct free-kick
+images/train/SNGS-093_000241.jpg,SNGS-093,5,241,train_gsr,Direct free-kick
+images/train/SNGS-093_000256.jpg,SNGS-093,5,256,train_gsr,Direct free-kick
+images/train/SNGS-093_000271.jpg,SNGS-093,5,271,train_gsr,Direct free-kick
+images/train/SNGS-093_000286.jpg,SNGS-093,5,286,train_gsr,Direct free-kick
+images/train/SNGS-093_000301.jpg,SNGS-093,5,301,train_gsr,Direct free-kick
+images/train/SNGS-093_000316.jpg,SNGS-093,5,316,train_gsr,Direct free-kick
+images/train/SNGS-093_000331.jpg,SNGS-093,5,331,train_gsr,Direct free-kick
+images/train/SNGS-093_000346.jpg,SNGS-093,5,346,train_gsr,Direct free-kick
+images/train/SNGS-093_000361.jpg,SNGS-093,5,361,train_gsr,Direct free-kick
+images/train/SNGS-093_000376.jpg,SNGS-093,5,376,train_gsr,Direct free-kick
+images/train/SNGS-093_000391.jpg,SNGS-093,5,391,train_gsr,Direct free-kick
+images/train/SNGS-093_000406.jpg,SNGS-093,5,406,train_gsr,Direct free-kick
+images/train/SNGS-093_000421.jpg,SNGS-093,5,421,train_gsr,Direct free-kick
+images/train/SNGS-093_000436.jpg,SNGS-093,5,436,train_gsr,Direct free-kick
+images/train/SNGS-093_000451.jpg,SNGS-093,5,451,train_gsr,Direct free-kick
+images/train/SNGS-093_000466.jpg,SNGS-093,5,466,train_gsr,Direct free-kick
+images/train/SNGS-093_000481.jpg,SNGS-093,5,481,train_gsr,Direct free-kick
+images/train/SNGS-093_000496.jpg,SNGS-093,5,496,train_gsr,Direct free-kick
+images/train/SNGS-093_000511.jpg,SNGS-093,5,511,train_gsr,Direct free-kick
+images/train/SNGS-093_000526.jpg,SNGS-093,5,526,train_gsr,Direct free-kick
+images/train/SNGS-093_000541.jpg,SNGS-093,5,541,train_gsr,Direct free-kick
+images/train/SNGS-093_000556.jpg,SNGS-093,5,556,train_gsr,Direct free-kick
+images/train/SNGS-093_000571.jpg,SNGS-093,5,571,train_gsr,Direct free-kick
+images/train/SNGS-093_000586.jpg,SNGS-093,5,586,train_gsr,Direct free-kick
+images/train/SNGS-093_000601.jpg,SNGS-093,5,601,train_gsr,Direct free-kick
+images/train/SNGS-093_000616.jpg,SNGS-093,5,616,train_gsr,Direct free-kick
+images/train/SNGS-093_000631.jpg,SNGS-093,5,631,train_gsr,Direct free-kick
+images/train/SNGS-093_000646.jpg,SNGS-093,5,646,train_gsr,Direct free-kick
+images/train/SNGS-093_000661.jpg,SNGS-093,5,661,train_gsr,Direct free-kick
+images/train/SNGS-093_000676.jpg,SNGS-093,5,676,train_gsr,Direct free-kick
+images/train/SNGS-093_000691.jpg,SNGS-093,5,691,train_gsr,Direct free-kick
+images/train/SNGS-093_000706.jpg,SNGS-093,5,706,train_gsr,Direct free-kick
+images/train/SNGS-093_000721.jpg,SNGS-093,5,721,train_gsr,Direct free-kick
+images/train/SNGS-093_000736.jpg,SNGS-093,5,736,train_gsr,Direct free-kick
+images/train/SNGS-094_000001.jpg,SNGS-094,5,1,train_gsr,Goal
+images/train/SNGS-094_000016.jpg,SNGS-094,5,16,train_gsr,Goal
+images/train/SNGS-094_000031.jpg,SNGS-094,5,31,train_gsr,Goal
+images/train/SNGS-094_000046.jpg,SNGS-094,5,46,train_gsr,Goal
+images/train/SNGS-094_000061.jpg,SNGS-094,5,61,train_gsr,Goal
+images/train/SNGS-094_000076.jpg,SNGS-094,5,76,train_gsr,Goal
+images/train/SNGS-094_000091.jpg,SNGS-094,5,91,train_gsr,Goal
+images/train/SNGS-094_000106.jpg,SNGS-094,5,106,train_gsr,Goal
+images/train/SNGS-094_000121.jpg,SNGS-094,5,121,train_gsr,Goal
+images/train/SNGS-094_000136.jpg,SNGS-094,5,136,train_gsr,Goal
+images/train/SNGS-094_000151.jpg,SNGS-094,5,151,train_gsr,Goal
+images/train/SNGS-094_000166.jpg,SNGS-094,5,166,train_gsr,Goal
+images/train/SNGS-094_000181.jpg,SNGS-094,5,181,train_gsr,Goal
+images/train/SNGS-094_000196.jpg,SNGS-094,5,196,train_gsr,Goal
+images/train/SNGS-094_000211.jpg,SNGS-094,5,211,train_gsr,Goal
+images/train/SNGS-094_000226.jpg,SNGS-094,5,226,train_gsr,Goal
+images/train/SNGS-094_000241.jpg,SNGS-094,5,241,train_gsr,Goal
+images/train/SNGS-094_000256.jpg,SNGS-094,5,256,train_gsr,Goal
+images/train/SNGS-094_000271.jpg,SNGS-094,5,271,train_gsr,Goal
+images/train/SNGS-094_000286.jpg,SNGS-094,5,286,train_gsr,Goal
+images/train/SNGS-094_000301.jpg,SNGS-094,5,301,train_gsr,Goal
+images/train/SNGS-094_000316.jpg,SNGS-094,5,316,train_gsr,Goal
+images/train/SNGS-094_000331.jpg,SNGS-094,5,331,train_gsr,Goal
+images/train/SNGS-094_000346.jpg,SNGS-094,5,346,train_gsr,Goal
+images/train/SNGS-094_000361.jpg,SNGS-094,5,361,train_gsr,Goal
+images/train/SNGS-094_000376.jpg,SNGS-094,5,376,train_gsr,Goal
+images/train/SNGS-094_000391.jpg,SNGS-094,5,391,train_gsr,Goal
+images/train/SNGS-094_000406.jpg,SNGS-094,5,406,train_gsr,Goal
+images/train/SNGS-094_000421.jpg,SNGS-094,5,421,train_gsr,Goal
+images/train/SNGS-094_000436.jpg,SNGS-094,5,436,train_gsr,Goal
+images/train/SNGS-094_000451.jpg,SNGS-094,5,451,train_gsr,Goal
+images/train/SNGS-094_000466.jpg,SNGS-094,5,466,train_gsr,Goal
+images/train/SNGS-094_000481.jpg,SNGS-094,5,481,train_gsr,Goal
+images/train/SNGS-094_000496.jpg,SNGS-094,5,496,train_gsr,Goal
+images/train/SNGS-094_000511.jpg,SNGS-094,5,511,train_gsr,Goal
+images/train/SNGS-094_000526.jpg,SNGS-094,5,526,train_gsr,Goal
+images/train/SNGS-094_000541.jpg,SNGS-094,5,541,train_gsr,Goal
+images/train/SNGS-094_000556.jpg,SNGS-094,5,556,train_gsr,Goal
+images/train/SNGS-094_000571.jpg,SNGS-094,5,571,train_gsr,Goal
+images/train/SNGS-094_000586.jpg,SNGS-094,5,586,train_gsr,Goal
+images/train/SNGS-094_000601.jpg,SNGS-094,5,601,train_gsr,Goal
+images/train/SNGS-094_000616.jpg,SNGS-094,5,616,train_gsr,Goal
+images/train/SNGS-094_000631.jpg,SNGS-094,5,631,train_gsr,Goal
+images/train/SNGS-094_000646.jpg,SNGS-094,5,646,train_gsr,Goal
+images/train/SNGS-094_000661.jpg,SNGS-094,5,661,train_gsr,Goal
+images/train/SNGS-094_000676.jpg,SNGS-094,5,676,train_gsr,Goal
+images/train/SNGS-094_000691.jpg,SNGS-094,5,691,train_gsr,Goal
+images/train/SNGS-094_000706.jpg,SNGS-094,5,706,train_gsr,Goal
+images/train/SNGS-094_000721.jpg,SNGS-094,5,721,train_gsr,Goal
+images/train/SNGS-094_000736.jpg,SNGS-094,5,736,train_gsr,Goal
+images/train/SNGS-095_000001.jpg,SNGS-095,5,1,train_gsr,Kick-off
+images/train/SNGS-095_000016.jpg,SNGS-095,5,16,train_gsr,Kick-off
+images/train/SNGS-095_000031.jpg,SNGS-095,5,31,train_gsr,Kick-off
+images/train/SNGS-095_000046.jpg,SNGS-095,5,46,train_gsr,Kick-off
+images/train/SNGS-095_000061.jpg,SNGS-095,5,61,train_gsr,Kick-off
+images/train/SNGS-095_000076.jpg,SNGS-095,5,76,train_gsr,Kick-off
+images/train/SNGS-095_000091.jpg,SNGS-095,5,91,train_gsr,Kick-off
+images/train/SNGS-095_000106.jpg,SNGS-095,5,106,train_gsr,Kick-off
+images/train/SNGS-095_000121.jpg,SNGS-095,5,121,train_gsr,Kick-off
+images/train/SNGS-095_000136.jpg,SNGS-095,5,136,train_gsr,Kick-off
+images/train/SNGS-095_000151.jpg,SNGS-095,5,151,train_gsr,Kick-off
+images/train/SNGS-095_000166.jpg,SNGS-095,5,166,train_gsr,Kick-off
+images/train/SNGS-095_000181.jpg,SNGS-095,5,181,train_gsr,Kick-off
+images/train/SNGS-095_000196.jpg,SNGS-095,5,196,train_gsr,Kick-off
+images/train/SNGS-095_000211.jpg,SNGS-095,5,211,train_gsr,Kick-off
+images/train/SNGS-095_000226.jpg,SNGS-095,5,226,train_gsr,Kick-off
+images/train/SNGS-095_000241.jpg,SNGS-095,5,241,train_gsr,Kick-off
+images/train/SNGS-095_000256.jpg,SNGS-095,5,256,train_gsr,Kick-off
+images/train/SNGS-095_000271.jpg,SNGS-095,5,271,train_gsr,Kick-off
+images/train/SNGS-095_000286.jpg,SNGS-095,5,286,train_gsr,Kick-off
+images/train/SNGS-095_000301.jpg,SNGS-095,5,301,train_gsr,Kick-off
+images/train/SNGS-095_000316.jpg,SNGS-095,5,316,train_gsr,Kick-off
+images/train/SNGS-095_000331.jpg,SNGS-095,5,331,train_gsr,Kick-off
+images/train/SNGS-095_000346.jpg,SNGS-095,5,346,train_gsr,Kick-off
+images/train/SNGS-095_000361.jpg,SNGS-095,5,361,train_gsr,Kick-off
+images/train/SNGS-095_000376.jpg,SNGS-095,5,376,train_gsr,Kick-off
+images/train/SNGS-095_000391.jpg,SNGS-095,5,391,train_gsr,Kick-off
+images/train/SNGS-095_000406.jpg,SNGS-095,5,406,train_gsr,Kick-off
+images/train/SNGS-095_000421.jpg,SNGS-095,5,421,train_gsr,Kick-off
+images/train/SNGS-095_000436.jpg,SNGS-095,5,436,train_gsr,Kick-off
+images/train/SNGS-095_000451.jpg,SNGS-095,5,451,train_gsr,Kick-off
+images/train/SNGS-095_000466.jpg,SNGS-095,5,466,train_gsr,Kick-off
+images/train/SNGS-095_000481.jpg,SNGS-095,5,481,train_gsr,Kick-off
+images/train/SNGS-095_000496.jpg,SNGS-095,5,496,train_gsr,Kick-off
+images/train/SNGS-095_000511.jpg,SNGS-095,5,511,train_gsr,Kick-off
+images/train/SNGS-095_000526.jpg,SNGS-095,5,526,train_gsr,Kick-off
+images/train/SNGS-095_000541.jpg,SNGS-095,5,541,train_gsr,Kick-off
+images/train/SNGS-095_000556.jpg,SNGS-095,5,556,train_gsr,Kick-off
+images/train/SNGS-095_000571.jpg,SNGS-095,5,571,train_gsr,Kick-off
+images/train/SNGS-095_000586.jpg,SNGS-095,5,586,train_gsr,Kick-off
+images/train/SNGS-095_000601.jpg,SNGS-095,5,601,train_gsr,Kick-off
+images/train/SNGS-095_000616.jpg,SNGS-095,5,616,train_gsr,Kick-off
+images/train/SNGS-095_000631.jpg,SNGS-095,5,631,train_gsr,Kick-off
+images/train/SNGS-095_000646.jpg,SNGS-095,5,646,train_gsr,Kick-off
+images/train/SNGS-095_000661.jpg,SNGS-095,5,661,train_gsr,Kick-off
+images/train/SNGS-095_000676.jpg,SNGS-095,5,676,train_gsr,Kick-off
+images/train/SNGS-095_000691.jpg,SNGS-095,5,691,train_gsr,Kick-off
+images/train/SNGS-095_000706.jpg,SNGS-095,5,706,train_gsr,Kick-off
+images/train/SNGS-095_000721.jpg,SNGS-095,5,721,train_gsr,Kick-off
+images/train/SNGS-095_000736.jpg,SNGS-095,5,736,train_gsr,Kick-off
+images/train/SNGS-096_000001.jpg,SNGS-096,5,1,train_gsr,Substitution
+images/train/SNGS-096_000016.jpg,SNGS-096,5,16,train_gsr,Substitution
+images/train/SNGS-096_000031.jpg,SNGS-096,5,31,train_gsr,Substitution
+images/train/SNGS-096_000046.jpg,SNGS-096,5,46,train_gsr,Substitution
+images/train/SNGS-096_000061.jpg,SNGS-096,5,61,train_gsr,Substitution
+images/train/SNGS-096_000076.jpg,SNGS-096,5,76,train_gsr,Substitution
+images/train/SNGS-096_000091.jpg,SNGS-096,5,91,train_gsr,Substitution
+images/train/SNGS-096_000106.jpg,SNGS-096,5,106,train_gsr,Substitution
+images/train/SNGS-096_000121.jpg,SNGS-096,5,121,train_gsr,Substitution
+images/train/SNGS-096_000136.jpg,SNGS-096,5,136,train_gsr,Substitution
+images/train/SNGS-096_000151.jpg,SNGS-096,5,151,train_gsr,Substitution
+images/train/SNGS-096_000166.jpg,SNGS-096,5,166,train_gsr,Substitution
+images/train/SNGS-096_000181.jpg,SNGS-096,5,181,train_gsr,Substitution
+images/train/SNGS-096_000196.jpg,SNGS-096,5,196,train_gsr,Substitution
+images/train/SNGS-096_000211.jpg,SNGS-096,5,211,train_gsr,Substitution
+images/train/SNGS-096_000226.jpg,SNGS-096,5,226,train_gsr,Substitution
+images/train/SNGS-096_000241.jpg,SNGS-096,5,241,train_gsr,Substitution
+images/train/SNGS-096_000256.jpg,SNGS-096,5,256,train_gsr,Substitution
+images/train/SNGS-096_000271.jpg,SNGS-096,5,271,train_gsr,Substitution
+images/train/SNGS-096_000286.jpg,SNGS-096,5,286,train_gsr,Substitution
+images/train/SNGS-096_000301.jpg,SNGS-096,5,301,train_gsr,Substitution
+images/train/SNGS-096_000316.jpg,SNGS-096,5,316,train_gsr,Substitution
+images/train/SNGS-096_000331.jpg,SNGS-096,5,331,train_gsr,Substitution
+images/train/SNGS-096_000346.jpg,SNGS-096,5,346,train_gsr,Substitution
+images/train/SNGS-096_000361.jpg,SNGS-096,5,361,train_gsr,Substitution
+images/train/SNGS-096_000376.jpg,SNGS-096,5,376,train_gsr,Substitution
+images/train/SNGS-096_000391.jpg,SNGS-096,5,391,train_gsr,Substitution
+images/train/SNGS-096_000406.jpg,SNGS-096,5,406,train_gsr,Substitution
+images/train/SNGS-096_000421.jpg,SNGS-096,5,421,train_gsr,Substitution
+images/train/SNGS-096_000436.jpg,SNGS-096,5,436,train_gsr,Substitution
+images/train/SNGS-096_000451.jpg,SNGS-096,5,451,train_gsr,Substitution
+images/train/SNGS-096_000466.jpg,SNGS-096,5,466,train_gsr,Substitution
+images/train/SNGS-096_000481.jpg,SNGS-096,5,481,train_gsr,Substitution
+images/train/SNGS-096_000496.jpg,SNGS-096,5,496,train_gsr,Substitution
+images/train/SNGS-096_000511.jpg,SNGS-096,5,511,train_gsr,Substitution
+images/train/SNGS-096_000526.jpg,SNGS-096,5,526,train_gsr,Substitution
+images/train/SNGS-096_000541.jpg,SNGS-096,5,541,train_gsr,Substitution
+images/train/SNGS-096_000556.jpg,SNGS-096,5,556,train_gsr,Substitution
+images/train/SNGS-096_000571.jpg,SNGS-096,5,571,train_gsr,Substitution
+images/train/SNGS-096_000586.jpg,SNGS-096,5,586,train_gsr,Substitution
+images/train/SNGS-096_000601.jpg,SNGS-096,5,601,train_gsr,Substitution
+images/train/SNGS-096_000616.jpg,SNGS-096,5,616,train_gsr,Substitution
+images/train/SNGS-096_000631.jpg,SNGS-096,5,631,train_gsr,Substitution
+images/train/SNGS-096_000646.jpg,SNGS-096,5,646,train_gsr,Substitution
+images/train/SNGS-096_000661.jpg,SNGS-096,5,661,train_gsr,Substitution
+images/train/SNGS-096_000676.jpg,SNGS-096,5,676,train_gsr,Substitution
+images/train/SNGS-096_000691.jpg,SNGS-096,5,691,train_gsr,Substitution
+images/train/SNGS-096_000706.jpg,SNGS-096,5,706,train_gsr,Substitution
+images/train/SNGS-096_000721.jpg,SNGS-096,5,721,train_gsr,Substitution
+images/train/SNGS-096_000736.jpg,SNGS-096,5,736,train_gsr,Substitution

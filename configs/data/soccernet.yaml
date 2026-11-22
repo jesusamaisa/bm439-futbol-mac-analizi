@@ -1,0 +1,5 @@
+# SoccerNet-Tracking-2023 -> YOLO (bgoru.data.prepare_soccernet ile üretilir)
+path: data/soccernet
+train: images/train   # resmî train ayrımının oyunlarının ~%80'i
+val: images/val       # resmî train ayrımından gameID bazında ayrılan oyunlar
+test: images/test     # resmî test ayrımı (dokunulmaz)
