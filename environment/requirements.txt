@@ -1,0 +1,25 @@
+# Bilgisayarlı Görü — sabitlenmiş sürümler (Windows 11, Python 3.12.0, CUDA 11.8 derlemesi)
+# PyTorch CUDA paketleri için:  pip install -r environment/requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.4.1+cu118
+torchvision==0.19.1+cu118
+ultralytics==8.3.6
+supervision==0.24.0
+# opencv-python 4.12+ numpy>=2 ister, matplotlib 3.8.2 ise numpy<2: deneyler numpy 1.26.4 ile yapıldığı için
+# numpy 1 ile uyumlu son OpenCV sürümü sabitlenmiştir (temiz ortamda pip ile çakışmasız kurulur).
+opencv-python==4.11.0.86
+numpy==1.26.4
+scipy==1.17.1
+scikit-learn==1.7.2
+scikit-image==0.26.0
+pandas==2.3.3
+matplotlib==3.8.2
+pillow==10.2.0
+PyYAML==6.0.1
+requests==2.32.4
+streamlit==1.39.0
+pyarrow==22.0.0          # streamlit bağımlılığı; 23+ sürümleri çalışırken numpy>=2 ister
+imageio-ffmpeg==0.8.1
+# test ve rapor üretimi (isteğe bağlı)
+pytest==8.3.3
+python-docx==1.2.0
+pymupdf==2.1

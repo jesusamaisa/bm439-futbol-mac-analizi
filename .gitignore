@@ -1,0 +1,37 @@
+# --- ham veri: indirilir/yeniden üretilir (README "Veri edinme"); yalnızca ayrım manifestleri depoda
+/data/*
+!/data/soccernet/
+/data/soccernet/*
+!/data/soccernet/manifests/
+!/data/soccernet_gsr/
+/data/soccernet_gsr/*
+!/data/soccernet_gsr/manifests/
+!/data/soccernet_gsr/KAYNAK.md
+!/data/soccernet_cp/
+/data/soccernet_cp/*
+!/data/soccernet_cp/copy_paste_info.json
+_downloads/
+
+# --- model ağırlıkları ve videolar: GitHub Release ekinde (README "Ağırlıklar ve demo videoları")
+weights/*.pt
+yolo11n.pt
+experiments/runs/*/weights/
+*.mp4
+
+# --- önbellek ve ara çıktılar
+experiments/preds/
+experiments/runs/*/events.out.tfevents.*
+results/_smoke/
+results/app_runs/
+results/analiz/
+*.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- teslim paketi, geçici dosyalar, araç ayarları
+teslim/
+report/_tmp*
+~$*
+.claude/
+.venv/

@@ -1,0 +1,11 @@
+name: bilgisayarli-goru
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu118
+      - -r requirements.txt
