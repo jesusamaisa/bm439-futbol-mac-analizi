@@ -1,0 +1,82 @@
+{
+ "fps": 25,
+ "duration_s": 200.32,
+ "segments": [
+  {
+   "id": "baslik",
+   "start_s": 0.0
+  },
+  {
+   "id": "girdi_kart",
+   "start_s": 7.0
+  },
+  {
+   "id": "girdi_video",
+   "start_s": 13.0
+  },
+  {
+   "id": "cikarim_kart",
+   "start_s": 19.04
+  },
+  {
+   "id": "demo1",
+   "start_s": 25.04
+  },
+  {
+   "id": "demo2",
+   "start_s": 39.76
+  },
+  {
+   "id": "yorum_kart",
+   "start_s": 86.36
+  },
+  {
+   "id": "profil_haritasi",
+   "start_s": 91.36
+  },
+  {
+   "id": "kart_178",
+   "start_s": 98.36
+  },
+  {
+   "id": "kart_179",
+   "start_s": 104.36
+  },
+  {
+   "id": "kart_184",
+   "start_s": 110.36
+  },
+  {
+   "id": "fig_tespit",
+   "start_s": 116.36
+  },
+  {
+   "id": "fig_karsilastirma",
+   "start_s": 125.36
+  },
+  {
+   "id": "fig_hakimiyet",
+   "start_s": 133.36
+  },
+  {
+   "id": "fig_dayaniklilik",
+   "start_s": 141.36
+  },
+  {
+   "id": "basarisiz_kart",
+   "start_s": 149.36
+  },
+  {
+   "id": "basarisiz_video",
+   "start_s": 155.36
+  },
+  {
+   "id": "hata_ornekleri",
+   "start_s": 185.32
+  },
+  {
+   "id": "ozet",
+   "start_s": 193.32
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+frame,time_s,type,name,player,team,to
+40,3.2,CARRY,Top taşıma,687,1,
+40,3.2,DRIBBLE,Çalım,687,1,
+60,4.8,PASS,Pas,687,1,863
+66,5.28,INTERCEPT,Araya girme,686,0,
+66,5.28,PASS_FAIL,Başarısız pas,863,1,686
+95,7.6,CARRY,Top taşıma,686,0,
+95,7.6,DRIBBLE,Çalım,686,0,
+96,7.68,TACKLE,Top kapma,863,1,
+96,7.68,DUEL_LOST,İkili kayıp,686,0,
+116,9.28,INTERCEPT,Araya girme,869,0,
+116,9.28,PASS_FAIL,Başarısız pas,863,1,869
+127,10.16,PASS,Pas,869,0,1081
+146,11.68,PASS,Pas,1081,0,1087
+149,11.92,PASS,Pas,1087,0,1096
+167,13.36,PASS,Pas,1096,0,863
+175,14.0,PASS,Pas,863,0,1096

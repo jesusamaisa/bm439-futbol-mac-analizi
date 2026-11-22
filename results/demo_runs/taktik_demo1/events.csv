@@ -1,0 +1,14 @@
+frame,time_s,type,name,player,team,to
+29,0.97,INTERCEPT,Araya girme,16,0,
+29,0.97,PASS_FAIL,Başarısız pas,18,1,16
+111,3.7,PASS,Pas,16,0,25
+154,5.13,CARRY,Top taşıma,25,0,
+169,5.63,PASS,Pas,25,0,5
+175,5.83,PASS,Pas,5,0,3
+208,6.93,PASS,Pas,3,0,29
+235,7.83,PASS,Pas,29,0,3
+302,10.07,PASS,Pas,3,0,25
+302,10.07,KEY_PASS,Kilit pas,3,0,25
+302,10.07,CROSS,Orta,3,0,
+369,12.3,INTERCEPT,Araya girme,14,1,
+369,12.3,PASS_FAIL,Başarısız pas,25,0,14

@@ -1,0 +1,2 @@
+pipeline_fps,pipeline_ms,frames,stage_ms_detect,stage_ms_track_team,stage_ms_homography,stage_ms_logic,stage_ms_draw,device
+26.32751585815088,37.98307464281347,280,14.21,6.56,12.85,0.72,6.47,NVIDIA GeForce RTX 4050 Laptop GPU

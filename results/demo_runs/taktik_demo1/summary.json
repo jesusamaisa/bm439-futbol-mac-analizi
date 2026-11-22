@@ -1,0 +1,1203 @@
+{
+ "segment": "taktik_demo1",
+ "frames": 442,
+ "fps": 30.0,
+ "team_names": [
+  "İsviçre",
+  "Fransa"
+ ],
+ "team_colors_bgr": [
+  [
+   228,
+   239,
+   227
+  ],
+  [
+   83,
+   83,
+   75
+  ]
+ ],
+ "final": {
+  "possession_pct": [
+   81.1,
+   18.9
+  ],
+  "possession_pct_window": [
+   81.1,
+   18.9
+  ],
+  "passes": [
+   6,
+   0
+  ],
+  "pass_fail": [
+   1,
+   1
+  ],
+  "pass_accuracy": [
+   85.7,
+   0.0
+  ],
+  "passes_per_min": [
+   24.43,
+   0.0
+  ],
+  "passes_per_min_window": [
+   24.43,
+   0.0
+  ],
+  "elapsed_s": 14.7,
+  "possessor": 14,
+  "control_team": 1,
+  "last_events": [
+   {
+    "f": 302,
+    "t": 10.07,
+    "type": "KEY_PASS",
+    "name": "Kilit pas",
+    "tid": 3,
+    "team": 0,
+    "to": 25
+   },
+   {
+    "f": 302,
+    "t": 10.07,
+    "type": "CROSS",
+    "name": "Orta",
+    "tid": 3,
+    "team": 0
+   },
+   {
+    "f": 369,
+    "t": 12.3,
+    "type": "INTERCEPT",
+    "name": "Araya girme",
+    "tid": 14,
+    "team": 1,
+    "vs": 25
+   },
+   {
+    "f": 369,
+    "t": 12.3,
+    "type": "PASS_FAIL",
+    "name": "Başarısız pas",
+    "tid": 25,
+    "team": 0,
+    "to": 14
+   }
+  ]
+ },
+ "pitch_coverage": 1.0,
+ "kinematics_approx": false,
+ "timing_ms_per_frame": {
+  "detect": 13.82,
+  "track_team": 5.55,
+  "homography": 12.08,
+  "logic": 0.65,
+  "draw": 6.68
+ },
+ "players": {
+  "2": {
+   "tid": 2,
+   "display_id": "#2",
+   "name": "Oyuncu 2",
+   "team": 0,
+   "frames": 339,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 17.2,
+    "max_speed_kmh": 10.5,
+    "avg_speed_kmh": 3.8,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "3": {
+   "tid": 3,
+   "display_id": "#3",
+   "name": "Oyuncu 3",
+   "team": 0,
+   "frames": 431,
+   "events": {
+    "PASS": 2,
+    "KEY_PASS": 1,
+    "CROSS": 1
+   },
+   "poss_frames": 27.0,
+   "poss_s": 0.9,
+   "kin": {
+    "distance_m": 59.8,
+    "max_speed_kmh": 30.4,
+    "avg_speed_kmh": 14.4,
+    "approx": false
+   },
+   "team_poss_share": 24.8
+  },
+  "5": {
+   "tid": 5,
+   "display_id": "#5",
+   "name": "Oyuncu 5",
+   "team": 0,
+   "frames": 291,
+   "events": {
+    "PASS": 1
+   },
+   "poss_frames": 6.0,
+   "poss_s": 0.2,
+   "kin": {
+    "distance_m": 36.5,
+    "max_speed_kmh": 20.1,
+    "avg_speed_kmh": 10.6,
+    "approx": false
+   },
+   "team_poss_share": 5.5
+  },
+  "6": {
+   "tid": 6,
+   "display_id": "#6",
+   "name": "Oyuncu 6",
+   "team": 1,
+   "frames": 283,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 30.3,
+    "max_speed_kmh": 26.3,
+    "avg_speed_kmh": 11.1,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "7": {
+   "tid": 7,
+   "display_id": "#7",
+   "name": "Oyuncu 7",
+   "team": 0,
+   "frames": 442,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 36.5,
+    "max_speed_kmh": 18.0,
+    "avg_speed_kmh": 8.2,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "8": {
+   "tid": 8,
+   "display_id": "#8",
+   "name": "Oyuncu 8",
+   "team": 1,
+   "frames": 280,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 29.7,
+    "max_speed_kmh": 31.0,
+    "avg_speed_kmh": 11.9,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "9": {
+   "tid": 9,
+   "display_id": "#9",
+   "name": "Oyuncu 9",
+   "team": 1,
+   "frames": 440,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 30.8,
+    "max_speed_kmh": 16.8,
+    "avg_speed_kmh": 6.6,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "10": {
+   "tid": 10,
+   "display_id": "#10",
+   "name": "Oyuncu 10",
+   "team": 0,
+   "frames": 439,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 40.1,
+    "max_speed_kmh": 20.4,
+    "avg_speed_kmh": 9.4,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "11": {
+   "tid": 11,
+   "display_id": "#11",
+   "name": "Oyuncu 11",
+   "team": 0,
+   "frames": 436,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 37.5,
+    "max_speed_kmh": 15.6,
+    "avg_speed_kmh": 8.4,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "12": {
+   "tid": 12,
+   "display_id": "#12",
+   "name": "Oyuncu 12",
+   "team": 1,
+   "frames": 440,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 24.1,
+    "max_speed_kmh": 17.4,
+    "avg_speed_kmh": 5.6,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "13": {
+   "tid": 13,
+   "display_id": "#13",
+   "name": "Oyuncu 13",
+   "team": 0,
+   "frames": 441,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 30.4,
+    "max_speed_kmh": 18.6,
+    "avg_speed_kmh": 7.0,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "14": {
+   "tid": 14,
+   "display_id": "#14",
+   "name": "Oyuncu 14",
+   "team": 1,
+   "frames": 442,
+   "events": {
+    "INTERCEPT": 1
+   },
+   "poss_frames": 5.0,
+   "poss_s": 0.2,
+   "kin": {
+    "distance_m": 38.2,
+    "max_speed_kmh": 25.1,
+    "avg_speed_kmh": 9.5,
+    "approx": false
+   },
+   "team_poss_share": 100.0
+  },
+  "15": {
+   "tid": 15,
+   "display_id": "#15",
+   "name": "Oyuncu 15",
+   "team": 0,
+   "frames": 440,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 23.5,
+    "max_speed_kmh": 19.4,
+    "avg_speed_kmh": 3.9,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "16": {
+   "tid": 16,
+   "display_id": "#16",
+   "name": "Oyuncu 16",
+   "team": 0,
+   "frames": 438,
+   "events": {
+    "INTERCEPT": 1,
+    "PASS": 1
+   },
+   "poss_frames": 31.0,
+   "poss_s": 1.0,
+   "kin": {
+    "distance_m": 30.6,
+    "max_speed_kmh": 17.8,
+    "avg_speed_kmh": 6.8,
+    "approx": false
+   },
+   "team_poss_share": 28.4
+  },
+  "17": {
+   "tid": 17,
+   "display_id": "#17",
+   "name": "Oyuncu 17",
+   "team": 1,
+   "frames": 405,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 38.8,
+    "max_speed_kmh": 27.7,
+    "avg_speed_kmh": 9.1,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "19": {
+   "tid": 19,
+   "display_id": "#19",
+   "name": "Oyuncu 19",
+   "team": 1,
+   "frames": 392,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 24.9,
+    "max_speed_kmh": 14.1,
+    "avg_speed_kmh": 5.2,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "20": {
+   "tid": 20,
+   "display_id": "#20",
+   "name": "Oyuncu 20",
+   "team": 1,
+   "frames": 434,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 44.7,
+    "max_speed_kmh": 25.1,
+    "avg_speed_kmh": 10.7,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  },
+  "25": {
+   "tid": 25,
+   "display_id": "#25",
+   "name": "Oyuncu 25",
+   "team": 0,
+   "frames": 418,
+   "events": {
+    "CARRY": 1,
+    "PASS": 1,
+    "PASS_FAIL": 1
+   },
+   "poss_frames": 37.0,
+   "poss_s": 1.2,
+   "kin": {
+    "distance_m": 66.5,
+    "max_speed_kmh": 25.5,
+    "avg_speed_kmh": 16.3,
+    "approx": false
+   },
+   "team_poss_share": 33.9
+  },
+  "29": {
+   "tid": 29,
+   "display_id": "#29",
+   "name": "Oyuncu 29",
+   "team": 0,
+   "frames": 419,
+   "events": {
+    "PASS": 1
+   },
+   "poss_frames": 8.0,
+   "poss_s": 0.3,
+   "kin": {
+    "distance_m": 34.9,
+    "max_speed_kmh": 16.5,
+    "avg_speed_kmh": 8.2,
+    "approx": false
+   },
+   "team_poss_share": 7.3
+  },
+  "39": {
+   "tid": 39,
+   "display_id": "#39",
+   "name": "Oyuncu 39",
+   "team": 0,
+   "frames": 363,
+   "events": {},
+   "poss_frames": 0.0,
+   "poss_s": 0.0,
+   "kin": {
+    "distance_m": 34.1,
+    "max_speed_kmh": 35.6,
+    "avg_speed_kmh": 9.1,
+    "approx": false
+   },
+   "team_poss_share": 0.0
+  }
+ },
+ "profiles": {
+  "2": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.19,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 0,
+    "HAREKET": 0,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 10.5,
+    "HAREKET": 91.327,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 30
+  },
+  "3": {
+   "vector": [
+    -0.365,
+    -0.674
+   ],
+   "angle": 241.6,
+   "magnitude": 0.767,
+   "category": "Yaratıcı Kanat / Çalımcı",
+   "n_events": 4,
+   "minutes": 0.24,
+   "offensive": 0.365,
+   "centrality": -0.674,
+   "attributes": {
+    "HIZ": 89,
+    "HAREKET": 94,
+    "PAS": 99,
+    "ISABET": 62,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 99,
+    "KONTROL": 89
+   },
+   "raw": {
+    "HIZ": 30.4,
+    "HAREKET": 249.745,
+    "PAS": 8.353,
+    "ISABET": 1.0,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 10.441,
+    "KONTROL": 3.759
+   },
+   "overall": 79
+  },
+  "5": {
+   "vector": [
+    0.974,
+    -0.225
+   ],
+   "angle": 347.0,
+   "magnitude": 1.0,
+   "category": "Yetersiz veri",
+   "n_events": 1,
+   "minutes": 0.16,
+   "offensive": -0.974,
+   "centrality": -0.225,
+   "attributes": {
+    "HIZ": 52,
+    "HAREKET": 89,
+    "PAS": 94,
+    "ISABET": 62,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 83
+   },
+   "raw": {
+    "HIZ": 20.1,
+    "HAREKET": 225.773,
+    "PAS": 6.186,
+    "ISABET": 1.0,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 1.237
+   },
+   "overall": 65
+  },
+  "6": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.16,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 78,
+    "HAREKET": 83,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 26.3,
+    "HAREKET": 192.721,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 53
+  },
+  "7": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.25,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 36,
+    "HAREKET": 36,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 18.0,
+    "HAREKET": 148.643,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 40
+  },
+  "8": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.16,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 94,
+    "HAREKET": 78,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 31.0,
+    "HAREKET": 190.929,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 54
+  },
+  "9": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 21,
+    "HAREKET": 31,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 16.8,
+    "HAREKET": 126.0,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 37
+  },
+  "10": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 57,
+    "HAREKET": 57,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 20.4,
+    "HAREKET": 164.419,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 46
+  },
+  "11": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 10,
+    "HAREKET": 47,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 15.6,
+    "HAREKET": 154.817,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 38
+  },
+  "12": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 26,
+    "HAREKET": 10,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 17.4,
+    "HAREKET": 98.591,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 35
+  },
+  "13": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 42,
+    "HAREKET": 21,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 18.6,
+    "HAREKET": 124.082,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 39
+  },
+  "14": {
+   "vector": [
+    0.999,
+    -0.052
+   ],
+   "angle": 357.0,
+   "magnitude": 1.0,
+   "category": "Yetersiz veri",
+   "n_events": 1,
+   "minutes": 0.25,
+   "offensive": -0.999,
+   "centrality": -0.052,
+   "attributes": {
+    "HIZ": 65,
+    "HAREKET": 52,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 94,
+    "HUCUM": 47,
+    "KONTROL": 73
+   },
+   "raw": {
+    "HIZ": 25.1,
+    "HAREKET": 155.566,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 4.072,
+    "HUCUM": 0.0,
+    "KONTROL": 0.679
+   },
+   "overall": 59
+  },
+  "15": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 47,
+    "HAREKET": 5,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 19.4,
+    "HAREKET": 96.136,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 37
+  },
+  "16": {
+   "vector": [
+    0.993,
+    -0.092
+   ],
+   "angle": 354.7,
+   "magnitude": 0.997,
+   "category": "Yetersiz veri",
+   "n_events": 2,
+   "minutes": 0.24,
+   "offensive": -0.993,
+   "centrality": -0.092,
+   "attributes": {
+    "HIZ": 31,
+    "HAREKET": 26,
+    "PAS": 78,
+    "ISABET": 62,
+    "SURME": 47,
+    "SAVUNMA": 99,
+    "HUCUM": 47,
+    "KONTROL": 94
+   },
+   "raw": {
+    "HIZ": 17.8,
+    "HAREKET": 125.753,
+    "PAS": 4.11,
+    "ISABET": 1.0,
+    "SURME": 0.0,
+    "SAVUNMA": 4.11,
+    "HUCUM": 0.0,
+    "KONTROL": 4.247
+   },
+   "overall": 60
+  },
+  "17": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.23,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 83,
+    "HAREKET": 68,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 27.7,
+    "HAREKET": 172.444,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 51
+  },
+  "19": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.22,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 5,
+    "HAREKET": 16,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 14.1,
+    "HAREKET": 114.337,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 33
+  },
+  "20": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.24,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 65,
+    "HAREKET": 73,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 25.1,
+    "HAREKET": 185.392,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 49
+  },
+  "25": {
+   "vector": [
+    -0.65,
+    -0.396
+   ],
+   "angle": 211.3,
+   "magnitude": 0.761,
+   "category": "Yetersiz veri",
+   "n_events": 2,
+   "minutes": 0.23,
+   "offensive": 0.65,
+   "centrality": -0.396,
+   "attributes": {
+    "HIZ": 73,
+    "HAREKET": 99,
+    "PAS": 89,
+    "ISABET": 0,
+    "SURME": 99,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 99
+   },
+   "raw": {
+    "HIZ": 25.5,
+    "HAREKET": 286.364,
+    "PAS": 4.306,
+    "ISABET": 0.5,
+    "SURME": 4.306,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 5.311
+   },
+   "overall": 69
+  },
+  "29": {
+   "vector": [
+    0.974,
+    -0.225
+   ],
+   "angle": 347.0,
+   "magnitude": 1.0,
+   "category": "Yetersiz veri",
+   "n_events": 1,
+   "minutes": 0.23,
+   "offensive": -0.974,
+   "centrality": -0.225,
+   "attributes": {
+    "HIZ": 16,
+    "HAREKET": 42,
+    "PAS": 83,
+    "ISABET": 62,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 78
+   },
+   "raw": {
+    "HIZ": 16.5,
+    "HAREKET": 149.928,
+    "PAS": 4.296,
+    "ISABET": 1.0,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 1.146
+   },
+   "overall": 52
+  },
+  "39": {
+   "vector": [
+    0.0,
+    0.0
+   ],
+   "angle": 0.0,
+   "magnitude": 0.0,
+   "category": "Yetersiz veri",
+   "n_events": 0,
+   "minutes": 0.2,
+   "offensive": -0.0,
+   "centrality": 0.0,
+   "attributes": {
+    "HIZ": 99,
+    "HAREKET": 63,
+    "PAS": 36,
+    "ISABET": null,
+    "SURME": 47,
+    "SAVUNMA": 44,
+    "HUCUM": 47,
+    "KONTROL": 34
+   },
+   "raw": {
+    "HIZ": 35.6,
+    "HAREKET": 169.091,
+    "PAS": 0.0,
+    "ISABET": null,
+    "SURME": 0.0,
+    "SAVUNMA": 0.0,
+    "HUCUM": 0.0,
+    "KONTROL": 0.0
+   },
+   "overall": 53
+  }
+ },
+ "cards": {
+  "3": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_3.png",
+  "25": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_25.png",
+  "5": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_5.png",
+  "16": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_16.png",
+  "14": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_14.png",
+  "8": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_8.png",
+  "6": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_6.png",
+  "39": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_39.png",
+  "29": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_29.png",
+  "17": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_17.png",
+  "20": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_20.png",
+  "10": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_10.png",
+  "7": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_7.png",
+  "13": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_13.png",
+  "11": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_11.png",
+  "9": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_9.png",
+  "15": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_15.png",
+  "12": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_12.png",
+  "19": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_19.png",
+  "2": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\cards\\kart_2.png"
+ },
+ "config": {
+  "det_weights": "bgoru_G1_ft1280_gsr.pt",
+  "det_imgsz": 1280,
+  "conf_player": 0.3,
+  "conf_referee": 0.3,
+  "conf_ball": 0.2,
+  "use_homography": true,
+  "kp_weights": "hmzbo_keypoints_yolov8m.pt",
+  "kp_conf": 0.5,
+  "kp_every": 1,
+  "kp_tol_px": 4.0,
+  "team_method": "proposed_local",
+  "team_colors_bgr": null,
+  "team_centers": [
+   [
+    93.41825103759766,
+    -5.114171981811523,
+    4.9488205909729
+   ],
+   [
+    34.74777603149414,
+    -2.5427346229553223,
+    -0.880340576171875
+   ]
+  ],
+  "team_spread": 5.87383084161377,
+  "team_names": [
+   "İsviçre",
+   "Fransa"
+  ],
+  "ball_fill": true,
+  "dist_thr": 0.45,
+  "show_hud": true,
+  "show_map": true,
+  "show_keypoints": false,
+  "show_palette": false,
+  "min_card_minutes": 0.15
+ },
+ "wall_fps": 21.78,
+ "video": "C:\\Users\\muham\\BilgisayarliGoru\\results\\demo_runs\\taktik_demo1\\analiz.mp4"
+}

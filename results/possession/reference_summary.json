@@ -1,0 +1,112 @@
+{
+ "SNMOT-118": {
+  "possession_pct": [
+   71.9,
+   28.1
+  ],
+  "passes": [
+   3,
+   1
+  ],
+  "events": 20
+ },
+ "SNMOT-132": {
+  "possession_pct": [
+   26.7,
+   73.3
+  ],
+  "passes": [
+   3,
+   5
+  ],
+  "events": 14
+ },
+ "SNMOT-135": {
+  "possession_pct": [
+   59.1,
+   40.9
+  ],
+  "passes": [
+   0,
+   1
+  ],
+  "events": 5
+ },
+ "SNMOT-138": {
+  "possession_pct": [
+   38.5,
+   61.5
+  ],
+  "passes": [
+   5,
+   2
+  ],
+  "events": 19
+ },
+ "SNMOT-140": {
+  "possession_pct": [
+   80.7,
+   19.3
+  ],
+  "passes": [
+   4,
+   1
+  ],
+  "events": 21
+ },
+ "SNMOT-141": {
+  "possession_pct": [
+   46.3,
+   53.7
+  ],
+  "passes": [
+   1,
+   4
+  ],
+  "events": 19
+ },
+ "SNMOT-142": {
+  "possession_pct": [
+   44.0,
+   56.0
+  ],
+  "passes": [
+   3,
+   2
+  ],
+  "events": 19
+ },
+ "SNMOT-146": {
+  "possession_pct": [
+   31.0,
+   69.0
+  ],
+  "passes": [
+   1,
+   3
+  ],
+  "events": 8
+ },
+ "SNMOT-147": {
+  "possession_pct": [
+   56.1,
+   43.9
+  ],
+  "passes": [
+   1,
+   3
+  ],
+  "events": 8
+ },
+ "SNMOT-148": {
+  "possession_pct": [
+   30.5,
+   69.5
+  ],
+  "passes": [
+   1,
+   4
+  ],
+  "events": 31
+ }
+}

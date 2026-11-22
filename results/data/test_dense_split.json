@@ -1,0 +1,21 @@
+{
+ "dense_test": {
+  "sequences": [
+   "SNMOT-118",
+   "SNMOT-132",
+   "SNMOT-135",
+   "SNMOT-138",
+   "SNMOT-140",
+   "SNMOT-141",
+   "SNMOT-142",
+   "SNMOT-146",
+   "SNMOT-147",
+   "SNMOT-148"
+  ],
+  "games": [
+   7,
+   8
+  ],
+  "images": 3750
+ }
+}

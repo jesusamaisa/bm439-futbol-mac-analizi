@@ -1,0 +1,251 @@
+{
+ "taktik_demo1": {
+  "final": {
+   "possession_pct": [
+    81.1,
+    18.9
+   ],
+   "possession_pct_window": [
+    81.1,
+    18.9
+   ],
+   "passes": [
+    6,
+    0
+   ],
+   "pass_fail": [
+    1,
+    1
+   ],
+   "pass_accuracy": [
+    85.7,
+    0.0
+   ],
+   "passes_per_min": [
+    24.43,
+    0.0
+   ],
+   "passes_per_min_window": [
+    24.43,
+    0.0
+   ],
+   "elapsed_s": 14.7,
+   "possessor": 14,
+   "control_team": 1,
+   "last_events": [
+    {
+     "f": 302,
+     "t": 10.07,
+     "type": "KEY_PASS",
+     "name": "Kilit pas",
+     "tid": 3,
+     "team": 0,
+     "to": 25
+    },
+    {
+     "f": 302,
+     "t": 10.07,
+     "type": "CROSS",
+     "name": "Orta",
+     "tid": 3,
+     "team": 0
+    },
+    {
+     "f": 369,
+     "t": 12.3,
+     "type": "INTERCEPT",
+     "name": "Araya girme",
+     "tid": 14,
+     "team": 1,
+     "vs": 25
+    },
+    {
+     "f": 369,
+     "t": 12.3,
+     "type": "PASS_FAIL",
+     "name": "Başarısız pas",
+     "tid": 25,
+     "team": 0,
+     "to": 14
+    }
+   ]
+  },
+  "pitch_coverage": 1.0,
+  "wall_fps": 21.78,
+  "timing_ms_per_frame": {
+   "detect": 13.82,
+   "track_team": 5.55,
+   "homography": 12.08,
+   "logic": 0.65,
+   "draw": 6.68
+  }
+ },
+ "taktik_demo2": {
+  "final": {
+   "possession_pct": [
+    20.4,
+    79.6
+   ],
+   "possession_pct_window": [
+    20.4,
+    79.6
+   ],
+   "passes": [
+    3,
+    6
+   ],
+   "pass_fail": [
+    4,
+    1
+   ],
+   "pass_accuracy": [
+    42.9,
+    85.7
+   ],
+   "passes_per_min": [
+    3.86,
+    7.72
+   ],
+   "passes_per_min_window": [
+    3.86,
+    7.72
+   ],
+   "elapsed_s": 46.6,
+   "possessor": 657,
+   "control_team": 1,
+   "last_events": [
+    {
+     "f": 1384,
+     "t": 46.13,
+     "type": "TACKLE",
+     "name": "Top kapma",
+     "tid": 658,
+     "team": 0,
+     "vs": 659
+    },
+    {
+     "f": 1384,
+     "t": 46.13,
+     "type": "DUEL_LOST",
+     "name": "İkili kayıp",
+     "tid": 659,
+     "team": 1,
+     "vs": 658
+    },
+    {
+     "f": 1388,
+     "t": 46.27,
+     "type": "INTERCEPT",
+     "name": "Araya girme",
+     "tid": 657,
+     "team": 1,
+     "vs": 658
+    },
+    {
+     "f": 1388,
+     "t": 46.27,
+     "type": "PASS_FAIL",
+     "name": "Başarısız pas",
+     "tid": 658,
+     "team": 0,
+     "to": 657
+    }
+   ]
+  },
+  "pitch_coverage": 1.0,
+  "wall_fps": 9.55,
+  "timing_ms_per_frame": {
+   "detect": 29.58,
+   "track_team": 18.41,
+   "homography": 26.05,
+   "logic": 1.71,
+   "draw": 16.88
+  }
+ },
+ "soccernet_SNMOT-118": {
+  "final": {
+   "possession_pct": [
+    77.6,
+    22.4
+   ],
+   "possession_pct_window": [
+    77.6,
+    22.4
+   ],
+   "passes": [
+    5,
+    1
+   ],
+   "pass_fail": [
+    0,
+    2
+   ],
+   "pass_accuracy": [
+    100.0,
+    33.3
+   ],
+   "passes_per_min": [
+    10.0,
+    2.0
+   ],
+   "passes_per_min_window": [
+    10.0,
+    2.0
+   ],
+   "elapsed_s": 30.0,
+   "possessor": 1076,
+   "control_team": 0,
+   "last_events": [
+    {
+     "f": 146,
+     "t": 11.68,
+     "type": "PASS",
+     "name": "Pas",
+     "tid": 1081,
+     "team": 0,
+     "to": 1087,
+     "success": true
+    },
+    {
+     "f": 149,
+     "t": 11.92,
+     "type": "PASS",
+     "name": "Pas",
+     "tid": 1087,
+     "team": 0,
+     "to": 1096,
+     "success": true
+    },
+    {
+     "f": 167,
+     "t": 13.36,
+     "type": "PASS",
+     "name": "Pas",
+     "tid": 1096,
+     "team": 0,
+     "to": 863,
+     "success": true
+    },
+    {
+     "f": 175,
+     "t": 14.0,
+     "type": "PASS",
+     "name": "Pas",
+     "tid": 863,
+     "team": 0,
+     "to": 1096,
+     "success": true
+    }
+   ]
+  },
+  "pitch_coverage": 0.0,
+  "wall_fps": 7.94,
+  "timing_ms_per_frame": {
+   "detect": 34.12,
+   "track_team": 17.37,
+   "homography": 23.1,
+   "logic": 20.76,
+   "draw": 14.31
+  }
+ }
+}
