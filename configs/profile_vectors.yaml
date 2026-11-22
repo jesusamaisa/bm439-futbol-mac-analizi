@@ -1,0 +1,44 @@
+# CIES Football Observatory "Technical profiling of football players" yönteminden uyarlanmıştır.
+# Her aksiyon türü iki eksenli bir düzlemde birim vektörle temsil edilir:
+#   +x = SAVUNMA (Defensive), -x = HÜCUM (Offensive), +y = MERKEZ (Centre), -y = KANAT (Side)
+# Açılar (derece, +x ekseninden saat yönünün tersine) CIES şemasından gözle ölçülmüştür (yaklaşık).
+# Hava mücadeleleri (AirChalAtt/AirChalDef) 2B videodan güvenilir çıkarılamadığından kullanılmaz.
+actions:
+  SHOT:      {angle: 177, cies: Shots}
+  KEY_PASS:  {angle: 212, cies: KeyPass}
+  DRIBBLE:   {angle: 225, cies: Dribbles}
+  CARRY:     {angle: 205, cies: "Dribbles (top taşıma ile genişletildi)"}
+  CROSS:     {angle: 253, cies: Crosses}
+  PASS:      {angle: 347, cies: Passes}
+  PICKUP:    {angle: 339, cies: PickUp}
+  TACKLE:    {angle: 319, cies: Tackles}
+  INTERCEPT: {angle: 357, cies: Intercept}
+
+# 8 sektör (45°) -> profil kategorisi
+categories:
+  - {center: 0,   name: "Top Kesici / Ön Libero",     axis: "Savunma"}
+  - {center: 45,  name: "Stoper",                     axis: "Savunma-Merkez"}
+  - {center: 90,  name: "Merkez Orta Saha",           axis: "Merkez"}
+  - {center: 135, name: "Hedef Santrfor",             axis: "Hücum-Merkez"}
+  - {center: 180, name: "Bitirici Forvet",            axis: "Hücum"}
+  - {center: 225, name: "Yaratıcı Kanat / Çalımcı",   axis: "Hücum-Kanat"}
+  - {center: 270, name: "Orta Yapan Kanat",           axis: "Kanat"}
+  - {center: 315, name: "Top Kazanan Bek",            axis: "Savunma-Kanat"}
+
+balanced_name: "Dengeli / Box-to-Box"
+min_magnitude: 0.18       # bu değerin altındaki vektörler "Dengeli" kabul edilir
+min_events: 3             # daha az olaylı oyuncular "Yetersiz veri"
+min_minutes: 0.15         # ekranda en az 9 sn görünmeyen izler profillenmez
+
+# Karakter kartı GENEL puanı: kategoriye göre özellik ağırlıkları (Dishant27/Football_Analysis
+# projesindeki pozisyona göre ağırlıklı Overall puanı fikrinden uyarlanmıştır)
+overall_weights:
+  default:                     {HIZ: 1, HAREKET: 1, PAS: 1, ISABET: 1, SURME: 1, SAVUNMA: 1, HUCUM: 1, KONTROL: 1}
+  "Bitirici Forvet":           {HIZ: 1.5, HAREKET: 0.8, PAS: 0.7, ISABET: 0.6, SURME: 1.2, SAVUNMA: 0.3, HUCUM: 2.5, KONTROL: 1.2}
+  "Hedef Santrfor":            {HIZ: 1, HAREKET: 1, PAS: 0.8, ISABET: 0.8, SURME: 0.8, SAVUNMA: 0.5, HUCUM: 2, KONTROL: 1.5}
+  "Yaratıcı Kanat / Çalımcı":  {HIZ: 1.5, HAREKET: 1, PAS: 1, ISABET: 0.8, SURME: 2, SAVUNMA: 0.4, HUCUM: 1.6, KONTROL: 1.2}
+  "Orta Yapan Kanat":          {HIZ: 1.5, HAREKET: 1.4, PAS: 1, ISABET: 0.8, SURME: 1.2, SAVUNMA: 0.8, HUCUM: 1.4, KONTROL: 0.8}
+  "Merkez Orta Saha":          {HIZ: 0.7, HAREKET: 1.3, PAS: 2, ISABET: 1.8, SURME: 1, SAVUNMA: 1, HUCUM: 0.8, KONTROL: 1.5}
+  "Top Kesici / Ön Libero":    {HIZ: 0.7, HAREKET: 1.3, PAS: 1.4, ISABET: 1.4, SURME: 0.6, SAVUNMA: 2.2, HUCUM: 0.4, KONTROL: 1}
+  "Stoper":                    {HIZ: 0.8, HAREKET: 1, PAS: 1, ISABET: 1.4, SURME: 0.4, SAVUNMA: 2.5, HUCUM: 0.3, KONTROL: 0.8}
+  "Top Kazanan Bek":           {HIZ: 1.3, HAREKET: 1.5, PAS: 1, ISABET: 1, SURME: 0.8, SAVUNMA: 2, HUCUM: 0.6, KONTROL: 0.8}
